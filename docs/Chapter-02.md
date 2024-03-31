@@ -87,15 +87,6 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 ![Carlos Orbegozo](../assets/imgs/Customer_journey_map_1.png)
 
 ### 2.3.4. Empathy Mapping
-Para el desarrollo de los Empathy Map hemos utilizado la información recopilada en base a nuestros dos User Personas que representan nuestro segmento.
-
-**_Clara Diaz - Doctora_**
-
-![Clara Diaz](<../assets/imgs/Clara Diaz - Empathy Mapping.png>)
-
-**_Carlos Orbegozo - Estudiante de Medicina_**
-
-![Carlos Orbegozo](<../assets/imgs/Carlos - Empathy Mapping.png>)
 
 ### 2.3.5. As-is Scenario Mapping
 
