@@ -16,7 +16,7 @@
 |     |      |      |                                                                                                  |
 | Noriega Suschenko Anatoly Andrey | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas | ![Anatoly Noriega](/assets/imgs/Anatoly.png)  | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.|
 | Garcia Rodriguez Gabriel Stefano | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas | ![Gabriel García](/assets/imgs/Gabriel.png)   | - Conocimientos de lenguajes de programación c++, python, html y css.<br>- Habilidades de liderazgo y contribución en equipo.                                                                                                                                                             |
-|               |  |        |                                                                                        |
+|  Apaza Morales Fabricio Josué Emanuel             | Ingeniería de Software<br> 5to Ciclo <br> 2024-01 <br> Universidad Peruana de Ciencias aplicadas|   ![alt text](../assets/imgs/fabricio.png)     |   - Conocimientos en lenguajes de programación como C++, Python, Html y CSS.Considero que puedo aportar en el equipo, ya que soy responsable y trato de cumplir con las partes que se delegan en el equipo. A la vez, colaboro con ideas para poder lograr un buen trabajo en equipo.|
 |            |  |   |  |
 
 ## 1.2. Solution Profile
