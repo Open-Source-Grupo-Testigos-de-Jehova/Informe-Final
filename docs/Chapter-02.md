@@ -15,11 +15,11 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>Macconsultor<br>![Macconsultor](../assets/imgs/Macconsultor.png)</td>
-    <td>SEPSA Abogados<br>![SEPSA](../assets/imgs/SEPSA.png)</td>
-    <td>Legify<br>![Legify](../assets/imgs/Legify.png)</td>
-    <td>Meeting Pros<br>![Meeting Pros](../assets/imgs/MeetingPros.png)</td>
-  </tr>
+    <td>Macconsultor<br><img src="../assets/imgs/Macconsultor.png" alt="Macconsultor"></td>
+    <td>SEPSA Abogados<br><img src="../assets/imgs/SEPSA.png" alt="SEPSA"></td>
+    <td>Legify<br><img src="../assets/imgs/Legify.png" alt="Legify"></td>
+    <td>Meeting Pros<br><img src="../assets/imgs/MeetingPros.png" alt="Meeting Pros"></td>
+</tr>
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
