@@ -18,6 +18,8 @@
 
 ### 1.2.1. Antecedentes y Problemática
 
+Los antecedentes son esenciales para una comprensión más profunda de la problemática en cuestión. Por esta razón, hemos aplicado la técnica de las "5W 2H":
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
