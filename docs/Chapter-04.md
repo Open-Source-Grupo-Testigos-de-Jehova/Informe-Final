@@ -106,3 +106,40 @@ Métodos de búsqueda de nuestra aplicación:
 En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a través de un menú de navegación principal ubicado en la parte superior de cada página. Este menú ofrece acceso directo a las secciones esenciales del sitio, como "Inicio", "Abogados", "Recursos", "Perfil", "Suscripción" y "Ajustes". Además, en cada página, se incluyen enlaces contextuales que permiten a los usuarios realizar acciones específicas relacionadas con el contenido actual. Por ejemplo, en la página del perfil del abogado, se ofrecen pestañas que facilitan la visualización de información personal, detalles de contacto y experiencia profesional. Los botones de llamada a la acción son visibles y accesibles, guiando a los usuarios hacia acciones importantes como iniciar sesión, registrarse o realizar pagos. Con un diseño efectivo, el sistema de navegación garantizará una experiencia de usuario óptima en todos los dispositivos, facilitando la búsqueda de información y la realización de acciones clave.
 
 ## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+#### Página principal:
+### 4.3.2. Landing Page Mock-up
+#### Página principal:
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.3. Web Applications Mock-ups
+### 4.4.4. Web Applications User Flow Diagrams
+
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+![alt text](<../assets/imgs/ContextDiagram.png>)
+### 4.6.2. Software Architecture Container Diagrams
+![alt text](<../assets/imgs/ContainerDiagram.png>)
+### 4.6.3. Software Architecture Components Diagrams
+![alt text](<../assets/imgs/ComponentDiagramAccess.png>)
+![alt text](<../assets/imgs/ComponentDiagramConsultation.png>)
+![alt text](<../assets/imgs/ComponentDiagramEducationalResource.png>)
+![alt text](<../assets/imgs/ComponentDiagramLegalCase.png>)
+![alt text](<../assets/imgs/ComponentDiagramPayment.png>)
+![alt text](<../assets/imgs/ComponentDiagramNotification.png>)
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+### 4.7.2. Class Dictionary
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
