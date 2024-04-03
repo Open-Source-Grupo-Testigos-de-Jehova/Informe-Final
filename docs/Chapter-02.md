@@ -128,10 +128,30 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 
 ### 2.2.2. Registro de entrevistas  
 
+#### Entrevista 1: Mision Augusto Noriega Ambulodegui
+Link de la entrevista: https://drive.google.com/file/d/1VNhL-g8b2xTTzm53uix9knN78Enx8its/view?usp=sharing
+
+#### Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
+El nombre del entrevistado es Mision Augusto Noriega Ambulodegui, trabaja en el hospital Guillermo Almenara Irigoyen como anestesiólogo.
+#### ¿Cuánto tiempo lleva ejerciendo la carrera de medicina y/o su especialidad?
+Lleva ejerciendo como médico por más de 30 años y 22 años aproximadamente en su especialidad.
+#### ¿Cómo se siente cada vez que tiene que realizar una intervención quirúrgica?
+El doctor Mision Noriega, como anestesiologo, se encarga de administrar la anestesia en intervenciones quirúrgicas en una variedad de especialidades médicas donde su presencia es necesaria. Es consciente de que todos los procedimientos quirúrgicos y anestésicos conllevan riesgos inherentes y entiende que, aunque la probabilidad puede ser pequeña, siempre existe la posibilidad de enfrentar complicaciones. A pesar de que se pueden conocer los antecedentes del paciente, subraya que cada caso es único y hay eventualidades que, aunque improbables, pueden ocurrir durante una cirugía.
+#### ¿Alguna vez ha enfrentado algún problema médico con un paciente? En caso no, ¿conoce algún caso?
+Menciona que en su caso nunca ha tenido un problema legal respecto al tema, pero que si ha tenido un suceso en el que uno de sus pacientes había fallecido a causa de la enfermedad que este tenía. Comenta también que son situaciones que podrían pasar ya sea antes, durante o después de una cirugía y que es un problema que varios médicos se enfrentan día a día. También ha oído casos, especialmente en las noticias, donde se logran apreciar casos que aparentemente son de negligencia médica, pero que, a veces, no se evaluan varios factores o que no se difunden correctamente.
+#### ¿Conoce a algún colega que haya tenido problemas con un paciente o con la familia de este debido al resultado de una cirugía?
+El Dr. Mision Augusto Noriega Ambulodegui fue involucrado en un caso legal tras una denuncia contra un colega ginecólogo por olvidar una gasa dentro de una paciente tras un procedimiento quirúrgico. Aunque no participó en la cirugía, su implicación surgió por haber otorgado el alta a la paciente. Ante la denuncia, y sin conocimiento previo del error, tuvo que contactar a un abogado para esclarecer su limitada responsabilidad en el cuidado postoperatorio. Finalmente, el caso se resolvió a su favor, pero el desenlace del caso contra su colega le quedó desconocido.
+#### Si tuviera algún problema con el resultado de la cirugía de su paciente, ¿que haría? ¿Buscaría ayuda profesional?
+El Dr. Mision destacó que en su institución existe un mecanismo de asesoría para el asegurado que incluye la evaluación de la seguridad del paciente en casos de fallecimiento. Este proceso es particularmente riguroso en situaciones de mortalidad materna e infantil; cualquier deceso materno, independientemente de la causa, desencadena automáticamente una investigación de auditoría médica. Esta práctica subraya el compromiso de la institución con la seguridad del paciente y la mejora continua de la calidad del cuidado médico.
+
+![Entrevista1](<../assets/imgs/Entrevista1.png>)
 
 ### 2.2.3. Análisis de entrevistas
-
-
+#### Entrevista 1: Mision Augusto Noriega Ambulodegui
+#### Hallazgos:
+Mision Augusto Noriega Ambulodegui compartió experiencias significativas relacionadas con los desafíos legales y médicos en su práctica como anestesiólogo. Destacó la importancia de la asesoría experta en casos de complicaciones médicas y denuncias. La mención de un mecanismo institucional para revisar casos de mortalidad materna e infantil refleja la necesidad crítica de contar con recursos educativos y de asesoramiento profesional para médicos. La ausencia de uso previo de aplicaciones especializadas en el ámbito del peritaje médico por parte del Dr. Noriega sugiere una oportunidad de mercado para una solución digital que facilite el acceso a conocimientos y asesoramiento en esta área crucial.
+#### Conclusiones:
+La entrevista con el Dr. Noriega destaca una clara oportunidad de mercado para una aplicación que proporcione asesoramiento experto y recursos educativos en peritaje médico. Su experiencia subraya la necesidad entre profesionales y estudiantes de medicina por una herramienta que facilite la comprensión y manejo de desafíos legales y médicos. La ausencia de uso previo de soluciones digitales en este ámbito sugiere una fuerte potencial de adopción para la aplicación propuesta.
 
 ## 2.3. Needfinding
 Posteriormente a las entrevistas, pudimos obtener la información sobre sus deseos, frustraciones, situación y múltiples datos que nos van a servir para satisfacer sus necesidades, mejorando la experiencia a nuestros usuarios. 
