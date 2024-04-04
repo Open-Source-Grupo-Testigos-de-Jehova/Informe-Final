@@ -318,4 +318,22 @@
         <td>Visualizar actividades del Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
     </tr>
+    <tr>
+        <td>7</td>
+        <td>US07</td>
+        <td>Búsqueda por Filtros</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder realizar búsqueda por medio de filtros para facilitar el acceso a ello.</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>US08</td>
+        <td>Suscripción a un plan</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de suscribirme a un plan mensual o anual para tener los beneficios de la suscripción.</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>US09</td>
+        <td>Visualización de Perfil de Abogado Médico</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
+    </tr>
 </table>
