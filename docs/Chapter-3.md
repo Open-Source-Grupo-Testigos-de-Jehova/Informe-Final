@@ -209,38 +209,6 @@
 
 <table>
   <tr>
-    <th colspan="5">Historia de Usuario 7</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU07</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP03</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">  Fabricio Apaza</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Búsqueda por Filtros</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder realizar búsqueda por medio de filtros para facilitar el acceso a ello.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Busqueda de Abogado Médico por el Usuario<br>
-    <br>DADO que soy un usuario que necesita realizar una búsqueda de abogado médico,<br>
-    <br>CUANDO selecciono la búsqueda por filtros,<br>
-    <br>ENTONCES escojo los parámetros de filtro y la búsqueda será exitosa de acuerdo a lo seleccionado.
-</td>
-</table>
-
-
-<table>
-  <tr>
     <th colspan="5">Historia de Usuario 8</th>
   </tr>
   <tr>
