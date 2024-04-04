@@ -104,7 +104,7 @@ El usuario puede ser un médico que necesite defensa legal en casos relacionados
 Nuestro producto encaja en la vida profesional de médicos y estudiantes de medicina, así como en la búsqueda de empleo de personas con experiencia en peritaje en anestesiología. Para los médicos, el producto puede ayudar a resolver problemas legales relacionados con la anestesiología, mientras que para los estudiantes y profesionales del peritaje en anestesiología, puede proporcionar oportunidades laborales y asesoramiento educativo.
 
 
-- ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+- ¿Qué problemas tiene nuestro producto y cómo se pueden resolver? 
 <br>
 - Problema 1: Falta de acceso a expertos en anestesiología para asesoramiento legal o educativo.
 <br>
@@ -151,9 +151,18 @@ A corto plazo, nuestra estrategia de crecimiento puede centrarse en la adquisici
 
 Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para asistencia legal y educativa, así como oportunidades laborales específicas en este campo. Además, nos enfocaremos en brindar una experiencia de usuario excepcional y contenido de alta calidad para establecer nuestra plataforma como líder en el mercado de servicios de anestesiología
 
-
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+- Creemos que si ofrecemos acceso directo a peritos en anestesiología para asistencia legal y educativa a través de nuestra plataforma web, entonces los médicos y estudiantes de medicina buscarán activamente nuestros servicios para resolver problemas relacionados con la anestesiología, lo cual sabremos que hemos tenido éxito cuando aumente la adopción de nuestra plataforma y la satisfacción del usuario.
+<br>
+- Creemos que si proporcionamos opciones de suscripción flexibles y asequibles para acceder a servicios especializados en nuestra plataforma, entonces aumentaremos la retención de usuarios y la rentabilidad del negocio, lo cual sabremos que hemos tenido éxito cuando mejore la viabilidad financiera de nuestra plataforma.
+<br>
+- Creemos que si establecemos asociaciones estratégicas con instituciones médicas y empresas del sector de la salud para ofrecer servicios adicionales, como programas de formación continua en anestesiología, entonces ampliaremos nuestra base de clientes y aumentaremos los ingresos generados por nuestra plataforma, lo cual sabemos que hemos tenido éxito cuando  fortalezcamos nuestra posición en el mercado y aumente la confianza de los usuarios.
+<br>
+- Creemos que si optimizamos la experiencia de usuario de nuestra plataforma, mejorando la navegación y la accesibilidad, entonces aumentaremos la satisfacción del usuario y la fidelidad a nuestra marca, lo cual sabremos que hemos tenido éxito cuando obtengamos una mayor retención de usuarios y un boca a boca positivo.
+<br>
+- Creemos que si implementamos una estrategia de marketing dirigida a médicos, estudiantes de medicina y profesionales del peritaje en anestesiología a través de canales específicos, como instituciones médicas y redes  profesionales, entonces aumentaremos el conocimiento de nuestra plataforma y la adquisición de nuevos usuarios, lo cual sabemos que hemos tenido éxito cuando impulsemos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma.
+<br>
 #### 1.2.2.4. Lean UX Canvas
 
 ![Lean UX Canvas](<../assets/imgs/Lean UX Canva OpenSource.png>)
