@@ -92,6 +92,66 @@ Entonces podríamos dar la siguiente declaración: "Cuando los médicos enfrenta
 
 #### 1.2.2.2. Lean UX Assumptions
 
+**User Assumptions**
+
+- ¿Quién es el usuario?
+
+El usuario puede ser un médico que necesite defensa legal en casos relacionados con anestesiología o un estudiante de medicina interesado en obtener asesoramiento sobre el peritaje en anestesiología. Además, personas que han estudiado peritaje en anestesiología y buscan oportunidades laborales pueden ser usuarios potenciales.
+
+
+- ¿Dónde encaja nuestro producto, en su trabajo o vida?
+
+Nuestro producto encaja en la vida profesional de médicos y estudiantes de medicina, así como en la búsqueda de empleo de personas con experiencia en peritaje en anestesiología. Para los médicos, el producto puede ayudar a resolver problemas legales relacionados con la anestesiología, mientras que para los estudiantes y profesionales del peritaje en anestesiología, puede proporcionar oportunidades laborales y asesoramiento educativo.
+
+
+- ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+<br>
+- Problema 1: Falta de acceso a expertos en anestesiología para asesoramiento legal o educativo.
+<br>
+ 	- Solución: Nosotros ofrecemos una plataforma donde los usuarios puedan encontrar peritos en anestesiología disponibles para asistencia legal y orientación educativa. 
+ <br>
+-  Problema 2: Falta de oportunidades laborales específicas en el campo del peritaje en anestesiología
+<br>
+ 	- Solución: El sistema puede conectar a los usuarios con empleadores que buscan estos perfiles.
+<br>
+- ¿Cuándo y cómo es usado nuestro producto?
+
+Nuestro producto podría ser utilizado por los usuarios en momentos en que enfrenten situaciones legales relacionadas con la anestesiología, como demandas por errores médicos. También podría ser utilizado por estudiantes de medicina interesados en aprender más sobre el peritaje en anestesiología y por profesionales que buscan oportunidades laborales en este campo. El producto sería utilizado a través de la plataforma en línea, donde los usuarios pueden acceder a los servicios de asesoramiento legal, educativo y de empleo.
+
+- ¿Qué características son importantes?
+
+Características importantes pueden incluir un directorio de peritos en anestesiología disponibles para asistencia legal, recursos educativos sobre el peritaje en anestesiología, una sección de ofertas de empleo para profesionales en este campo, opciones de suscripción para acceder a diferentes niveles de servicios y una interfaz fácil de usar y navegación intuitiva.
+
+
+- ¿Cómo debe verse nuestro producto y cómo debe comportarse?
+
+El producto debe tener una apariencia profesional y confiable, con un diseño limpio y fácil de entender. Debe comportarse de manera eficiente, brindando acceso rápido y fácil a los recursos y servicios necesarios para los usuarios. La plataforma debe ser intuitiva y fácil de navegar, con opciones claras y concisas para acceder a diferentes funciones y servicios.
+
+
+
+**Business Assumptions**
+
+- ¿Cuál es nuestro mercado objetivo y cómo podemos alcanzarlo?
+
+Nuestro mercado objetivo son médicos que necesiten defensa legal en casos relacionados con anestesiología, estudiantes de medicina interesados en el peritaje en anestesiología y profesionales del peritaje en anestesiología en busca de oportunidades laborales. Podemos alcanzarlos mediante campañas de marketing dirigidas a instituciones médicas, facultades de medicina y asociaciones profesionales relacionadas con la anestesiología.
+
+- ¿Cuál es nuestra estrategia de monetización y cómo podemos garantizar la rentabilidad?
+
+Nuestra estrategia de monetización se basa en ofrecer planes de suscripción para acceder a los servicios de la plataforma. Además, podemos generar ingresos a través de asociaciones con instituciones médicas para ofrecer servicios adicionales, como programas de formación continua en anestesiología. Para garantizar la rentabilidad, debemos asegurarnos de que nuestros planes de suscripción están estratégicamente diseñados para atraer a los usuarios y ofrecer un valor significativo.
+
+- ¿Cuáles son nuestros costos operativos y cómo podemos mantenerlos bajo control?
+
+Nuestros costos operativos incluirían el desarrollo y mantenimiento de la plataforma web, así como los costos asociados con la contratación de personal especializado en anestesiología para proporcionar servicios de asesoramiento legal y educativo. Para mantener estos costos bajo control, podemos considerar la externalización de ciertas funciones y la optimización de nuestros procesos internos.
+
+- ¿Cuál es nuestra estrategia de crecimiento a corto y largo plazo?
+
+A corto plazo, nuestra estrategia de crecimiento puede centrarse en la adquisición de usuarios y la mejora de la plataforma para aumentar la retención. A largo plazo, podemos expandir nuestros servicios para incluir otras áreas de especialización médica y buscar asociaciones estratégicas con instituciones médicas y empresas del sector de la salud.
+
+- ¿Cómo vamos a diferenciarnos de la competencia y crear una propuesta de valor única?
+
+Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para asistencia legal y educativa, así como oportunidades laborales específicas en este campo. Además, nos enfocaremos en brindar una experiencia de usuario excepcional y contenido de alta calidad para establecer nuestra plataforma como líder en el mercado de servicios de anestesiología
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### 1.2.2.4. Lean UX Canvas
