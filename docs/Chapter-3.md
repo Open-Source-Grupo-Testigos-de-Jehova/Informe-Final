@@ -281,24 +281,28 @@
         <th>User Story/Technical Story Id</th>
         <th>Título</th>
         <th>Descripción</th>
+        <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>1</td>
+        <td>US01</td>
+        <td>Gestión de las cuentas de los usuarios</td>
+        <td>Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
+        <td>3</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>2</td>
+        <td>US02</td>
+        <td>Verificación de credenciales médicas</td>
+        <td>Como médico registrado en la plataforma, quiero que mi perfil pase por un proceso de verificación de credenciales médicas para aumentar mi credibilidad dentro de la comunidad y tener acceso a recursos especializados.</td>
+        <td>5</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>3</td>
+        <td>US03</td>
+        <td>Gestión de roles de cuentas</td>
+        <td>Como administrador de la plataforma, necesito poder asignar, modificar y revocar roles de usuario para gestionar adecuadamente el acceso a diversas áreas de la plataforma.</td>
+        <td>5</td>
     </tr>
     <tr>
         <td>4</td>
