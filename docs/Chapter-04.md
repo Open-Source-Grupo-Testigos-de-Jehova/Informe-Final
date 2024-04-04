@@ -26,7 +26,10 @@ De tal modo, se presentan nuestros 5 colores principales:
 4. #A67360: Marrón Suave
 5. #403A3A: Gris oscuro
 
+![alt text](../assets/imgs/Colores.png)
 ### 4.1.2. Web Style Guidelines
+Para el Web Style Guidelines del sitio web MedicDefense se utilizó con mayor presencia los colores pasteles en base a una paleta de colores que genere confianza y un ambiente acogedor para el usuario. El logo genera presencia por la combinación de elementos que transmiten una imagen sólida y confiable. A su vez, se ideó un estilo minimalista en el desarrollo del Landing Page para que el usuario tenga la facilidad de navegar y pueda observar las secciones con mayor orden. El tipo de Letra Open Sans combina con los colores anteriormente seleccionados, ya que brinda mayor flexibilidad y versatilidad.
+Para el desarrollo de los mockups y wireframes se utilizó en base a desarrollo web para pantallas de escritorio.
 
 ## 4.2. Information Architecture
 
