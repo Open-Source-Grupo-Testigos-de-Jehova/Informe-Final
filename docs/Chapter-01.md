@@ -16,13 +16,13 @@ Visión (Metas a medio o largo plazo):
 
 ### 1.1.2. Perfiles de Integrantes del equipo
 
-| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                   | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Augusto Mathias  Vasquez Requejo  | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas  |     ![Mathias Vasquez](../assets/imgs/mathifaa.png)  |     - Conocimientos en lenguajes de programación como C++, JavaScript, HTML, CSS.<br> - Responsabilidad y dedicación con los trabajos grupales.
-| Noriega Suschenko Anatoly Andrey     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Anatoly Noriega](/assets/imgs/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                                                         |
-| Garcia Rodriguez Gabriel Stefano     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Gabriel García](/assets/imgs/Gabriel.png)  | - Conocimientos de lenguajes de programación c++, python, html y css.<br>- Habilidades de liderazgo y contribución en equipo.                                                                                                                                                       |
-| Apaza Morales Fabricio Josué Emanuel | Ingeniería de Software<br> 5to Ciclo <br> 2024-01 <br> Universidad Peruana de Ciencias aplicadas | ![alt text](../assets/imgs/fabricio.png)     | - Conocimientos en lenguajes de programación como C++, Python, Html y CSS.Considero que puedo aportar en el equipo, ya que soy responsable y trato de cumplir con las partes que se delegan en el equipo. A la vez, colaboro con ideas para poder lograr un buen trabajo en equipo. |
-| Flores Avalos Diego                  | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![alt text](../assets/imgs/diego.png)        | - Conocimientos de programación en los lenguajes C++, HTML, CSS y JavaScript.<br> - Considero que soy una persona responsable y que se esfuerza en lograr un buen desempeño en los trabajos grupales.                                                                               |
+| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                      | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Augusto Mathias Vasquez Requejo      | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Mathias Vasquez](../assets/imgs/mathifaa.png) | - Conocimientos en lenguajes de programación como C++, JavaScript, HTML, CSS.<br> - Responsabilidad y dedicación con los trabajos grupales.                                                                                                                                         |
+| Noriega Suschenko Anatoly Andrey     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Anatoly Noriega](/assets/imgs/Anatoly.png)    | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                                                         |
+| Garcia Rodriguez Gabriel Stefano     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Gabriel García](/assets/imgs/Gabriel.png)     | - Conocimientos de lenguajes de programación c++, python, html y css.<br>- Habilidades de liderazgo y contribución en equipo.                                                                                                                                                       |
+| Apaza Morales Fabricio Josué Emanuel | Ingeniería de Software<br> 5to Ciclo <br> 2024-01 <br> Universidad Peruana de Ciencias aplicadas | ![alt text](../assets/imgs/fabricio.png)        | - Conocimientos en lenguajes de programación como C++, Python, Html y CSS.Considero que puedo aportar en el equipo, ya que soy responsable y trato de cumplir con las partes que se delegan en el equipo. A la vez, colaboro con ideas para poder lograr un buen trabajo en equipo. |
+| Flores Avalos Diego                  | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![alt text](../assets/imgs/diego.png)           | - Conocimientos de programación en los lenguajes C++, HTML, CSS y JavaScript.<br> - Considero que soy una persona responsable y que se esfuerza en lograr un buen desempeño en los trabajos grupales.                                                                               |
 
 ## 1.2. Solution Profile
 
@@ -45,7 +45,7 @@ Los antecedentes son esenciales para una comprensión más profunda de la proble
 
 - ¿Cuándo suele surgir la necesidad de asesoramiento legal para los médicos en casos de problemas durante una operación?
 - ¿Cuándo se requiere la presencia de peritos en anestesiología en situaciones legales?
-        
+
 **Who:**
 
 - ¿Quiénes son los principales afectados cuando ocurre un problema durante una operación?
@@ -78,6 +78,16 @@ Los antecedentes son esenciales para una comprensión más profunda de la proble
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-### 1.2.2.4. Lean UX Canvas
+#### 1.2.2.4. Lean UX Canvas
+
+![Lean UX Canvas](<../assets/imgs/Lean UX Canva OpenSource.png>)
 
 ## 1.3. Segmento Objetivo
+
+Establecer y definir un segmento objetivo es fundamental para el desarrollo exitoso de esta etapa del proyecto. Como resultado, los futuros clientes del segmento tendrán un producto que cumpla sus necesidades. Esto llevó a la definición del siguiente segmento objetivo.
+
+Segmento 1: Para nuestro primer segmento objetivo está compuesto por médicos que buscan asistencia legal especializada de parte de nuestros abogados expertos en medicina legal. Este grupo incluye a profesionales médicos de diversas especialidades, desde médicos generales hasta cirujanos y especialistas en áreas específicas como la obstetricia, la oncología o la neurología.
+
+Estos médicos enfrentan una serie de desafíos legales en su práctica clínica diaria, que van desde cuestiones relacionadas con la responsabilidad profesional y la mala praxis médica hasta la interpretación de regulaciones y normativas sanitarias. La complejidad creciente del entorno legal y regulatorio en el que operan los profesionales de la salud hace que sea fundamental contar con asesoramiento legal sólido y especializado.
+
+Segmento 2: Este segmento objetivo estará compuesto por estudiantes de medicina, residentes, internos y practicantes recién graduados que buscan adquirir nuestras suscripciones para obtener acceso a consultas legales especializadas en medicina. Estos individuos están en las primeras etapas de sus carreras médicas y reconocen la importancia de comprender el marco legal en el que operan como futuros profesionales de la salud.
