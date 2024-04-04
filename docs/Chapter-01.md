@@ -74,6 +74,22 @@ Los antecedentes son esenciales para una comprensión más profunda de la proble
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+- Problem Statement 1 
+
+En entornos médicos, los médicos pueden enfrentar situaciones legales complicadas cuando algo sale mal durante una operación. Estas situaciones pueden surgir debido a diversos factores, como complicaciones inesperadas, errores médicos o disputas con pacientes o familiares. Sin embargo, muchos médicos carecen de acceso a recursos legales especializados y orientación adecuada para enfrentar estos desafíos de manera efectiva. Esta falta de apoyo puede llevar a una mayor vulnerabilidad legal, estrés emocional y profesional, así como a una posible disminución en la calidad de la atención médica proporcionada. 
+
+Entonces podríamos dar la siguiente declaración: "Para los médicos que se ven envueltos en situaciones legales tras incidentes durante operaciones, la falta de orientación y recursos jurídicos especializados los deja expuestos a riesgos legales significativos. Esta falta de apoyo impacta negativamente en su bienestar emocional y profesional, generando una disminución en la calidad de la atención médica y en la confianza del paciente."
+
+¿De qué manera nuestra solución tecnológica innovadora puede ayudar a los médicos en su estado de ánimo en caso se encontrasen bajo presión ya sea por temas judiciales o administrativos? 
+
+- Problem Statement 2
+
+Cuando ocurren resultados adversos durante operaciones médicas, los médicos pueden encontrarse en medio de disputas legales que requieren una defensa sólida. Sin embargo, la falta de acceso a expertos legales especializados y recursos para una defensa adecuada puede dejar a los médicos en una situación de incertidumbre y estrés. Esta falta de apoyo no solo distrae a los médicos de sus responsabilidades clínicas, sino que también puede afectar la eficiencia del sistema de atención médica y, lo que es más importante, la seguridad del paciente.
+
+Entonces podríamos dar la siguiente declaración: "Cuando los médicos enfrentan desafíos legales debido a resultados adversos durante operaciones, la falta de acceso a expertos legales especializados y recursos para la defensa adecuada crea un ambiente de incertidumbre y estrés. Esto se traduce en una distracción significativa de sus responsabilidades clínicas, erosionando la eficiencia del sistema de atención médica y comprometiendo la seguridad del paciente."
+
+¿De qué manera nuestra solución tecnológica innovadora puede aliviar los niveles de estrés en los doctores que están pasando por algún desafío legal y de esta manera no se vea afectada su calidad en las operaciones que este realiza?
+
 #### 1.2.2.2. Lean UX Assumptions
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
