@@ -4,6 +4,16 @@
 
 ### 1.1.1. Descripción de la StartUp
 
+Nuestro sitio web ofrece el servicio de asistencia de perito en el área médica de anestesiología. Nuestros clientes pueden ser médicos que requieran alguna defensa legal y/o estudiantes de medicina que requieran de una asesoría sobre lo que implica estudiar peritaje en anestesiología, y además darle oportunidades laborales a personas que hayan estudiado peritaje en anestesiología. Para que nuestra plataforma sea autosostenible los clientes pueden adquirir diversos planes de suscripción.
+
+Misión:
+
+- Nuestra misión se basa en apoyar a los médicos que necesitan dicha defensa en caso de presentarse en algún juicio y a su vez brindar oportunidades laborales a los médicos que deseen prestar sus servicios a sus colegas, mediante una solución tecnológica.
+
+Visión (Metas a medio o largo plazo):
+
+- Poder asentarnos como la primera plataforma en nuestro país de defensa médica a los mismos trabajadores en el área de medicina.
+
 ### 1.1.2. Perfiles de Integrantes del equipo
 
 | Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                   | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
