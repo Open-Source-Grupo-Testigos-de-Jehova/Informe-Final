@@ -268,7 +268,32 @@
     <br>ENTONCES entro a la sección “Perfiles de Abogados” dentro del sitio web y podré visualizar.
 </td>
 </table>
-
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 10</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU10</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP02</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">Mathias Vasquez</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Visualizacion de mis documentos</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como médico registrado en la plataforma, quiero ver una vez haya adquirido un plan o un servicio los documentos que me proporciona el perito medico que seleccioné.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Visualizacion y verificacion de respuesta por parte del perito.<br><br>Dado que soy un médico que se registra en la plataforma <br><br>Y necesito tener acceso a los documentos de mi caso<br><br>Cuando ingrese a mi perfil espero poder visualizar todo mi proceso legal,<br><br>Y entrar a verificar cada uno de los documentos<br><br>Entonces la plataforma inicia el proceso de acceso y visualizacion a dicho apartado<br><br>Y una vez haya visto dichos documentos podré cambiar de interfaz.</td>
+</table>
 
 
 ## 3.3. Impact Mapping
