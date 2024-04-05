@@ -165,6 +165,8 @@ Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para 
 
 #### 1.2.2.4. Lean UX Canvas
 
+- Mediante un Lean UX Canvas podemos mostrar nuestro trabajo referente a los puntos de User and Business Benefits and outcomes"  de manera resumida y mas accesible al lector. Tambien se resume la problematica que estamos abordando y la solucion que proponemos.
+
 ![Lean UX Canvas](<../assets/imgs/Lean UX Canva OpenSource.png>)
 
 ## 1.3. Segmento Objetivo
