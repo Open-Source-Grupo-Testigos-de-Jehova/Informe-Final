@@ -272,6 +272,99 @@
 
 <table>
   <tr>
+    <th colspan="5">Historia de Usuario 10</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU10</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP01</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">  Mathias Vasquez</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Visualización del caso y documentos</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Visualización de documentacion<br>
+    <br>DADO que soy un usuario que quiere ver todo mi caso con su respectiva documentacion en MedicDefense,<br>
+    <br>CUANDO yo lo desee, tendré la capacidad de ver dicha documentacion,<br>
+    <br>ENTONCES entro a la sección “Perfil” dentro del sitio web y podré visualizar toda la documentacion de mi caso.
+</td>
+</table>
+
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 11</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU11</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP01</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">  Mathias Vasquez</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Contacto directo con mi medico asesor</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Contacto con el medido asesor seleccionado<br>
+    <br>DADO que soy un usuario que quiere contactarse con su medico asesor en MedicDefense,<br>
+    <br>CUANDO yo lo desee podré mantener contacto con el medico asesor mediante el sitio web o su contacto personal,<br>
+    <br>ENTONCES entro a la sección “Perfiles de Abogados” dentro del sitio web y podré tener la informacion del medico asesor que seleccioné para poder tener contacto con él.
+</td>
+</table>
+
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 12</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU12</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP01</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">  Mathias Vasquez</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Cambiar de medico asesor</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Cambio de medico defensor/asesor<br>
+    <br>DADO que soy un usuario que quiere cambiar de medico defensor o asesor<br>
+    <br>CUANDO yo asi lo desee poder tener contacto con el sitio web y solicitarles personalmente un cambio en el medico que me esta defendiendo o asesorando,<br>
+    <br>ENTONCES entro a la sección "Contacto", quiero que se me atienda la solicitud de cambio. 
+</td>
+</table>
+
+<table>
+  <tr>
     <th colspan="5">Historia de Usuario 13</th>
   </tr>
   <tr>
