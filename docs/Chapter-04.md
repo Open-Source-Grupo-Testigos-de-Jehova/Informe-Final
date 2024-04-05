@@ -127,15 +127,23 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
+#### System Context Diagram
 ![alt text](<../assets/imgs/ContextDiagram.png>)
 ### 4.6.2. Software Architecture Container Diagrams
+#### Container Diagram
 ![alt text](<../assets/imgs/ContainerDiagram.png>)
 ### 4.6.3. Software Architecture Components Diagrams
+#### Bounded Context Access Diagram
 ![alt text](<../assets/imgs/ComponentDiagramAccess.png>)
+#### Bounded Context Consultation Diagram
 ![alt text](<../assets/imgs/ComponentDiagramConsultation.png>)
+#### Bounded Context Educational Resource Diagram
 ![alt text](<../assets/imgs/ComponentDiagramEducationalResource.png>)
+#### Bounded Context Legal Case Diagram
 ![alt text](<../assets/imgs/ComponentDiagramLegalCase.png>)
+#### Bounded Context Payment Diagram
 ![alt text](<../assets/imgs/ComponentDiagramPayment.png>)
+#### Bounded Context Notification Diagram
 ![alt text](<../assets/imgs/ComponentDiagramNotification.png>)
 
 ## 4.7. Software Object-Oriented Design
