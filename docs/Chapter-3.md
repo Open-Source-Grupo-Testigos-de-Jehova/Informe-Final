@@ -525,4 +525,22 @@
         <td>Visualización de Perfil de Abogado Médico</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
     </tr>
+    <tr>
+        <td>10</td>
+        <td>US10</td>
+        <td>Visualización del caso y documentos</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>US11</td>
+        <td>Contacto directo con mi medico asesor</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>US12</td>
+        <td>Cambiar de medico asesor</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
+    </tr>
 </table>
