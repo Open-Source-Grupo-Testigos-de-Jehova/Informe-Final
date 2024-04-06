@@ -530,17 +530,20 @@
         <td>US10</td>
         <td>Visualización del caso y documentos</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
+        <td>5</td>
     </tr>
     <tr>
         <td>11</td>
         <td>US11</td>
         <td>Contacto directo con mi medico asesor</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
+        <td>5</td>
     </tr>
     <tr>
         <td>12</td>
         <td>US12</td>
         <td>Cambiar de medico asesor</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
+        <td>8</td>
     </tr>
 </table>
