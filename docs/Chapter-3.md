@@ -494,18 +494,21 @@
         <td>US04</td>
         <td>Eliminar cuenta Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense,necesito poder eliminar mi cuenta en caso sea necesario para no tener vinculo con el sitio web.</td>
+        <td>3</td>
     </tr>
      <tr>
         <td>5</td>
         <td>US05</td>
         <td>Visualización de lista de tipos de suscripción</td>
         <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
+        <td>8</td>
     </tr>
     <tr>
         <td>6</td>
         <td>US06</td>
         <td>Visualizar actividades del Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
+        <td>5</td>
     </tr>
     <tr>
         <td>7</td>
