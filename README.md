@@ -12,12 +12,12 @@
  Nombre del StartUp: Testigos de Jehova  
  Nombre del Producto: MedicDefensed  
 Relación de Integrantes:  
+
 - Vasquez Requejo, Augusto Mathias Leonardo - U20221A955  
 - Garcia Rodriguez,  Gabriel Stefano - U202018627  
 - Noriega Suschenko, Anatoly Andrey  - U202211813  
 - Flores Avalos, Diego - U20221B394  
 - Apaza Morales, Fabricio - U201922146  
-
 
 ## Historial de Versiones
 
@@ -30,8 +30,7 @@ Relación de Integrantes:
 |         |            |                             |                   |
 |         |            |                             |                   |
 
-
-# Índice
+## Índice
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. StartUp Profile](#11-startup-profile)
@@ -130,7 +129,5 @@ Relación de Integrantes:
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |-----------------|--------------------|---------------------|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |                    |                     |
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.
-|                    |                     |
-
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Gabriel Stefano Garcia Rodriguez <br> TB1: User Personas, User task Matrix, User Journey Mapping, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Database Design, Database Diagram, 1 Entrevista, Landing Page, Services & Applications Implementation |                 |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Gabriel Stefano Garcia Rodriguez <br> TB1: User Personas, User task Matrix, User Journey Mapping, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Database Design, Database Diagram, 1 Entrevista, Landing Page, Services & Applications Implementation|                       |
