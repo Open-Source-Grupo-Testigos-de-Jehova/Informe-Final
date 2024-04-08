@@ -146,6 +146,31 @@ El Dr. Mision destacó que en su institución existe un mecanismo de asesoría p
 
 ![Entrevista1](<../assets/imgs/Entrevista1.png>)
 
+#### Entrevista 2: Augusto Manuel Vasquez Carrasco (Medico)
+Link de la entrevista: https://youtu.be/X4m2RZOYVh0
+ 
+#### Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
+El nombre del entrevistado es Augusto ,Manuel Vasquez Carrasco , trabaja en el INSN en San borja, y varias clinias en el sector privado.
+#### ¿Cuánto tiempo lleva ejerciendo la carrera de medicina y/o su especialidad?
+#### ¿Cómo se siente cada vez que tiene que realizar una intervención quirúrgica?
+#### ¿Alguna vez ha enfrentado algún problema médico con un paciente? En caso no, ¿conoce algún caso?
+#### ¿Conoce a algún colega que haya tenido problemas con un paciente o con la familia de este debido al resultado de una cirugía?
+#### Si tuviera algún problema con el resultado de la cirugía de su paciente, ¿que haría? ¿Buscaría ayuda profesional?
+
+![Entrevista2](<../assets/imgs/Entrevista 2 Medico.png>)
+
+#### Entrevista 3: Liliana Edith Requejo Lozada (Medico)
+Link de la entrevista: https://youtu.be/YS7eacvd0Jg 
+
+#### Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
+#### ¿Cuánto tiempo lleva ejerciendo la carrera de medicina y/o su especialidad?
+#### ¿Cómo se siente cada vez que tiene que realizar una intervención quirúrgica?
+#### ¿Alguna vez ha enfrentado algún problema médico con un paciente? En caso no, ¿conoce algún caso?
+#### ¿Conoce a algún colega que haya tenido problemas con un paciente o con la familia de este debido al resultado de una cirugía?
+#### Si tuviera algún problema con el resultado de la cirugía de su paciente, ¿que haría? ¿Buscaría ayuda profesional?
+
+![Entrevista3](<../assets/imgs/Entrevista 3 Medico.png>)
+
 **Entrevista 2: Vanessa Castillo (Estudiante de Medicina)**
 
 Link de la entrevista: https://drive.google.com/file/d/1mJLBE8t4ly_WCAdv1KpC0yVjmPrivafv/view?usp=sharing
