@@ -146,12 +146,60 @@ El Dr. Mision destacó que en su institución existe un mecanismo de asesoría p
 
 ![Entrevista1](<../assets/imgs/Entrevista1.png>)
 
+**Entrevista 2: Vanessa Castillo (Estudiante de Medicina)**
+
+Link de la entrevista: https://drive.google.com/file/d/1mJLBE8t4ly_WCAdv1KpC0yVjmPrivafv/view?usp=sharing
+
+#### Presentación(Nombre, edad, centro de estudios)
+
+Vanessa Castillo, 21 años, Universidad Privada del Norte
+
+#### ¿Cuánto tiempo llevas estudiando medicina?
+
+2 años y medio estudiando
+
+#### ¿Estás desempeñando practicas médicas en algún Hospital? ¿En que hospital?
+
+Si, actualmente en una clinica de Los Olivos.
+
+#### ¿Has tenido alguna mala experiencia mientras realizabas tus practicas médicas? ¿Conociste a alguien que haya tenido una mala experiencia?
+
+No tuve una mala experiencia como tal, pero si compañeros y profesores contaron sus malas experiencias que tuvieron en el transcurso de su formacion academica.
+
+#### ¿Alguna vez has escuchado sobre las negligencias médicas que ocurren en el país? Que opinas sobre eso?
+
+Si, ahora ultimo en las noticias mas que todo, y bueno yo opino ue es muy triste, ¿no? Un acto inhumano por parte de los médicos que, no sé, es es un trabajo mal, ya que, necesitamos prepararnos constantemente como profesionales de la salud, ya que estamos tratando con seres vivos, personas o animales, y es importante prevalecer la salud en ellos. Y bueno, más que todo porque nos dan la confianza
+
+#### ¿Qué conocimientos tienes sobre la responsabilidad médica y las posibles implicaciones legales que pueden surgir durante la práctica clínica?
+
+No tengo muchos conocimientos acerca de la responsabilidad medica salvo un curso que tome en los primeros ciclos.
+
+#### ¿Has recibido alguna formación o orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante tu formación médica? ¿Cómo cuales?
+
+Si he tenido alguna formación de, este, directamente todavía, obviamente, me falta del el transcurso del de mi preparación, pero poco a poco los profesores eso nos inculcan, más que todo el el abordaje, para el abordaje de un paciente. Como paso básico siempre nos mandan, este, más que todo los primeros auxilios en los pacientes. Desde el primer paso y y lo más importante es siempre estar en en capacitación. Si los profesores no nos lo dan, buscar por nosotros mismos los medios.
+  
+#### ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, que hizo al respecto?
+
+Más que todo como negligencia no suena así, pero sí nos contó una experiencia así mi profesor, que era mi profesor de anatomía y fisiología. Como primer año de estudiante, nos contó una pequeña historia que bueno, pasamos cualquier estudiante de salud, nos contó esa anécdota como para estar preparado para todos, en ese caso se presentó en un accidente y él estaba ahí y la persona creo que se estaba atragantando, y bueno, al no tener claro cómo actuar por este y el mismo entorno,la gente que se asusta, la presión que siente uno, la ansiedad, nervios, tal vez, no se pudo concentrar en ayudar a la persona, pero ya a lo largo del tiempo pudo controlar ese tipo de actitudes y ya poder enfrentar mejor esa situación, si es que en caso vuelva a pasar.
+
+#### ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Como cuales: asesorías, cursos, talleres, etc?
+
+Sí, claro que sí, a cualquier estudiante de salud le gustaría. Citas asesoradas por especialistas, con mayor experiencia, los profesores que sepan, Incluso talleres, cursos, reforzamientos, todo. Creo que no soy la única. Ya todas las personas necesariamente que están estudiando áreas de la salud deberían saberlo. Y y bueno, las personas de no solamente del área de salud, sino todos, porque es importante. Pero en en el área de la salud creo que es indispensable que lo sepa.
+
+![alt text](../assets/imgs/entrevista-vanessa.png)
+
 ### 2.2.3. Análisis de entrevistas
 #### Entrevista 1: Mision Augusto Noriega Ambulodegui
 #### Hallazgos:
 Mision Augusto Noriega Ambulodegui compartió experiencias significativas relacionadas con los desafíos legales y médicos en su práctica como anestesiólogo. Destacó la importancia de la asesoría experta en casos de complicaciones médicas y denuncias. La mención de un mecanismo institucional para revisar casos de mortalidad materna e infantil refleja la necesidad crítica de contar con recursos educativos y de asesoramiento profesional para médicos. La ausencia de uso previo de aplicaciones especializadas en el ámbito del peritaje médico por parte del Dr. Noriega sugiere una oportunidad de mercado para una solución digital que facilite el acceso a conocimientos y asesoramiento en esta área crucial.
 #### Conclusiones:
 La entrevista con el Dr. Noriega destaca una clara oportunidad de mercado para una aplicación que proporcione asesoramiento experto y recursos educativos en peritaje médico. Su experiencia subraya la necesidad entre profesionales y estudiantes de medicina por una herramienta que facilite la comprensión y manejo de desafíos legales y médicos. La ausencia de uso previo de soluciones digitales en este ámbito sugiere una fuerte potencial de adopción para la aplicación propuesta.
+
+**Entrevista 2: Vanessa Castillo**
+
+**Conclusiones:**
+
+Después de realizar las entrevistas, se obtuvo información valiosa sobre las experiencias y perspectivas de los usuarios en relación a los servicios de tecnología. En el caso de la entrevista con Vanessa Castillo, una estudiante de medicina, se destacó su interés en tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro. Además, mencionó la importancia de recibir formación y orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante su formación médica. Estos hallazgos nos permiten comprender mejor las necesidades y expectativas de nuestros usuarios y nos ayudarán a diseñar soluciones que satisfagan sus requerimientos.
 
 ## 2.3. Needfinding
 Posteriormente a las entrevistas, pudimos obtener la información sobre sus deseos, frustraciones, situación y múltiples datos que nos van a servir para satisfacer sus necesidades, mejorando la experiencia a nuestros usuarios. 
