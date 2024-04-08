@@ -429,7 +429,7 @@ User Task: El usuario inicia sesión en MedicDefense, va a su perfil, selecciona
 
 En esta sección, se presenta el link del prototipo de la Aplicación Web, mediante la herramienta de prototipado de Figma.
 
-
+https://www.figma.com/proto/DDtoiHzqyJvkeeL3M4CMG7/Testigos-de-Jehova-MU?type=design&t=dlyOvPICv7sXtodj-1&scaling=min-zoom&page-id=0%3A1&node-id=2-9087&mode=design
 
 ## 4.6. Domain-Driven Software Architecture
 
