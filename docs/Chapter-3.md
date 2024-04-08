@@ -457,6 +457,13 @@
 </table>
 
 ## 3.3. Impact Mapping
+En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
+
+**Segmento 1**
+![alt text](<../assets/imgs/Impact map - Clara.png>)
+
+**Segmento 2**
+![alt text](<../assets/imgs/Impact map - Carlos.png>)
 
 ## 3.4. Product Backlog
 
@@ -515,18 +522,21 @@
         <td>US07</td>
         <td>Búsqueda por Filtros</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder realizar búsqueda por medio de filtros para facilitar el acceso a ello.</td>
+        <td>5</td>
     </tr>
     <tr>
         <td>8</td>
         <td>US08</td>
         <td>Suscripción a un plan</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de suscribirme a un plan mensual o anual para tener los beneficios de la suscripción.</td>
+        <td>5</td>
     </tr>
     <tr>
         <td>9</td>
         <td>US09</td>
         <td>Visualización de Perfil de Abogado Médico</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
+        <td>5</td>
     </tr>
     <tr>
         <td>10</td>
