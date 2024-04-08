@@ -46,3 +46,96 @@ GitHub.
 5) Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra página web se haya desplegado correctamente.
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+### 5.2.1.1. Sprint Planning 1
+
+
+
+### 5.2.1.2. Sprint Backlog 1
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+</table>
+
+### 5.2.1.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">b6d10b1</td>
+        <td colspan="2">feat: added contact section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
+</table>
+
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Para este sprint realizamos los features de nuestro Sprint Backlog con
+sus respectivos criterios de aceptación.
+
+### 5.2.1.5. Execution Evidence for Sprint Review
+
+
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
