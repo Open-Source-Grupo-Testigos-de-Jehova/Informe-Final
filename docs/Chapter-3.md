@@ -457,6 +457,7 @@
 </table>
 
 ## 3.3. Impact Mapping
+
 En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
 
 **Segmento 1**
@@ -558,5 +559,26 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Cambiar de medico asesor</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
         <td>8</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>US13</td>
+        <td>Visualización de servicios</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>US14</td>
+        <td>Sección de contacto</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>US15</td>
+        <td>Sección de about us</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
+        <td>3</td>
     </tr>
 </table>
