@@ -23,7 +23,8 @@ En la siguiente sección se describe la ruta de referencia de cada uno de los pr
 Trabajamos con tres ramas principales:
 - Main: nuestra rama principal donde presentaremos nuestras
 publicaciones oficiales.
-- Branch: Se descompone en ramas por cada feature trabajado, diviendose asi en cada chapter correspondiente del 1 al 5.
+
+![alt text](<../assets/imgs/network graph.png>)
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
