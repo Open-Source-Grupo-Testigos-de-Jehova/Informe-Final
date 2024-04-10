@@ -1,6 +1,7 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron nuevos procesos enfocados en mejorar las fases de los segmentos objetivos con nuestro proyecto.
 
 **_Segmento Objetivo 1: Clara Diaz - Doctora_**
 ![alt text](<../assets/imgs/Clara Diaz - To-be.jpg>)
@@ -15,8 +16,8 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
 | Epics                        | User Stories                                                                                                                                            |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Autenticación y autorización | 1. Gestión de las cuentas de los usuarios<br>2. Verificación de credenciales médicas<br>3. Gestión de roles de cuentas<br>4. Eliminar cuenta de Usuario |
-| Visualizacion de Apartados   | 5. Visualización de lista de tipos de suscripción<br>6.Visualizar actividades del Usuario                                                               | 
-|      Gestion de opciones                     |           7.Contacto con medico asesor designado <br>     8.Cambio de medico asesor designado                                                                                                                                         |
+| Visualizacion de Apartados   | 5. Visualización de lista de tipos de suscripción<br>6.Visualizar actividades del Usuario<br>10.Visualización del caso y documentos                                                               | 
+|      Gestion de opciones                     |  7.Busqueda por filtros <br>8. Suscripción a un plan<br>         11.Contacto con medico asesor designado <br>     12.Cambio de medico asesor designado                                                                                                                                         |
 |                              |                                                                                                                                                         |
 
 <table>
