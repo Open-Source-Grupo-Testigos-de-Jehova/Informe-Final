@@ -497,6 +497,133 @@ https://www.figma.com/proto/DDtoiHzqyJvkeeL3M4CMG7/Testigos-de-Jehova-MU?type=de
 
 ### 4.7.2. Class Dictionary
 
+<table>
+  <tr>
+    <th colspan="1">#</th>
+    <th colspan="2">Entidad</th>
+    <th colspan="2">Nombre de atributos</th>
+    <th colspan="4">Definición</th>
+    <th colspan="2">Tipo de dato</th>
+  </tr>
+  <tr>
+    <td rowspan="5" colspan="1">1</td>
+    <td rowspan="5" colspan="2">User</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador del usuario</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">name</td>
+      <td colspan="4">Nombre del usuario</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">email</td>
+      <td colspan="4">Correo electrónico del usuario</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">password</td>
+      <td colspan="4">Constraseña del usuario</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">type</td>
+      <td colspan="4">Tipo de usuario</td>
+      <td colspan="2">string</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="4" colspan="1">2</td>
+    <td rowspan="4" colspan="2">Suscription</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador de la suscripción</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">typeSuscription</td>
+      <td colspan="4">Tipo de suscripción</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">startDate</td>
+      <td colspan="4">Fecha de inicio de la suscripción</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">endDate</td>
+      <td colspan="4">Fecha de fin de la suscripción</td>
+      <td colspan="2">string</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">3</td>
+    <td rowspan="2" colspan="2">Doctor</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador del doctor</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">specially</td>
+      <td colspan="4">Especialidad del doctor</td>
+      <td colspan="2">string</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">4</td>
+    <td rowspan="3" colspan="2">Lawyer</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador del abogado</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">specially</td>
+      <td colspan="4">Especialidad del abogado</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">costConsultation</td>
+      <td colspan="4">Costo de la consulta</td>
+      <td colspan="2">double</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="4" colspan="1">5</td>
+    <td rowspan="4" colspan="2">Transaction</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador de la transacción</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">type</td>
+      <td colspan="4">Tipo de transacción</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">amount</td>
+      <td colspan="4">Monto de la transacción</td>
+      <td colspan="2">float</td>
+    </tr>
+    <tr>
+      <td colspan="2">date</td>
+      <td colspan="4">Fecha de la transacción</td>
+      <td colspan="2">string</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">6</td>
+    <td rowspan="3" colspan="2">Consultation</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador de la consulta</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">date</td>
+      <td colspan="4">Fecha de la consulta</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">state</td>
+      <td colspan="4">Estado de la consulta</td>
+      <td colspan="2">string</td>
+    </tr> 
+  </tr>
+</table>
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
