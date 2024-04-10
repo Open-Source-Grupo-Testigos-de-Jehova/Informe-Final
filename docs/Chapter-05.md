@@ -152,3 +152,6 @@ Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+![alt text](../assets/imgs/Insights.png)
