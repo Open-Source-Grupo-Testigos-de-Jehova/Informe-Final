@@ -384,7 +384,7 @@ Elaboramos los User Task Matrix  del Usuario con el propósito de determinar la 
 
 ### 2.3.3. User Journey Mapping
 
-Creamamos los User Journey Maps con el objetivo de comprender la experiencia de nuestro cliente al utilizar nuestra aplicación. Por ende, cada paso que el cliente realiza se detalla minuciosamente, incluyendo el proceso, los obstáculos encontrados y los pensamientos o emociones que surgen a raíz de ello.
+Creamos los User Journey Maps con el objetivo de comprender la experiencia de nuestro cliente al utilizar nuestra aplicación. Por ende, cada paso que el cliente realiza se detalla minuciosamente, incluyendo el proceso, los obstáculos encontrados y los pensamientos o emociones que surgen a raíz de ello.
 
 **_Segmento Objetivo 1: Medicos_**
 
@@ -395,6 +395,7 @@ Creamamos los User Journey Maps con el objetivo de comprender la experiencia de 
 ![Carlos Orbegozo](../assets/imgs/Customer_journey_map_1.png)
 
 ### 2.3.4. Empathy Mapping
+Para el desarrollo de los Empathy Map hemos utilizado la información recopilada en base a nuestros dos User Personas que representan nuestro segmento.
 
 **_Segmento Objetivo 1: Medicos_**
 ![alt text](<../assets/imgs/Clara Diaz - Empathy Mapping.png>)
@@ -403,6 +404,7 @@ Creamamos los User Journey Maps con el objetivo de comprender la experiencia de 
 
 
 ### 2.3.5. As-is Scenario Mapping
+Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuesto en los User Persona. De tal modo, hemos conseguido realizar los As-Is mapping para los segmentos dados.
 
 **_Segmento Objetivo 1: Medicos_**
 ![alt text](<../assets/imgs/As-is Mapping - Clara.jpg>)
