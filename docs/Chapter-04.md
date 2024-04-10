@@ -2,6 +2,8 @@
 
 ## 4.1. Style Guidelines
 
+Las guías de estilo serán la base para dar forma a nuestro producto, utilizando patrones que consideren los aspectos de arquitectura de la información y accesibilidad necesarios para la implementación exitosa de UrProvider tanto en una Landing Page como en una Aplicación Web.
+
 ### 4.1.1. General Style Guidelines
 
 - **Branding**:
@@ -34,6 +36,9 @@ Para el Web Style Guidelines del sitio web MedicDefense se utilizó con mayor pr
 Para el desarrollo de los mockups y wireframes se utilizó en base a desarrollo web para pantallas de escritorio.
 
 ## 4.2. Information Architecture
+
+La sección de arquitectura de información tiene como objetivo organizar el contenido tanto de la aplicación web como de la página de inicio de UrProvider. Se abordarán los siguientes temas: Organization Systems, Labeling Systems, SEO
+Tags and Meta Tags, Searching Systems y Navigation Systems.
 
 ### 4.2.1. Organization Systems
 
