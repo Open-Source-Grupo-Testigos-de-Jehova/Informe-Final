@@ -103,6 +103,7 @@
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 Para enfrentar a los competidores establecidos en el mercado de asesoramiento legal para profesionales de la salud, nuestra estrategia se centra en la diferenciación mediante la especialización en el nicho de derecho médico. Planeamos ofrecer contenido educativo especializado, una plataforma fácil de usar y acceso a una red de expertos en litigios de salud. Además, implementaremos estrategias de marketing digital focalizadas, estableceremos alianzas estratégicas con instituciones médicas y mantendremos un modelo de precios competitivo. A través de estas tácticas, nuestra aplicación buscará establecerse como una autoridad en el campo, proporcionando soluciones personalizadas y efectivas para las necesidades legales de médicos y estudiantes de medicina.
 ## 2.2. Entrevistas
+
 La entrevista se realiza con el objetivo de obtener mayor información acerca de los usuarios y del servicio de tecnología. De este modo, podremos conocer cuál es sus puntos de vista respecto a los servicios electrónicos, qué problemas tuvieron y cuáles son sus expectativas frente a los nuevos servicios educativos virtuales.
 
 ### 2.2.1 Diseño de entrevistas  
@@ -126,10 +127,13 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 - ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, ¿que hizo al respecto?  
 - ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Cómo cuales: asesorías, cursos, talleres, etc?
 
-### 2.2.2. Registro de entrevistas  
+### 2.2.2. Registro de entrevistas 
+
+En el siguiente link se encuentran todas las entrevistas en orden y en el siguiente punto estan cada una de las preguntas que se le hicieron a cada entrevistado con su respectiva respuesta y minuto del video en los que dura la correspondiente entrevista. 
+
+Link de la entrevista:
 
 #### Entrevista 1: Mision Augusto Noriega Ambulodegui
-Link de la entrevista: https://drive.google.com/file/d/1VNhL-g8b2xTTzm53uix9knN78Enx8its/view?usp=sharing
 
 #### Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
 El nombre del entrevistado es Mision Augusto Noriega Ambulodegui, trabaja en el hospital Guillermo Almenara Irigoyen como anestesiólogo.
@@ -144,10 +148,10 @@ El Dr. Mision Augusto Noriega Ambulodegui fue involucrado en un caso legal tras 
 #### Si tuviera algún problema con el resultado de la cirugía de su paciente, ¿que haría? ¿Buscaría ayuda profesional?
 El Dr. Mision destacó que en su institución existe un mecanismo de asesoría para el asegurado que incluye la evaluación de la seguridad del paciente en casos de fallecimiento. Este proceso es particularmente riguroso en situaciones de mortalidad materna e infantil; cualquier deceso materno, independientemente de la causa, desencadena automáticamente una investigación de auditoría médica. Esta práctica subraya el compromiso de la institución con la seguridad del paciente y la mejora continua de la calidad del cuidado médico.
 
+Minuto de la entrevista: 0:00-9:11
 ![Entrevista1](<../assets/imgs/Entrevista1.png>)
 
 #### Entrevista 2: Augusto Manuel Vasquez Carrasco (Medico)
-Link de la entrevista: https://youtu.be/X4m2RZOYVh0
  
 #### Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
 El nombre del entrevistado es Augusto ,Manuel Vasquez Carrasco , trabaja en el INSN en San borja, y a su vez en varias clinias en el sector privado.
@@ -162,10 +166,10 @@ El Dr. Augusto nos afirma que él nunca ha tenido algun problema legal con algun
 #### Si tuviera algún problema con el resultado de la cirugía de su paciente, ¿que haría? ¿Buscaría ayuda profesional?
 Actualmente nos comenta que ha realizado una investigacion y un curso para poder desarrollarse como perito en anestesiologia, por lo que sabe que es lo que implica encontrarse en un aprieto legal, pero que definitivamente buscaria mas ayuda para poder defenderse mejor.
 
+Minuto de la entrevista: 9:11 - 21:11
 ![Entrevista2](<../assets/imgs/Entrevista 2 Medico.png>)
 
 #### Entrevista 3: Liliana Edith Requejo Lozada (Medico)
-Link de la entrevista: https://youtu.be/YS7eacvd0Jg 
 
 #### Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
 El nombre de la entrevistada es Liliana Requejo, ella actualmente es obstetra y trabaja en el Centro de Salud de Jesus Maria.
@@ -180,11 +184,10 @@ Liliana nos comenta que efectivamente conoce un caso muy peculiar del cual ella 
 #### Si tuviera algún problema con el resultado de la cirugía de su paciente, ¿que haría? ¿Buscaría ayuda profesional?
 Liliana afirma rotundamente que buscaria si o si ayuda profesional ya que actualmente no sabria como reaccionar por su cuenta y necesita mucha orientacion de que hacer en ese caso. 
 
+Minuto de la entrevista: 21:20 - 26:57
 ![Entrevista3](<../assets/imgs/Entrevista 3 Medico.png>)
 
 **Entrevista 4: Vanessa Castillo (Estudiante de Medicina)**
-
-Link de la entrevista: https://drive.google.com/file/d/1mJLBE8t4ly_WCAdv1KpC0yVjmPrivafv/view?usp=sharing
 
 #### Presentación(Nombre, edad, centro de estudios)
 
@@ -222,11 +225,10 @@ Más que todo como negligencia no suena así, pero sí nos contó una experienci
 
 Sí, claro que sí, a cualquier estudiante de salud le gustaría. Citas asesoradas por especialistas, con mayor experiencia, los profesores que sepan, Incluso talleres, cursos, reforzamientos, todo. Creo que no soy la única. Ya todas las personas necesariamente que están estudiando áreas de la salud deberían saberlo. Y y bueno, las personas de no solamente del área de salud, sino todos, porque es importante. Pero en en el área de la salud creo que es indispensable que lo sepa.
 
+Minuto de la entrevista: 26:58 - 33:10
 ![alt text](../assets/imgs/entrevista-vanessa.png)
 
 **Entrevista 5: Sara Rojas (Estudiante de Medicina)**
-
-Link de la Entrevista: https://drive.google.com/file/d/1MvB-iwO9OG7HBr0fh2VYzYqAeeTyhm0T/view?usp=sharing
 
 #### Presentación(Nombre, edad, centro de estudios)
 
@@ -270,11 +272,10 @@ Pero no, hasta el momento no, no he tenido algun doctor ni doctores que hayan te
 
 Nosotros trabajamos con lo que son las personas y si algo sale mal, pues obviamente el paciente no va a estar bien y puede llegar hasta la muerte. Entonces yo creo que sí serviría algún asesoramiento o taller que nos incentive para tener esa información.
 
+Minuto de la entrevista: 33:13 - 40:39
 ![alt text](<../assets/imgs/Entrevista - Sara (Estudiante).png>)
 
 **Entrevista 6: Patrick Gómez (Estudiante de Medicina)**
-
-Link de la Entrevista: https://drive.google.com/file/d/1UuanzSmDCOVGByR1uF0UlKE50j5LkJ2E/view?usp=sharing
 
 #### Presentación(Nombre, edad, centro de estudios)
 
@@ -316,6 +317,7 @@ Recuerdo una vez que un profesor nos contó que hubo problemas en un parto, sin 
 
 Bueno, a nosotros, los mismos doctores, desde la formación que llevamos en estos ciclos nos dicen. De tal modo, empezamos con semiología, luego medicina interna 1, medicina interna 2, medicina interna 3, emergencias, medicina 4 y así. Entonces ellos nos dan charlas, pautas, qué cosa hacer, que cosa no hacer, a quién llamar y a quien recurrir. También los doctores nos comentan que no está mal a veces recurrir a un compañero de trabajo para que te pueda dar otro punto de vista objetivo. Entonces si estaría bueno tener más accesos de otras fuentes para poder seguir aprendiendo.
 
+Minuto de la entrevista: 42:42 - 46:43
 ![alt text](<../assets/imgs/Entrevista - Patrick (Estudiante).png>)
 
 ### 2.2.3. Análisis de entrevistas
