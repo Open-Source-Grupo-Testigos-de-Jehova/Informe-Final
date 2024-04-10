@@ -123,6 +123,14 @@ GitHub.
         <td colspan="2">-</td>
         <td colspan="2">06/04/2024</td>
     </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">4808ace</td>
+        <td colspan="2">feat: Added "Our Services" code</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
 </table>
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
@@ -131,8 +139,7 @@ Para este sprint realizamos los features de nuestro Sprint Backlog con
 sus respectivos criterios de aceptación.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
-
-
+Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
