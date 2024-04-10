@@ -141,6 +141,9 @@ una de las tareas identificadas para el sprint.
 Para este sprint realizamos los features de nuestro Sprint Backlog con
 sus respectivos criterios de aceptación.
 
+![alt text](../assets/imgs/suscripciones-feature.png)
+![alt text](../assets/imgs/creadores-feature.png)
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
