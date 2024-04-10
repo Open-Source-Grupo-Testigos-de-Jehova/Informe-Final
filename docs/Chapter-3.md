@@ -16,9 +16,9 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
 | Epics                        | User Stories                                                                                                                                            |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Autenticación y autorización | 1. Gestión de las cuentas de los usuarios<br>2. Verificación de credenciales médicas<br>3. Gestión de roles de cuentas<br>4. Eliminar cuenta de Usuario |
-| Visualizacion de Apartados   | 5. Visualización de lista de tipos de suscripción<br>6.Visualizar actividades del Usuario<br>10.Visualización del caso y documentos                                                               | 
-|      Gestion de opciones                     |  7.Busqueda por filtros <br>8. Suscripción a un plan<br>         11.Contacto con medico asesor designado <br>     12.Cambio de medico asesor designado                                                                                                                                         |
-|                              |                                                                                                                                                         |
+| Visualizacion de Apartados   |6.Visualizar actividades del Usuario<br>10.Visualización del caso y documentos                                                               | 
+|      Gestion de opciones                     |  7.Busqueda por filtros <br>8. Suscripción a un plan<br>         11.Contacto con medico asesor designado <br>     12.Cambio de medico asesor designado    |
+|      Landing Page                  | 5. Visualización de lista de tipos de suscripción  <br>  13. Visualización de servicios <br> 14. Sección de contacto <br> 15. Sección de about us <br> Sección de creadores |
 
 <table>
   <tr>
@@ -146,7 +146,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
   </tr>
   <tr>
 <td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
+    <td colspan="3">Como visitador del alding page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
     </tr>
 <tr>
 <td colspan="2">Criterios de Aceptación</td>
@@ -405,7 +405,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU14</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP02</td>
+    <td colspan="1">EP03</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
@@ -436,7 +436,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU15</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP02</td>
+    <td colspan="1">EP03</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
@@ -456,6 +456,36 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <br>DADO que soy un visitante de la landing page,<br>
     <br>CUANDO me encuentre navegando por la landing page,<br>
     <br>ENTONCES encuentro una sección about us que me brinda información acerca de la empresa la cual estoy interesado en sus servicios.
+</td>
+</table>
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 16</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU16</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP03</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">Gabriel Garcia</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Sección de Creadores</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Visualización de una sección creadores<br>
+    <br>DADO que soy un visitante de la landing page,<br>
+    <br>CUANDO me encuentre navegando por la landing page,<br>
+    <br>ENTONCES encuentro una sección creadores que me brinda información acerca de los creadores de la empresa la cual estoy interesado en sus servicios.
 </td>
 </table>
 
@@ -583,5 +613,12 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Sección de about us</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
         <td>3</td>
+    <tr>
+        <td>16</td>
+        <td>US16</td>
+        <td>Sección de contacto</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+        <td>3</td>
+    </tr>
     </tr>
 </table>
