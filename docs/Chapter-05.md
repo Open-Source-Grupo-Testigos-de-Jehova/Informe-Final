@@ -76,24 +76,24 @@ GitHub.
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">5</td>
+    <td colspan="2">Visualización de lista de tipos de suscripción</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir funcion para mostrar lista de tipos de suscrpción</td>
+    <td colspan="3">Como visitador del alding page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">16</td>
+    <td colspan="2">Sección de Creadores</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir funcion para mostrar los creadores de la empresa</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Mathias</td>
+    <td colspan="1">Done</td>
 <tr>
     <td colspan="1"></td>
     <td colspan="2"></td>
