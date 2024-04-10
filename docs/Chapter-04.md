@@ -627,3 +627,5 @@ https://www.figma.com/proto/DDtoiHzqyJvkeeL3M4CMG7/Testigos-de-Jehova-MU?type=de
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+![DB-Diagram](../assets/imgs/dbdiagram.jpeg)
