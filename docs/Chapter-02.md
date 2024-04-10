@@ -213,6 +213,100 @@ Sí, claro que sí, a cualquier estudiante de salud le gustaría. Citas asesorad
 
 ![alt text](../assets/imgs/entrevista-vanessa.png)
 
+**Entrevista 5: Sara Rojas (Estudiante de Medicina)**
+
+Link de la Entrevista: https://drive.google.com/file/d/1MvB-iwO9OG7HBr0fh2VYzYqAeeTyhm0T/view?usp=sharing
+
+#### Presentación(Nombre, edad, centro de estudios)
+
+Sara Rojas Sojo, 22 años, Universidad San Martín de Porres.
+
+#### ¿Cuánto tiempo llevas estudiando medicina?
+
+Aproximadamente 4 años y medio estudiando medicina.
+
+#### ¿Estás desempeñando practicas médicas en algún Hospital? ¿En que hospital?
+
+Sí. Tengo un curso que se llama medicina interna y se parte en tres. Entonces, mayormente es teórico, práctico y simulación. En lo que es teoría, pues básicamente es la información que nos mandan para poder aprender en práctica y lo que es práctica ya es lo que vemos con el paciente en sí en el hospital. Yo estoy en el hospital Guillermo Armenara de Irigoyen, que está por Grau.
+
+#### ¿Has tenido alguna mala experiencia mientras realizabas tus practicas médicas? ¿Conociste a alguien que haya tenido una mala experiencia?
+
+Sí, dependiendo de lo que se refiera la pregunta, porque si es con los doctores no he tenido ningún problema con ellos. Porque los doctores sí han sido exigentes, pero han sido muy buenos. Pero si hablamos de los pacientes, podría decir que al comienzo no he tenido ningún problema. O sea, los pacientes han sido colaboradores y así, ¿no? Pero sin embargo, hay pacientes que tienen problemas neurológicos, entonces, a veces no no se dejan examinar o inspeccionar de una manera tranquila y correcta.
+
+#### ¿Alguna vez has escuchado sobre las negligencias médicas que ocurren en el país? Que opinas sobre eso?
+
+Sí. Mayormente en las noticias veo muchos casos acerca de eso, pero creo que la negligencia médica se basa en varios factores. Sin embargo, creo que de repente la evaluación de los doctores no está bien implementada o de repente no han hecho la parte teórica, Entonces, en base a eso puede ser. ¿No?
+
+Igual la negligencia va a existir. Sin embargo, hay doctores que tienen mucha más información y ellos pueden implementar esto a mayor proporción entonces pueden evitar esta negligencia. Sin embargo, hay otros que no, como ya te comenté.
+
+#### ¿Qué conocimientos tienes sobre la responsabilidad médica y las posibles implicaciones legales que pueden surgir durante la práctica clínica?
+
+Bueno, recientemente como estoy llevando hospitalización, nosotros hemos llevado un curso que ha sido ética médica. Todo lo que es en base a comunicación con el paciente, ¿no? El hecho de saber respetar los derechos de los pacientes, la comunicación, tambien la confidencialidad que tenemos que tener con los pacientes en sí, en no revelar las historias clínicas. Y también preguntar en base de que si está en un chequeo, entonces preguntarle sus antecedentes por si ha tenido algúna operación para poder examinarlo.
+
+
+#### ¿Has recibido alguna formación o orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante tu formación médica? ¿Cómo cuales?
+
+Como sabemos, somos médicos y nosotros tenemos que estudiar siempre. Van a venir hasta enfermedades donde nosotros tenemos que saber cómo actuar en ese momento, ¿no?
+Sin embargo, creo que también sería bueno recibir algún tipo de orientación que creo que siempre hacen los hospitales, mayormente cuando hay una enfermedad como es en este caso del COVID, ¿no? Sin antes ver su historial médico, la anamnesis, los antecedentes patológicos. Entonces, creo que toda esa información es lo que nos puede llegar a nosotros, a los pacientes, para darle la información correcta y necesaria.
+  
+#### ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, que hizo al respecto?
+
+Hasta el momento no. En realidad, mis doctores no han tenido ningún caso acerca de ello. Pero sí hay casos en que los pacientes más que nada quieren como que les revisen forzosamente, ¿no? Decían, ah, me duele aquí, entonces mayormente tienen que poner más empeño.
+
+Pero no, hasta el momento no, no he tenido algun doctor ni doctores que hayan tenido una negligencia.
+
+#### ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Como cuales: asesorías, cursos, talleres, etc?
+
+Nosotros trabajamos con lo que son las personas y si algo sale mal, pues obviamente el paciente no va a estar bien y puede llegar hasta la muerte. Entonces yo creo que sí serviría algún asesoramiento o taller que nos incentive para tener esa información.
+
+![alt text](<../assets/imgs/Entrevista - Sara (Estudiante).png>)
+
+**Entrevista 6: Patrick Gómez (Estudiante de Medicina)**
+
+Link de la Entrevista: https://drive.google.com/file/d/1UuanzSmDCOVGByR1uF0UlKE50j5LkJ2E/view?usp=sharing
+
+#### Presentación(Nombre, edad, centro de estudios)
+
+Patrick Gómez Palomino, 20 años, Universidad Norbert Wiener.
+
+#### ¿Cuánto tiempo llevas estudiando medicina?
+
+Estoy en mi octavo ciclo, que serían cuatro años.
+
+#### ¿Estás desempeñando practicas médicas en algún Hospital? ¿En que hospital?
+
+Si, desempeño prácticas médicas desde el sexto ciclo.
+Estuve en los hospitales el Jorge Voto Bernales, en El Sabogal y en Luis Negreiros.
+
+#### ¿Has tenido alguna mala experiencia mientras realizabas tus practicas médicas? ¿Conociste a alguien que haya tenido una mala experiencia?
+
+Mala experiencia no. Más que todo los pacientes dejan que los estudiantes podamos asistir en las prácticas médicas como tal.
+Las experiencias podría ser por los doctores que a veces son muy exigentes o muy despotas.
+
+#### ¿Alguna vez has escuchado sobre las negligencias médicas que ocurren en el país? Que opinas sobre eso?
+
+Negencias médicas, no mucho. Bueno, de parte de mis de mis doctores, ¿no?
+
+Pero siempre nos han dejado en claro que hay un hay un documento legal que nos dan, en el cual, nosotros tenemos que llenar y se llama historia clínica. Es un documento legal que si ocurre algo o por cualquier caso fallece el paciente y digamos que la familia quiere presentar algún cargo o un juicio al doctor o al mismo hospital, ese documento es pedido y tiene que ser correctamente foliado y escrito con las palabras objetivas del médico en el lenguaje médico correspondiente. En este se encuentra involucrado, no solo el médico, también los enfermeros, ya que ellos también tienen su cuaderno de notas, de que son de la mañana y la noche, y lo que es la evolución y epigrisis.
+
+#### ¿Qué conocimientos tienes sobre la responsabilidad médica y las posibles implicaciones legales que pueden surgir durante la práctica clínica?
+
+Aparte de lo que me ha mencionado. Fuera de lo que son negligencias, es mucho en lo legal, ¿no? Ya que nosotros tratamos con vidas y no podemos equivocarnos.
+
+Te pongo un ejemplo, un abogado puede perder un juicio, entonces su defensor se va a la carcel y no le pasa nada igual, ¿no? 
+Pero, digamos, en caso de un médico no podemos equivocarnos ni en un diagnóstico, no podemos tirar nada al aire sin haberlo comprobado. Y por eso tenemos mucha responsabilidad con los documentos. No solo la historia clínica, también los documentos que tienen que ser firmados de consentimiento, especialmente los que son de cirugía, ya que en los documentos de cirugía te habla sobre que el paciente está aceptando que puede ocurrir algo en la cirugía o digamos que haya algo que implique en la vida del paciente. 
+Entonces, el médico tiene que hacer todo lo que esté en sus manos para salvar la vida del paciente.
+  
+#### ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, que hizo al respecto?
+
+Recuerdo una vez que un profesor nos contó que hubo problemas en un parto, sin embargo, no recuerdo los detalles.
+
+#### ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Como cuales: asesorías, cursos, talleres, etc?
+
+Bueno, a nosotros, los mismos doctores, desde la formación que llevamos en estos ciclos nos dicen. De tal modo, empezamos con semiología, luego medicina interna 1, medicina interna 2, medicina interna 3, emergencias, medicina 4 y así. Entonces ellos nos dan charlas, pautas, qué cosa hacer, que cosa no hacer, a quién llamar y a quien recurrir. También los doctores nos comentan que no está mal a veces recurrir a un compañero de trabajo para que te pueda dar otro punto de vista objetivo. Entonces si estaría bueno tener más accesos de otras fuentes para poder seguir aprendiendo.
+
+![alt text](<../assets/imgs/Entrevista - Patrick (Estudiante).png>)
+
 ### 2.2.3. Análisis de entrevistas
 #### Entrevista 1: Mision Augusto Noriega Ambulodegui
 #### Hallazgos:
@@ -225,6 +319,18 @@ La entrevista con el Dr. Noriega destaca una clara oportunidad de mercado para u
 **Conclusiones:**
 
 Después de realizar las entrevistas, se obtuvo información valiosa sobre las experiencias y perspectivas de los usuarios en relación a los servicios de tecnología. En el caso de la entrevista con Vanessa Castillo, una estudiante de medicina, se destacó su interés en tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro. Además, mencionó la importancia de recibir formación y orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante su formación médica. Estos hallazgos nos permiten comprender mejor las necesidades y expectativas de nuestros usuarios y nos ayudarán a diseñar soluciones que satisfagan sus requerimientos.
+
+**Entrevista 5: Sara Rojas**
+
+**Conclusiones**
+De la entrevista con Sara, se observa la importancia de la ética médica y la comunicación efectiva con los pacientes para evitar situaciones que puedan derivar en denuncias por negligencia médica. A su vez, se muestra preocupada por la calidad de la formación recibida en cuanto a evaluación de los doctores y la implementación de los conocimientos teóricos en la práctica clínica. Por último, expresa interés en recibir orientación adicional, como talleres o asesoramientos legales especializados, para mejorar su preparación y enfrentar posibles desafíos legales en la medicina.
+
+**Entrevista 6: Patrick Gomez**
+
+**Conclusiones**
+
+De la entrevista se desprende una clara conciencia sobre la responsabilidad médica y las implicaciones legales que conlleva la práctica clínica. El entrevistado demuestra comprensión sobre la importancia de la documentación adecuada, especialmente en casos de cirugía y diagnóstico, y la necesidad de seguir protocolos rigurosos para evitar negligencias. Además, destaca la importancia del acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento y defensa en situaciones de denuncia por negligencia médica. Su disposición a seguir aprendiendo y buscar diversas fuentes de conocimiento refleja su compromiso con una práctica médica ética y responsable.
+
 
 ## 2.3. Needfinding
 Posteriormente a las entrevistas, pudimos obtener la información sobre sus deseos, frustraciones, situación y múltiples datos que nos van a servir para satisfacer sus necesidades, mejorando la experiencia a nuestros usuarios. 
