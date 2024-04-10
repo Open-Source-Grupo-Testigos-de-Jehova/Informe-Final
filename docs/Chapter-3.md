@@ -18,7 +18,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
 | Autenticación y autorización | 1. Gestión de las cuentas de los usuarios<br>2. Verificación de credenciales médicas<br>3. Gestión de roles de cuentas<br>4. Eliminar cuenta de Usuario |
 | Visualizacion de Apartados   |6.Visualizar actividades del Usuario<br>10.Visualización del caso y documentos                                                               | 
 |      Gestion de opciones                     |  7.Busqueda por filtros <br>8. Suscripción a un plan<br>         11.Contacto con medico asesor designado <br>     12.Cambio de medico asesor designado    |
-|      Landing Page                  | 5. Visualización de lista de tipos de suscripción  <br>  13. Visualización de servicios <br> 14. Sección de contacto <br> 15. Sección de about us <br> Sección de creadores |
+|      Landing Page                  | 5. Visualización de lista de tipos de suscripción  <br>  13. Visualización de servicios <br> 14. Sección de contacto <br> 15. Sección de about us <br> 16. Sección de creadores |
 
 <table>
   <tr>
@@ -134,7 +134,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU05</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP02</td>
+    <td colspan="1">EP04</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
@@ -405,7 +405,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU14</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP03</td>
+    <td colspan="1">EP04</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
@@ -436,7 +436,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU15</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP03</td>
+    <td colspan="1">EP04</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
@@ -466,7 +466,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU16</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP03</td>
+    <td colspan="1">EP04</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
