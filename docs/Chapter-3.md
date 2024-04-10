@@ -13,8 +13,8 @@
 | Epics                        | User Stories                                                                                                                                            |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Autenticación y autorización | 1. Gestión de las cuentas de los usuarios<br>2. Verificación de credenciales médicas<br>3. Gestión de roles de cuentas<br>4. Eliminar cuenta de Usuario |
-| Visualizacion de Apartados   | 5. Visualización de lista de tipos de suscripción<br>6.Visualizar actividades del Usuario                                                               |
-|                              |                                                                                                                                                         |
+| Visualizacion de Apartados   | 5. Visualización de lista de tipos de suscripción<br>6.Visualizar actividades del Usuario                                                               | 
+|      Gestion de opciones                     |           7.Contacto con medico asesor designado <br>     8.Cambio de medico asesor designado                                                                                                                                         |
 |                              |                                                                                                                                                         |
 
 <table>
@@ -309,7 +309,7 @@
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU11</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP01</td>
+    <td colspan="1">EP07</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
@@ -340,7 +340,7 @@
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU12</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP01</td>
+    <td colspan="1">EP08</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
