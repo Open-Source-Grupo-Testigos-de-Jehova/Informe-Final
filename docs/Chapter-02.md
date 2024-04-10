@@ -150,12 +150,17 @@ El Dr. Mision destacó que en su institución existe un mecanismo de asesoría p
 Link de la entrevista: https://youtu.be/X4m2RZOYVh0
  
 #### Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
-El nombre del entrevistado es Augusto ,Manuel Vasquez Carrasco , trabaja en el INSN en San borja, y varias clinias en el sector privado.
+El nombre del entrevistado es Augusto ,Manuel Vasquez Carrasco , trabaja en el INSN en San borja, y a su vez en varias clinias en el sector privado.
 #### ¿Cuánto tiempo lleva ejerciendo la carrera de medicina y/o su especialidad?
+Augusto nos comenta que lleva ejerciendo la carrera de medicina y profesion medico cirujano desde el 2005 que terminó la universidad y como especialista en Anestesiologia desde el 2010, posterior a este ultimo año mencionado desarrollo una subespecialidad en el area de Anestesiologia Pediatrica. 
 #### ¿Cómo se siente cada vez que tiene que realizar una intervención quirúrgica?
+El Dr. Augusto nos comenta que si nos fijamos solamente en su especialidad que es la actividad que mas desarrolla actualmente y dada la complejida de su trabajo ya que las intervenciones se realizan en instituciones donde se llevan a cabo las cirugias mas "famosas" y complejas que se han llevado a cabo en nuestro pais, las cirugias son netamente individuales y que no hay dos pacientes iguales, si bien pueden tener la misma enfermedad o el caso clinico sea similar la complejidad que se le requiere al doctor es del mas alto nivel por ende aunque ya haya sido asistente de una sin numero de cirugias aun sigue poniendo toda su atencion y concentracion en el paciente.
 #### ¿Alguna vez ha enfrentado algún problema médico con un paciente? En caso no, ¿conoce algún caso?
+Augusto nos comenta que el término "problema" es algo muy general y lo que en su practica si ocurre es alguna complicacion ESPERADA o algun resultado de la operacion del paciente ESPERADO, ya que cuando se realiza un correcto analisis del paciente se abre una ventaba de posibilidades de los resultados que este podria tener. A su vez tambien nos comenta que cuando alguna de estas complicaciones se ha presentado si ha necesitado de ayuda.
 #### ¿Conoce a algún colega que haya tenido problemas con un paciente o con la familia de este debido al resultado de una cirugía?
+El Dr. Augusto nos afirma que él nunca ha tenido algun problema legal con alguno de los pacientes o la familia de estos pero ha vivido de primera mano algunos casos donde el principal problema es la carencia de comunicacion entre los medicos y la familia del paciente. Cuando esta situacion se le presentó, él ayudó con la base medica para la defensa de su colega.
 #### Si tuviera algún problema con el resultado de la cirugía de su paciente, ¿que haría? ¿Buscaría ayuda profesional?
+Actualmente nos comenta que ha realizado una investigacion y un curso para poder desarrollarse como perito en anestesiologia, por lo que sabe que es lo que implica encontrarse en un aprieto legal, pero que definitivamente buscaria mas ayuda para poder defenderse mejor.
 
 ![Entrevista2](<../assets/imgs/Entrevista 2 Medico.png>)
 
@@ -163,15 +168,21 @@ El nombre del entrevistado es Augusto ,Manuel Vasquez Carrasco , trabaja en el I
 Link de la entrevista: https://youtu.be/YS7eacvd0Jg 
 
 #### Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
+El nombre de la entrevistada es Liliana Requejo, ella actualmente es obstetra y trabaja en el Centro de Salud de Jesus Maria.
 #### ¿Cuánto tiempo lleva ejerciendo la carrera de medicina y/o su especialidad?
+Liliana nos comenta que lleva ejerciendo la carrera de medicina aproximadamente 20 años de los cuales van 13 de su especialidad en Obstetricia.
 #### ¿Cómo se siente cada vez que tiene que realizar una intervención quirúrgica?
+La entrevistada nos comenta que hace aproximadamente 5 años no asiste en cirugias, sin embargo si participa en diversos procesos quirurgicos "pequeños" como la colocacion de algun implante o método anticonceptivo.
 #### ¿Alguna vez ha enfrentado algún problema médico con un paciente? En caso no, ¿conoce algún caso?
+Ella menciona que cuando aun era participe de cesareas o partos naturales, si ha tenido alguna complicacion con la madre que estaba por dar a luz pero que en general los procedimientos salian exitosos.
 #### ¿Conoce a algún colega que haya tenido problemas con un paciente o con la familia de este debido al resultado de una cirugía?
+Liliana nos comenta que efectivamente conoce un caso muy peculiar del cual ella no fue asistente sino lo conoce de primera mano en el hospital donde ella trabajaba, dice que lamentablemente falleció el bebé en el parto, pero de todas formas nos dice que estaba dentro de las posibilidades ya que era un procedimiento sumamente complejo.
 #### Si tuviera algún problema con el resultado de la cirugía de su paciente, ¿que haría? ¿Buscaría ayuda profesional?
+Liliana afirma rotundamente que buscaria si o si ayuda profesional ya que actualmente no sabria como reaccionar por su cuenta y necesita mucha orientacion de que hacer en ese caso. 
 
 ![Entrevista3](<../assets/imgs/Entrevista 3 Medico.png>)
 
-**Entrevista 2: Vanessa Castillo (Estudiante de Medicina)**
+**Entrevista 4: Vanessa Castillo (Estudiante de Medicina)**
 
 Link de la entrevista: https://drive.google.com/file/d/1mJLBE8t4ly_WCAdv1KpC0yVjmPrivafv/view?usp=sharing
 
