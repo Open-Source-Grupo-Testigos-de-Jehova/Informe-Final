@@ -367,6 +367,8 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 
 ### 2.3.2. User Task Matrix
 
+Elaboramos los User Task Matrix  del Usuario con el propósito de determinar la frecuencia con la que los usuarios llevan a cabo diversas actividades, lo que nos permite visualizar la importancia de ciertas tareas.
+
 | Task Matrix             | Clara Frecuencia| Clara Importancia| Carlos Frecuencia | Carlos Importancia |
 |-----------------------------|---------|-------------|-------------|-------|
 | Búsqueda de un entorno seguro | Siempre | A veces     | Siempre | Alta  |
@@ -382,7 +384,13 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 
 ### 2.3.3. User Journey Mapping
 
+Creamamos los User Journey Maps con el objetivo de comprender la experiencia de nuestro cliente al utilizar nuestra aplicación. Por ende, cada paso que el cliente realiza se detalla minuciosamente, incluyendo el proceso, los obstáculos encontrados y los pensamientos o emociones que surgen a raíz de ello.
+
+**_Segmento Objetivo 1: Medicos_**
+
 ![Clara Diaz](../assets/imgs/Customer_journey_map_2.png)
+
+**_Segmento Objetivo 2: Estudiante de Medicina_**
 
 ![Carlos Orbegozo](../assets/imgs/Customer_journey_map_1.png)
 
