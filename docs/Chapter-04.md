@@ -132,25 +132,39 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
 
 ### 4.3.1. Landing Page Wireframe
 
-![Header](/assets/imgs/header.png)
-![Principal](/assets/imgs/principal.png)
-![Nosotros](/assets/imgs/nosotros.png)
-![Servicios](/assets/imgs/servicio.png)
-![Planes](/assets/imgs/planes.png)
-![Contactanos](/assets/imgs/contacto.png)
-![Creadores](/assets/imgs/creadores.png)
-![Footer](/assets/imgs/footer.png)
+![Header](<../assets/imgs/header.png>)
+
+![Principal](<../assets/imgs/principal.png>)
+
+![Nosotros](<../assets/imgs/nosotros.png>)
+
+![Servicios](<../assets/imgs/servicio.png>)
+
+![Planes](<../assets/imgs/planes.png>)
+
+![Contactanos](<../assets/imgs/contacto.png>)
+
+![Creadores](<../assets/imgs/creadores.png>)
+
+![Footer](<../assets/imgs/footer.png>)
 
 ### 4.3.2. Landing Page Mock-up
 
-![Header](/assets/imgs/headerM.png)
-![Principal](/assets/imgs/principalM.png)
-![Nosotros](/assets/imgs/nosotrosM.png)
-![Servicios](/assets/imgs/servicioM.png)
-![Planes](/assets/imgs/planesM.png)
-![Contactanos](/assets/imgs/contactoM.png)
-![Creadores](/assets/imgs/creadoresM.png)
-![Footer](/assets/imgs/footerM.png)
+![Header](<../assets/imgs/headerM.png>)
+
+![Principal](<../assets/imgs/principalM.png>)
+
+![Nosotros](<../assets/imgs/nosotrosM.png>)
+
+![Servicios](<../assets/imgs/servicioM.png>)
+
+![Planes](<../assets/imgs/planesM.png>)
+
+![Contactanos](<../assets/imgs/contactoM.png>)
+
+![Creadores](<../assets/imgs/creadoresM.png>)
+
+![Footer](<../assets/imgs/footerM.png>)
 
 ## 4.4. Web Applications UX/UI Design
 
