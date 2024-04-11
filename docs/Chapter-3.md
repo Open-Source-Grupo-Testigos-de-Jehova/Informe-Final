@@ -651,5 +651,11 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
         <td>3</td>
     </tr>
+    <tr>
+    <td>17</td>
+        <td>US17</td>
+        <td>Sección de inicio</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+        <td>3</td>
     </tr>
 </table>
