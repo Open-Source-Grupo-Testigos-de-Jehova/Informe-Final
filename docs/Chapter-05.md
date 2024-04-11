@@ -2,11 +2,12 @@
 
 ## 5.1. Software Configuration Management
 
-En esta sección se resume toda la información recopilada, analizando el codigo que utilizamos y la arquitectura y principios de ingenieria que empleamos a lo largo de nuestro trabajo. 
+En esta sección se resume toda la información recopilada, analizando el codigo que utilizamos y la arquitectura y principios de ingenieria que empleamos a lo largo de nuestro trabajo.
 
 ### 5.1.1. Software Development Environment Configuration
 
 En la siguiente sección se describe la ruta de referencia de cada uno de los productos de software para que cualquier miembro del equipo pueda desarrollar cada punto del trabajo.
+
 - **UXPressia:** Plataforma que nos permitirá crear los user stories y tambien poderemos realizar múltiples mapas para evaluar sus prioridades y una serie de opciones que nos aportan al aspecto grafico de nuestro trabajo.
 - **Figma:** Herramienta colaborativa que nos permitirá desarrollar lo respectivos wireframes y mockups de nuestra landing page.
 - **Vertabelo:** Plataforma que nos permitirá crear nuestro diagrama de base de datos.
@@ -21,14 +22,16 @@ En la siguiente sección se describe la ruta de referencia de cada uno de los pr
 ### 5.1.2. Source Code Management
 
 Trabajamos con tres ramas principales:
+
 - Main: nuestra rama principal donde presentaremos nuestras
-publicaciones oficiales.
+  publicaciones oficiales.
 
 ![alt text](<../assets/imgs/network graph.png>)
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
 Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para esta solución.<br>
+
 - **Tecnologías:** Utilizamos tecnologías básicas como HTML5, CSS y JavaScript para el desarrollo web.
 
 - **Herramientas:** Nos apoyamos en herramientas populares como Visual Studio Code, GitHub, Figma y WebStorm para facilitar el desarrollo y la colaboración en el proyecto.
@@ -40,11 +43,12 @@ Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, refe
 En la siguiente sección se explicará cómo se realizó la
 implementación de nuestra landing page en la plataforma de
 GitHub.
-1) Establecemos un repositorio remoto en GitHub como el centro de nuestro proyecto.
-2) Inicializamos el repositorio usando el comando “git init”
-3) Añadimos el repositorio remoto y subimos los archivos a la nube de GitHub.
-4) Configuramos GitHub Pages en la sección de configuración del repositorio en GitHub.
-5) Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra página web se haya desplegado correctamente.
+
+1. Establecemos un repositorio remoto en GitHub como el centro de nuestro proyecto.
+2. Inicializamos el repositorio usando el comando “git init”
+3. Añadimos el repositorio remoto y subimos los archivos a la nube de GitHub.
+4. Configuramos GitHub Pages en la sección de configuración del repositorio en GitHub.
+5. Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra página web se haya desplegado correctamente.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -97,14 +101,45 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Mathias</td>
     <td colspan="1">Done</td>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">13</td>
+    <td colspan="2">Visualización de servicios</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir sección de servicios</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">14</td>
+    <td colspan="2">Sección de contacto</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Añadir sección de contacto</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">15</td>
+    <td colspan="2">Sección de about us</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Añadir sección de about us</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">16</td>
+    <td colspan="2">Sección de inicio</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Añadir sección de inicio</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
 </table>
 
 ### 5.2.1.3. Development Evidence for Sprint Review
@@ -145,6 +180,7 @@ sus respectivos criterios de aceptación.
 ![alt text](../assets/imgs/creadores-feature.png)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 ![alt text](../assets/imgs/header.png)
@@ -155,9 +191,8 @@ Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page 
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-
-
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
 
 ![alt text](<../assets/imgs/Github Repositorio.png>)
@@ -167,6 +202,7 @@ Una vez creado el repositorio, entraremos a configuración del repositorio y esc
 ![alt text](<../assets/imgs/Github Pages.png>)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 ![alt text](../assets/imgs/Insights.png)
