@@ -1,6 +1,7 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
 Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron nuevos procesos enfocados en mejorar las fases de los segmentos objetivos con nuestro proyecto.
 
 **_Segmento Objetivo 1: Clara Diaz - Doctora_**
@@ -13,12 +14,12 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
 
 Los User Stories sirven para describir de manera más detallada las diferentes funciones de la aplicación, adaptándolas a las necesidades y prioridades de los usuarios. Estas historias también capturan el propósito de uso de las personas, brindando una comprensión más completa de cómo se relacionan con la aplicación y qué esperan lograr con ella.
 
-| Epics                        | User Stories                                                                                                                                            |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Autenticación y autorización | 1. Gestión de las cuentas de los usuarios<br>2. Verificación de credenciales médicas<br>3. Gestión de roles de cuentas<br>4. Eliminar cuenta de Usuario |
-| Visualizacion de Apartados   |6.Visualizar actividades del Usuario<br>10.Visualización del caso y documentos                                                               | 
-|      Gestion de opciones                     |  7.Busqueda por filtros <br>8. Suscripción a un plan<br>         11.Contacto con medico asesor designado <br>     12.Cambio de medico asesor designado    |
-|      Landing Page                  | 5. Visualización de lista de tipos de suscripción  <br>  13. Visualización de servicios <br> 14. Sección de contacto <br> 15. Sección de about us <br> 16. Sección de creadores |
+| Epics                        | User Stories                                                                                                                                                                                             |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Autenticación y autorización | 1. Gestión de las cuentas de los usuarios<br>2. Verificación de credenciales médicas<br>3. Gestión de roles de cuentas<br>4. Eliminar cuenta de Usuario                                                  |
+| Visualizacion de Apartados   | 6.Visualizar actividades del Usuario<br>10.Visualización del caso y documentos                                                                                                                           |
+| Gestion de opciones          | 7.Busqueda por filtros <br>8. Suscripción a un plan<br> 11.Contacto con medico asesor designado <br> 12.Cambio de medico asesor designado                                                                |
+| Landing Page                 | 5. Visualización de lista de tipos de suscripción <br> 13. Visualización de servicios <br> 14. Sección de contacto <br> 15. Sección de about us <br> 16. Sección de creadores <br> 17. Sección de inicio |
 
 <table>
   <tr>
@@ -486,6 +487,36 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <br>DADO que soy un visitante de la landing page,<br>
     <br>CUANDO me encuentre navegando por la landing page,<br>
     <br>ENTONCES encuentro una sección creadores que me brinda información acerca de los creadores de la empresa la cual estoy interesado en sus servicios.
+</td>
+</table>
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 17</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU17</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP04</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">Diego Flores</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Sección de inicio</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Visualización de una sección inicio<br>
+    <br>DADO que soy un visitante de la landing page,<br>
+    <br>CUANDO me encuentre navegando por la landing page,<br>
+    <br>ENTONCES encuentro una sección inicio que tenga una barra de navegación donde pueda ver el logo para poder desplazarme mejor.
 </td>
 </table>
 
