@@ -131,7 +131,7 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 
 En el siguiente link se encuentran todas las entrevistas en orden y en el siguiente punto estan cada una de las preguntas que se le hicieron a cada entrevistado con su respectiva respuesta y minuto del video en los que dura la correspondiente entrevista. 
 
-Link de la entrevista:
+Link de la entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EY0EEih9gSFFtx3i-ZEJrs8BvrigbkrnpZoWK7KLuCWRjg?e=cirhGcnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Entrevista 1: Mision Augusto Noriega Ambulodegui
 
@@ -326,8 +326,17 @@ Minuto de la entrevista: 42:42 - 46:43
 Mision Augusto Noriega Ambulodegui compartió experiencias significativas relacionadas con los desafíos legales y médicos en su práctica como anestesiólogo. Destacó la importancia de la asesoría experta en casos de complicaciones médicas y denuncias. La mención de un mecanismo institucional para revisar casos de mortalidad materna e infantil refleja la necesidad crítica de contar con recursos educativos y de asesoramiento profesional para médicos. La ausencia de uso previo de aplicaciones especializadas en el ámbito del peritaje médico por parte del Dr. Noriega sugiere una oportunidad de mercado para una solución digital que facilite el acceso a conocimientos y asesoramiento en esta área crucial.
 #### Conclusiones:
 La entrevista con el Dr. Noriega destaca una clara oportunidad de mercado para una aplicación que proporcione asesoramiento experto y recursos educativos en peritaje médico. Su experiencia subraya la necesidad entre profesionales y estudiantes de medicina por una herramienta que facilite la comprensión y manejo de desafíos legales y médicos. La ausencia de uso previo de soluciones digitales en este ámbito sugiere una fuerte potencial de adopción para la aplicación propuesta.
+#### Entrevista 2: Augusto Manuel Vasquez Carrasco
 
-**Entrevista 2: Vanessa Castillo**
+#### Conclusiones:
+En la entrevista con el Dr. Augusto Manuel Vasquez Carrasco, médico cirujano especializado en Anestesiología, se destaca su amplia experiencia desde el 2005, con especialización en Anestesiología desde el 2010 y subespecialización en Anestesiología Pediátrica. Augusto describe la complejidad de sus intervenciones quirúrgicas, enfatizando la atención individualizada requerida para cada paciente. Si bien ha enfrentado complicaciones esperadas, nunca ha tenido problemas legales, pero ha presenciado la falta de comunicación entre colegas y familias de pacientes. Ante cualquier problema con el resultado de una cirugía, buscaría ayuda profesional, habiendo incluso capacitado como perito en anestesiología para enfrentar posibles desafíos legales.
+
+#### Entrevista 3: Liliana Edith Requejo Lozada
+
+#### Conclusiones:
+En la entrevista con Liliana Edith Requejo Lozada, obstetra con 13 años de experiencia, quien trabaja en el Centro de Salud de Jesús María, destaca su trayectoria de 20 años en medicina, principalmente en obstetricia. Aunque ya no participa en cirugías principales desde hace aproximadamente 5 años, aún realiza procedimientos quirúrgicos menores, como la colocación de implantes o métodos anticonceptivos. A lo largo de su carrera, ha enfrentado algunas complicaciones durante partos y cesáreas, pero generalmente los procedimientos han tenido resultados exitosos. Conoce un caso donde lamentablemente falleció un bebé durante el parto, pero considera que estaba dentro de las posibilidades debido a la complejidad del procedimiento. Ante cualquier problema con el resultado de la cirugía de un paciente, Liliana buscaría ayuda profesional de manera rotunda, reconociendo la necesidad de orientación experta en tales situaciones.
+
+**Entrevista 4: Vanessa Castillo**
 
 **Conclusiones:**
 
