@@ -193,6 +193,14 @@ una de las tareas identificadas para el sprint.
         <td colspan="2">-</td>
         <td colspan="2">10/04/2024</td>
     </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">0ad72ce</td>
+        <td colspan="2">feat: add 'About Us' and 'Our Services' sections to landing page</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
 </table>
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
