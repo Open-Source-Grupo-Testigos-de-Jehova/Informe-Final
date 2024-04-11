@@ -131,7 +131,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">16</td>
+    <td colspan="1">17</td>
     <td colspan="2">Sección de inicio</td>
     <td colspan="1">6</td>
     <td colspan="2">Añadir sección de inicio</td>
@@ -168,6 +168,30 @@ una de las tareas identificadas para el sprint.
         <td colspan="2">feat: Added "Our Services" code</td>
         <td colspan="2">-</td>
         <td colspan="2">06/04/2024</td>
+    </tr>
+     <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">168d5f0</td>
+        <td colspan="2">chore: initial commit</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">7ace2eb</td>
+        <td colspan="2">fix: updated image errors</td>
+        <td colspan="2">-</td>
+        <td colspan="2">10/04/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">b96e52c</td>
+        <td colspan="2">fix: updated menu.js</td>
+        <td colspan="2">-</td>
+        <td colspan="2">10/04/2024</td>
     </tr>
 </table>
 
