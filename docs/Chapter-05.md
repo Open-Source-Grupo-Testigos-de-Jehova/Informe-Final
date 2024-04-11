@@ -215,6 +215,8 @@ Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page 
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+En este sprint solo se trabajó el landing page.
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
