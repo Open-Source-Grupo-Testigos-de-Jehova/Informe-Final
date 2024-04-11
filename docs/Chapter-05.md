@@ -122,16 +122,16 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="1">15</td>
-    <td colspan="2">Sección de about us</td>
+    <td colspan="2">Sección nosotros</td>
     <td colspan="1">5</td>
-    <td colspan="2">Añadir sección de about us</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
+    <td colspan="2">Añadir sección nosotros</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección nosotros para informarme sobre la empresa que está brindando los servicios.</td>
     <td colspan="1">1</td>
     <td colspan="2">Anatoly</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">17</td>
+    <td colspan="1">16</td>
     <td colspan="2">Sección de inicio</td>
     <td colspan="1">6</td>
     <td colspan="2">Añadir sección de inicio</td>
@@ -210,6 +210,10 @@ sus respectivos criterios de aceptación.
 
 ![alt text](../assets/imgs/suscripciones-feature.png)
 ![alt text](../assets/imgs/creadores-feature.png)
+![alt text](../assets/imgs/Servicios-feature.png)
+![alt text](../assets/imgs/Nosotros-feature.png)
+![alt text](../assets/imgs/Inicio-feature.png)
+![alt text](../assets/imgs/contacto-feature.png)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -247,15 +251,7 @@ Para el desarrollo de este primer sprint, todos los miembros del equipo desarrol
 
 2. La estrategia de la startup, que incluye ofrecer opciones de suscripción flexibles y asequibles, establecer asociaciones estratégicas con instituciones médicas y empresas del sector de la salud, y optimizar la experiencia de usuario, está diseñada para abordar las necesidades identificadas en el mercado y lograr el éxito comercial. Al centrarse en proporcionar un valor significativo a los usuarios a través de servicios especializados, contenido de alta calidad y una experiencia de usuario excepcional, la startup puede diferenciarse de la competencia y establecerse como líder en el mercado de servicios de anestesiología.
 
-# 5.3.1 Anexos
-# 5.3.2 Bibliografia
+## 5.4 Bibliografia
 - Existe un déficit de 2417 médicos anestesiólogos en 20 regiones del país. (n.d.). Convoca.pe - Agenda Propia. Retrieved April 11, 2024, from https://convoca.pe/agenda-propia/existe-un-deficit-de-2417-medicos-anestesiologos-en-20-regiones-del-pais
 
-
-
-
-
-
-
-
-
+- The Markdown Guide-MarkdownGuide from https://www.markdownguide.org/
