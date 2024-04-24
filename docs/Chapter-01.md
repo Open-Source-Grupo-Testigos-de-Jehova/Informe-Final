@@ -127,7 +127,9 @@ Características importantes pueden incluir un directorio de peritos en anestesi
 
 El producto debe tener una apariencia profesional y confiable, con un diseño limpio y fácil de entender. Debe comportarse de manera eficiente, brindando acceso rápido y fácil a los recursos y servicios necesarios para los usuarios. La plataforma debe ser intuitiva y fácil de navegar, con opciones claras y concisas para acceder a diferentes funciones y servicios.
 
+**User Outcomes**
 
+En este apartado, investigar que es lo que deberia ir aqui detallado y correcto.
 
 **Business Assumptions**
 
@@ -149,7 +151,13 @@ A corto plazo, nuestra estrategia de crecimiento puede centrarse en la adquisici
 
 - ¿Cómo vamos a diferenciarnos de la competencia y crear una propuesta de valor única?
 
-Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para asistencia legal y educativa, así como oportunidades laborales específicas en este campo. Además, nos enfocaremos en brindar una experiencia de usuario excepcional y contenido de alta calidad para establecer nuestra plataforma como líder en el mercado de servicios de anestesiología
+Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para asistencia legal y educativa, así como oportunidades laborales específicas en este campo. Además, nos enfocaremos en brindar una experiencia de usuario excepcional y contenido de alta calidad para establecer nuestra plataforma como líder en el mercado de servicios de anestesiología.
+
+**Business Outcomes**
+
+**Features Outcomes**
+
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
