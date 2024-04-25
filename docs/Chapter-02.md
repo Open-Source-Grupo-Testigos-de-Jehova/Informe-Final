@@ -369,24 +369,41 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 
 **_Segmento Objetivo 2: Estudiante de Medicina_**
 
-![Carlos Orbegozo](<../assets/imgs/_Carlos Orbegozo.png>)
+![Carlos Orbegozo](<../assets/imgs/Carlos Orbegozo.png>)
 
 ### 2.3.2. User Task Matrix
 
 Elaboramos los User Task Matrix  del Usuario con el propósito de determinar la frecuencia con la que los usuarios llevan a cabo diversas actividades, lo que nos permite visualizar la importancia de ciertas tareas.
 
-| Task Matrix             | Clara Frecuencia| Clara Importancia| Carlos Frecuencia | Carlos Importancia |
-|-----------------------------|---------|-------------|-------------|-------|
-| Búsqueda de un entorno seguro | Siempre | A veces     | Siempre | Alta  |
-| Interfaz y entorno amigable  | Casi nunca | A veces | A veces       | A veces |
-| Registrarse                 | A veces | Bajo        | A veces     | Bajo  |
-| Iniciar sesión              | Siempre | Medio       | Siempre     | Medio |
-| Explorar casos de estudio   | A veces | Alto        | Siempre     | Alto  |
-| Solicitar asesoramiento     | A veces | Medio       | Siempre     | Medio |
-| Suscribirse a un plan de servicio | Siempre | Medio | Siempre     | Medio |
-| Participar en foros de discusión | A veces | Medio | Siempre     | Medio |
-| Actualizar información de perfil | A veces | Alto | A veces     | Alto  |
-| Leer artículos y guías      | Siempre | Medio       | Casi nunca  | Medio |
+| Tareas                                                        | Estudiante de Medicina <br>Importancia   | Estudiante de Medicina<br>Frecuencia               | Médico/a  <br>Importancia    | Médico/a  <br>Frecuencia               |
+|---------------------------------------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Acceder a recursos educativos en línea                        | Alta                     | Siempre                  | Media                    | Casi siempre             |
+| Participar en prácticas clínicas y adquirir habilidades prácticas | Alta                 | Siempre                  | Media                    | A veces                  |
+| Estudiar y comprender implicaciones legales y éticas de la práctica médica | Alta         | Siempre                  | Alta                     | Siempre                  |
+| Mantenerse actualizado/a en avances médicos y tecnológicos    | Alta                     | Siempre                  | Alta                     | Siempre                  |
+| Buscar apoyo legal en caso de necesidad                       | Media                    | A veces                  | Alta                     | Siempre                  |
+| Colaborar con otros profesionales de la salud                 | Baja                     | Casi nunca               | Alta                     | Siempre                  |
+| Realizar investigaciones médicas                              | Media                    | A veces                  | Alta                     | Siempre                  |
+| Asistir a conferencias y eventos académicos                   | Media                    | A veces                  | Alta                     | Siempre                  |
+| Participar en actividades extracurriculares relacionadas con la medicina | Alta            | Siempre                  | Media                    | A veces                  |
+| Cumplir con requisitos académicos (exámenes, trabajos)        | Alta                     | Siempre                  | Media                    | A veces                  |
+| Utilizar tecnología médica avanzada en prácticas clínicas     | Media                    | A veces                  | Alta                     | Siempre                  |
+| Gestionar el tiempo de estudio y prácticas                    | Alta                     | Siempre                  | Media                    | A veces                  |
+
+
+#### **Explicación y análisis**
+
+**Realizar investigaciones médicas:** Esta tarea es más relevante para el Médico/a, pero el Estudiante de Medicina también puede realizar investigaciones como parte de su formación.
+
+**Asistir a conferencias y eventos académicos:** Ambos User Personas encuentran importante mantenerse al tanto de los avances médicos y participar en eventos académicos para ampliar sus conocimientos.
+
+**Participar en actividades extracurriculares relacionadas con la medicina:** Esta tarea es más relevante para el Estudiante de Medicina, ya que puede participar en actividades extracurriculares para complementar su formación.
+
+**Cumplir con requisitos académicos (exámenes, trabajos):** Esta tarea es de alta importancia para ambos User Personas, ya que necesitan cumplir con los requisitos académicos para avanzar en su formación.
+
+**Utilizar tecnología médica avanzada en prácticas clínicas:** Esta tarea es más relevante para el Médico/a, pero el Estudiante de Medicina también puede tener la oportunidad de utilizar tecnología médica avanzada durante sus prácticas clínicas.
+
+**Gestionar el tiempo de estudio y prácticas:** Esta tarea es crucial para ambos User Personas, ya que necesitan administrar su tiempo eficientemente para cumplir con sus responsabilidades académicas y profesionales.
 
 ### 2.3.3. User Journey Mapping
 
