@@ -179,6 +179,7 @@ Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para 
 
 ## 1.3. Segmento Objetivo
 
+
 Establecer y definir un segmento objetivo es fundamental para el desarrollo exitoso de esta etapa del proyecto. Como resultado, los futuros clientes del segmento tendrán un producto que cumpla sus necesidades. Esto llevó a la definición del siguiente segmento objetivo.
 
 Segmento 1: Para nuestro primer segmento objetivo está compuesto por médicos que buscan asistencia legal especializada de parte de nuestros abogados expertos en medicina legal. Este grupo incluye a profesionales médicos de diversas especialidades, desde médicos generales hasta cirujanos y especialistas en áreas específicas como la obstetricia, la oncología o la neurología.
