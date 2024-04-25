@@ -55,7 +55,7 @@ Utilizaremos las siguientes referencias para establecer nuestras convenciones.
 - "Google JavaScript Style Guide"
 - "MDN JavaScript guidelines"
 - "W3C JavaScript Style Guide"
-- "Vue Style Guide".
+- "Angular coding style guide".
 
 4. **C#**: 
 - "C# Coding Conventions"
