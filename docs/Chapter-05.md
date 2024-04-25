@@ -8,49 +8,87 @@ En esta sección se resume toda la información recopilada, analizando el codigo
 
 En la siguiente sección se describe la ruta de referencia de cada uno de los productos de software para que cualquier miembro del equipo pueda desarrollar cada punto del trabajo.
 
-- **UXPressia:** Plataforma que nos permitirá crear los user stories y tambien poderemos realizar múltiples mapas para evaluar sus prioridades y una serie de opciones que nos aportan al aspecto grafico de nuestro trabajo.
-- **Figma:** Herramienta colaborativa que nos permitirá desarrollar lo respectivos wireframes y mockups de nuestra landing page.
-- **Vertabelo:** Plataforma que nos permitirá crear nuestro diagrama de base de datos.
-- **LucidChart:** Aplicación web destinada a la elaboración de Wireflows, Lean UX Canvas, User Flows y diagramas de clases.
-- **GitHub:** Repositorio colaborativo en la nube.
-- **Visual Studio Code:** Entorno de desarrollo.
-- **GitHub Pages:** Plataforma que permite hacer deployments sencillos y rapidos para nuestra páginas web.
-- **HTML5:** Lenguaje para elaboración de nuestra página web.
-- **CSS3:** Tecnología para darle variados estilos a nuestra página web.
-- **Javascript:** Lenguaje de programación orientado a objetos, que nos sirvió para implementar funcionalidades en nuestra Landing Page.
+- **UXPressia:** Plataforma que nos permitirá crear los user stories y también realizar múltiples mapas para evaluar sus prioridades. Además, ofrece opciones gráficas para mejorar el aspecto de nuestro trabajo. Puedes acceder a la plataforma en el siguiente enlace: [UXPressia](https://www.uxpressia.com/)
+- **Figma:** Herramienta colaborativa que nos permitirá desarrollar los respectivos Wireframes y Mockups de nuestra Landing Page. Se puede acceder a la plataforma en el siguiente enlace: [Figma](https://www.figma.com/).
+- **Vertabelo:** Plataforma que nos permitirá crear nuestro Diagrama de Base de Datos. Se puede acceder a la plataforma en el siguiente enlace: [Vertabelo](https://www.vertabelo.com/).
+- **LucidChart:** Aplicación web destinada a la elaboración de Wireflows, Lean UX Canvas, User Flows y Diagramas de clases. Se puede acceder a la plataforma en el siguiente enlace: [LucidChart](https://www.lucidchart.com/).
+- **GitHub:** Repositorio colaborativo en la nube utilizado para almacenar los avances de nuestro proyecto. Se puede acceder a la plataforma en el siguiente enlace: [Github](https://github.com/).
+- **Visual Studio Code:** Entorno de desarrollo utilizado por nuestro equipo para el desarrollo del proyecto en general, incluido el Informe. Se puede acceder a la plataforma en el siguiente enlace: [Visual Studio Code](https://code.visualstudio.com/).
+- **GitHub Pages:** Plataforma que permite hacer deployments sencillos y rápidos para nuestras páginas web. Se puede acceder a la plataforma en el siguiente enlace: [Github Pages](https://pages.github.com/).
+
+- **HTML5:** Lenguaje para la elaboración de nuestra página web.
+- **CSS3:** Tecnología para darle estilos a nuestra página web.
+- **JavaScript:** Lenguaje de programación orientado a objetos que nos sirvió para implementar funcionalidades en nuestra Landing Page.
 
 ### 5.1.2. Source Code Management
 
-Trabajamos con tres ramas principales:
+Para gestionar las modificaciones en nuestro proyecto, emplearemos GitHub como plataforma y sistema de control de versiones. A continuación, se detallan los repositorios de GitHub para cada uno de nuestros productos:
 
-- Main: nuestra rama principal donde presentaremos nuestras
-  publicaciones oficiales.
+- Organización del Equipo: https://github.com/Open-Source-Grupo-Testigos-de-Jehova
+- Repositorio del Informe: https://github.com/Open-Source-Grupo-Testigos-de-Jehova/Informe-Final
+- Repositorio del Landing Page: https://github.com/Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense
+- Enlace del Landing Page: https://open-source-grupo-testigos-de-jehova.github.io/Landing-page-MedicDefense/
+- Repositorio del Front-End: https://github.com/Open-Source-Grupo-Testigos-de-Jehova/frontend-app
 
-![alt text](<../assets/imgs/network graph.png>)
+Para estructurar nuestro control de versiones, implementaremos el modelo GitFlow como nuestro flujo de trabajo estándar. Esto implicará la creación de las siguientes ramas, además de la rama principal (main):
+
+- Develop Branch: Esta rama contendrá el código en desarrollo y servirá como base para la integración de nuevas funcionalidades.
+- Feature Branches: Cada nueva característica que se implemente requerirá su propio branch. Utilizaremos la convención de nombrar los branches de características como "feature/nombre-de-la-caracteristica".
+- Release Branches: Antes de lanzar una nueva versión, crearemos una rama de release para realizar pruebas finales y correcciones.
+- Hotfix Branches: En caso de surgir problemas en el desarrollo, se crearán branches de hotfix para poder solucionarlos sin afectar la rama principal.
+
+Además, seguiremos el estándar establecido por Conventional Commits para asegurar una estructura clara y consistente en nuestros Commits, facilitando la colaboración y la comprensión del historial de versiones en nuestro equipo.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para esta solución.<br>
+A continuación, se detallan las referencias y convenciones que adoptaremos para programar en los diferentes lenguajes utilizados en nuestro proyecto:
 
-- **Tecnologías:** Utilizamos tecnologías básicas como HTML5, CSS y JavaScript para el desarrollo web.
+Utilizaremos las siguientes referencias para establecer nuestras convenciones.
+1. **HTML**:
+- "HTML Style Guide and Coding Conventions"
+- "Google HTML/CSS Style Guide"
 
-- **Herramientas:** Nos apoyamos en herramientas populares como Visual Studio Code, GitHub, Figma y WebStorm para facilitar el desarrollo y la colaboración en el proyecto.
+2. **CSS**:
+- "Google HTML/CSS Style Guide"
 
-- **Convenciones de Idioma:** Optamos por utilizar el inglés en todo nuestro código, incluyendo la Landing Page, para mantener la coherencia y facilitar la comunicación y colaboración con otros desarrolladores y usuarios.
+3. **JavaScript**:
+- "Google JavaScript Style Guide"
+- "MDN JavaScript guidelines"
+- "W3C JavaScript Style Guide"
+- "Vue Style Guide".
+
+4. **C#**: 
+- "C# Coding Conventions"
+- "Microsoft ASP.NET Core Coding Guidelines".
+
+5. **Gherkin**:
+- "Gherkin Conventions for Readable Specifications".
+
+Es importante destacar que todas las convenciones y referencias mencionadas están en inglés, siguiendo las prácticas comunes en el desarrollo de software. De tal modo que, al seguir estas referencias nos ayudará a mantener un código claro, coherente y fácilmente comprensible para todo el equipo de desarrollo.
 
 ### 5.1.4. Software Deployment Configuration
 
-En la siguiente sección se explicará cómo se realizó la
-implementación de nuestra landing page en la plataforma de
-GitHub.
+Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los siguientes pasos:
 
-1. Establecemos un repositorio remoto en GitHub como el centro de nuestro proyecto.
-2. Inicializamos el repositorio usando el comando “git init”
-3. Añadimos el repositorio remoto y subimos los archivos a la nube de GitHub.
-4. Configuramos GitHub Pages en la sección de configuración del repositorio en GitHub.
-5. Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra página web se haya desplegado correctamente.
+1. Creación del Repositorio Remoto en GitHub:
+- Creamos un nuevo repositorio en GitHub de nuestro proyecto, el cual se utilizará para el desarrollo y deployment.
+2. Inicialización del Repositorio:
+- Se utilza el comando "*git init*" para inicializar el repositorio.
+3. Subida de Archivos al Repositorio Remoto:
+- Añadimos los archivos de nuestra landing page al repositorio local.
+- Subimos los archivos al repositorio de GitHub con el comando "*git push -u origin master*" o sino utilizando Github Desktop.
+4. Configuración de GitHub Pages:
+- Accedemos a la sección de configuración del repositorio en GitHub y entramos al apartado de Github Pages.
+- Seleccionamos la rama de GitHub Pages (main) como fuente para el deployment de nuestra Landing Page
+5. Despliegue:
+- Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
+
+De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
+Enlace del Landing Page: https://open-source-grupo-testigos-de-jehova.github.io/Landing-page-MedicDefense/
 
 ## 5.2. Landing Page, Services & Applications Implementation
+En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
+documentación y despliegue del Landing Page.
 
 ### 5.2.1. Sprint 1
 
@@ -219,10 +257,15 @@ sus respectivos criterios de aceptación.
 
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
+**Sección de inicio**: Se implementó el Header de nuestra Landing Page.
 ![alt text](../assets/imgs/header.png)
+**Sección de Nosotros**: Se implementó la sección de nosotros para describir un poco sobre quienes somos.
 ![alt text](../assets/imgs/nosotros.png)
+**Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
 ![alt text](../assets/imgs/servicios.png)
+**Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
 ![alt text](<../assets/imgs/nuestros planes.png>)
+**Sección de contacto y creadores**: Se añadió la sección de contacto para facilitar la comunicación con los usuarios y la información de los creadores.
 ![alt text](../assets/imgs/footer.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -243,7 +286,13 @@ Una vez creado el repositorio, entraremos a configuración del repositorio y esc
 
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
+Commits:
+
 ![alt text](../assets/imgs/Insights.png)
+
+Analiticas de Colaboración:
+
+![alt text](../assets/imgs/AnaliticasLanding.png)
 
 ## 5.3. Conclusiones 
 
