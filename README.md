@@ -31,6 +31,22 @@ Relación de Integrantes:
 |         |            |                                                                                                                                                            |                                                                         |
 |         |            |                                                                                                                                                            |                                                                         |
 
+## Project Report Collaboration Insights
+A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
+
+**URL del Repositorio del Informe:** https://github.com/Open-Source-Grupo-Testigos-de-Jehova/Informe-Final
+
+**Entrega N°1: TB1**
+- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
+- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
+
+A continuacion, se presentará la evidencia que muestra los análisis de colaboración y commits en el repositorio del informe realizados por los miembros del equipo durante esta entrega:
+
+Analisis de Colaboración:
+
+Commits:
+
+
 ## Índice
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
