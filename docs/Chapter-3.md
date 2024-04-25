@@ -14,511 +14,199 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
 
 Los User Stories sirven para describir de manera más detallada las diferentes funciones de la aplicación, adaptándolas a las necesidades y prioridades de los usuarios. Estas historias también capturan el propósito de uso de las personas, brindando una comprensión más completa de cómo se relacionan con la aplicación y qué esperan lograr con ella.
 
-| Epics                        | User Stories                                                                                                                                                                                             |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Autenticación y autorización | 1. Gestión de las cuentas de los usuarios<br>2. Verificación de credenciales médicas<br>3. Gestión de roles de cuentas<br>4. Eliminar cuenta de Usuario                                                  |
-| Visualizacion de Apartados   | 6.Visualizar actividades del Usuario<br>10.Visualización del caso y documentos                                                                                                                           |
-| Gestion de opciones          | 7.Busqueda por filtros <br>8. Suscripción a un plan<br> 11.Contacto con medico asesor designado <br> 12.Cambio de medico asesor designado                                                                |
-| Landing Page                 | 5. Visualización de lista de tipos de suscripción <br> 13. Visualización de servicios <br> 14. Sección de contacto <br> 15. Sección de about us <br> 16. Sección de creadores <br> 17. Sección de inicio |
-
 <table>
-  <tr>
-    <th colspan="5">Historia de Usuario 1</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU01</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP01</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">Anatoly Noriega</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Gestión de las cuentas de los usuarios</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
+    <tr>
+        <th>Epic / Story ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Criterios de Aceptación</th>
+        <th>Relacionado con (Epic ID)</th>
     </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Creación y Actualización de Cuenta por el Usuario<br><br>Dado que soy un usuario que necesita crear y actualizar mi cuenta para acceder a servicios personalizados,<br><br>Cuando selecciono la opción de crear una nueva cuenta o editar mi cuenta existente en la aplicación,<br><br>Y completo la información requerida como mi nombre, especialidad, correo electrónico, y contraseña,<br><br>Entonces la aplicación procesa y confirma la creación o actualización de mi cuenta.</td>
-</table>
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 2</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU02</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP01</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">Anatoly Noriega</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Verificación de Credenciales Médicas</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como médico registrado en la plataforma, quiero que mi perfil pase por un proceso de verificación de credenciales médicas para aumentar mi credibilidad dentro de la comunidad y tener acceso a recursos especializados.</td>
+    <tr>
+        <td>EP01</td>
+        <td>Funciones de Usuario</td>
+        <td>Como médico, deseo tener funciones y opciones relacionadas a mi usuario para manejar mis datos y acciones en la cuenta.</td>
+        <td></td>
+        <td></td>
     </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Subida y Verificación de Credenciales Médicas por el Usuario<br><br>Dado que soy un médico que se registra en la plataforma <br><br>Y necesito verificar mi identidad profesional,<br><br>Cuando subo mis documentos de credenciales médicas a través de la interfaz de usuario designada para ello,<br><br>Y envío la documentación para su revisión,<br><br>Entonces la plataforma inicia el proceso de verificación de manera automática,<br><br>Y una vez verificadas, mi perfil se actualiza con un distintivo que indica mi estatus verificado.</td>
-</table>
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 3</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU03</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP01</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">Anatoly Noriega</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Gestión de Roles de Cuentas</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como administrador de la plataforma, necesito poder asignar, modificar y revocar roles de usuario para gestionar adecuadamente el acceso a diversas áreas de la plataforma.</td>
+    <tr>
+        <td>EP02</td>
+        <td>Visualizacion de Apartados</td>
+        <td>Como médico, deseo tener opciones de detalles y búsqueda para visualizar los datos que me interesan en la plataforma.</td>
+        <td></td>
+        <td></td>
     </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Asignación de Rol a un Usuario Nuevo por el Administrador<br><br>Dado que soy el administrador de la plataforma <br><br>Y necesito asignar roles adecuados a los usuarios según su perfil profesional,<br><br>Cuando un usuario nuevo se registra y completa su perfil,<br><br>Y reviso la información de perfil y documentos subidos del usuario,<br><br>Entonces asigno un rol correspondiente a su perfil (como 'Estudiante de Medicina', 'Médico General', 'Asesor Legal'),</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 4</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU04</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP01</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">  Gabriel Garcia</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Eliminar cuenta Usuario</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma de MedicDefense,necesito poder eliminar mi cuenta en caso sea necesario para no tener vinculo con el sitio web.</td>
+    <tr>
+        <td>EP03</td>
+        <td>Landing Page</td>
+        <td>Como médico, deseo visitar una Landing Page para informarme sobre MedicDefense y lo que ofrece.</td>
+        <td></td>
+        <td></td>
     </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: El Usuario no tiene una cuenta<br><br>DADO de que el Cliente quiere eliminar su cuenta del sitio web<br><br>CUANDO éste decidido a hacerlo,<br><br>Y complete las verificaciones para ver que sea el usuario de la cuenta,<br><br>ENTONCES al presionar el botón "eliminar cuenta" del apartado de configuración se eliminara su cuenta exitosamente.</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 5</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU05</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP04</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">  Gabriel Garcia</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Visualización de lista de tipos de suscripción</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como visitador del alding page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+    <tr>
+        <td>EP04</td>
+        <td>Interacción con Abogado</td>
+        <td>Como médico, deseo tener funciones y opciones relacionadas al abogado para tratar con él u opinar de sus servicios.</td>
+        <td></td>
+        <td></td>
     </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: El Usuario quiere visualizar tipos de suscripciones<br><br>DADO de que el Cliente quiere visualizar los tipos de suscripciones enl sitio web<br><br>CUANDO tiene curiosidad sobre los precios de las suscripciones para usarl sitio web,<br><br>Y complete las acciones para dirigirse al apartado,<br><br>ENTONCES irá al apartado "suscripciones" dentro del sitio web y podrá ver las promociones que tiene el sitio web.</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 6</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU06</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP02</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">  Gabriel Garcia</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Visualizar actividades del Usuario</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
+    <tr>
+        <td>HU01</td>
+        <td>Gestión de las cuentas de los usuarios</td>
+        <td>Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
+        <td>Scenario: Creación y Actualización de Cuenta por el Usuario<br><br>GIVEN el usuario necesita crear y actualizar su cuenta para acceder a sus servicios personalizados <br><br>WHEN selecciona la opción de crear una nueva cuenta o editar su cuenta existente en la aplicación,<br><br>AND completa la información requerida como su nombre, especialidad, correo electrónico, y contraseña,<br><br>THEN la aplicación procesa y confirma la creación o actualización de su cuenta.</td>
+        <td>EP01</td>
     </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: El Cliente quiere visualizar sus actividades en el sitio web<br><br>DADO de que el Cliente quiere visualizar sus actividades <br><br>CUANDO se le asignen en las asesorias y/o reuniones<br><br>Y complete las acciones para dirigirse al apartado,<br><br>ENTONCES irá al apartado de "actividades" dentro del sitio web y podrá visualizarlos.</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 7</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU07</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP03</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">  Fabricio Apaza</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Búsqueda por Filtros</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder realizar búsqueda por medio de filtros para facilitar el acceso a ello.</td>
+    <tr>
+        <td>HU02</td>
+        <td>Verificación de Credenciales Médicas</td>
+        <td>Como médico registrado en la plataforma, quiero que mi perfil pase por un proceso de verificación de credenciales médicas para aumentar mi credibilidad dentro de la comunidad y tener acceso a recursos especializados.</td>
+        <td>Scenario: Subida y Verificación de Credenciales Médicas por el Usuario<br><br>GIVEN que el médico se registra en la plataforma y necesita verificar su identidad profesional,<br><br>WHEN suba sus documentos de credenciales médicas a través de la interfaz de usuario designada para ello,<br><br>AND envíe la documentación para su revisión,<br><br>THEN la plataforma inicia el proceso de verificación de manera automática, y una vez verificadas, su perfil se actualiza con un distintivo que indica su estatus verificado.</td>
+        <td>EP01</td>
     </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Busqueda de Abogado Médico por el Usuario<br>
-    <br>DADO que soy un usuario que necesita realizar una búsqueda de abogado médico,<br>
-    <br>CUANDO selecciono la búsqueda por filtros,<br>
-    <br>ENTONCES escojo los parámetros de filtro y la búsqueda será exitosa de acuerdo a lo seleccionado.
-</td>
+    <tr>
+        <td>HU03</td>
+        <td>Gestión de Roles de Cuentas</td>
+        <td>Como administrador de la plataforma, necesito poder asignar, modificar y revocar roles de usuario para gestionar adecuadamente el acceso a diversas áreas de la plataforma.</td>
+        <td>Scenario: Asignación de Rol a un Usuario Nuevo por el Administrador <br><br>GIVEN que el administrador de la plataforma necesita asignar roles adecuados a los usuarios según su perfil profesional, <br><br>WHEN un usuario nuevo se registra y completa su perfil,<br><br>AND revisa la información de perfil y documentos subidos del usuario,<br><br>THEN se asigna un rol correspondiente a su perfil (como 'Estudiante de Medicina', 'Médico General', 'Asesor Legal').</td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>HU04</td>
+        <td>Eliminar cuenta Usuario</td>
+        <td>Como usuario de la plataforma de MedicDefense, quiero poder eliminar mi cuenta para no tener vinculo con el sitio web.</td>
+        <td>Scenario: El Usuario elimina una cuenta<br>
+        <br>GIVEN el Cliente quiere eliminar su cuenta del sitio web<br>
+        <br>WHEN complete las verificaciones para ver que sea el usuario de la cuenta,<br><br>AND presione el botón "eliminar cuenta" del apartado de configuración,<br><br>THEN se eliminara su cuenta exitosamente.</td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>HU05</td>
+        <td>Visualización de lista de tipos de suscripción</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+        <td>Scenario: El Usuario quiere visualizar tipos de suscripciones<br>
+        <br>GIVEN el Cliente quiere visualizar los tipos de suscripciones enl sitio web<br>
+        <br>WHEN tiene curiosidad sobre los precios de las suscripciones para usar el sitio web,<br>
+        <br>AND complete las acciones para dirigirse al apartado,<br>
+        <br>THEN irá al apartado "suscripciones" dentro del sitio web y podrá ver las promociones que tiene el sitio web.</td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>HU06</td>
+        <td>Visualizar actividades del Usuario</td>
+        <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
+        <td>Scenario: El Cliente quiere visualizar sus actividades en el sitio web<br>
+    <br>GIVEN el Cliente quiere visualizar sus actividades<br>
+    <br>WHEN se le asignen en las asesorias y/o reuniones<br>
+    <br>AND complete las acciones para dirigirse al apartado,<br>
+    <br>THEN irá al apartado de "actividades" dentro del sitio web y podrá visualizarlos.</td>
+        <td>EP02</td>
+    </tr>
+    <tr>
+    <td>HU07</td>
+        <td>Búsqueda por Filtros</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder realizar búsqueda por medio de filtros para facilitar el acceso a ello.</td>
+        <td>Scenario: Busqueda de Abogado Médico por el Usuario<br>
+    <br>GIVEN que el usuario necesite realizar una búsqueda de abogado médico,<br>
+    <br>WHEN seleccione la búsqueda por filtros,<br>
+    <br>THEN escoje los parámetros de filtro y la búsqueda será exitosa de acuerdo a lo seleccionado.</td>
+        <td>EP02</td>
+    </tr>
+    <tr>
+    <td>HU08</td>
+        <td>Suscripción a un plan</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de suscribirme a un plan mensual o anual para tener los beneficios de la suscripción.</td>
+        <td>Scenario: Suscripción a un plan de usuario<br>
+    <br>GIVEN que el usuario quiere inscribirse en la plataforma MedicDefense,<br>
+    <br>WHEN escoje el tipo de suscripción (mensual o anual) de acuerdo a lo que se beneficie,<br>
+    <br>THEN realizara el pago y podra recibir los beneficios de la suscripción escogida.</td>
+        <td>EP04</td>
+    </tr>
+    <tr>
+    <td>HU09</td>
+        <td>Visualización de Perfil de Abogado Médico</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
+        <td>Scenario: Visualización de perfil<br>
+    <br>GIVEN un usuario quiere ver los perfiles de los abogados médicos en MedicDefense y tiene curiosidad sobre los perfiles de los abogados médicos,<br>
+    <br>WHEN entra a la sección “Perfiles de Abogados” dentro del sitio web,<br>
+    <br>THEN podrá visualizar los perfiles.</td>
+        <td>EP02</td>
+    </tr>
+    <tr>
+    <td>HU10</td>
+        <td>Visualización del caso y documentos</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
+        <td>Scenario: Visualización de documentacion<br>
+    <br>GIVEN un usuario quiere ver su caso con su respectiva documentacion en MedicDefense,<br>
+    <br>WHEN entre a la sección “Resumen”,<br>
+    <br>AND seleccione su caso,<br>
+    <br>THEN podrá visualizar toda la documentacion de su caso.</td>
+        <td>EP02</td>
+    </tr>
+    <tr>
+    <td>HU11</td>
+        <td>Contacto directo con mi medico asesor</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
+        <td>Scenario: Contacto con el medido asesor seleccionado<br>
+    <br>GIVEN un usuario quiere contactarse con su medico asesor en MedicDefense,<br>
+    <br>WHEN entre a la sección “Perfiles de Abogados” dentro del sitio web,<br>
+    <br>THEN tendrá la informacion del medico asesor que seleccionó para poder tener contacto con él.</td>
+        <td>EP04</td>
+    </tr>
+    <tr>
+    <td>HU12</td>
+        <td>Cambiar de medico asesor</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
+        <td>Scenario: Cambio de medico defensor/asesor<br>
+    <br>GIVEN que el usuario que quiere cambiar de medico defensor o asesor<br>
+    <br>WHEN  asi lo desee el usuario poder tener contacto con el sitio web y solicitarles personalmente un cambio en el medico que me esta defendiendo o asesorando,<br>
+    <br>THEN entra a la sección "Contacto", esperando que se acepte la solicitud de cambio.</td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+    <td>HU13</td>
+        <td>Visualización de servicios</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+        <td>Scenario: Visualizar información sobre los servicios<br><br>GIVEN un usuario visita la landing page,<br><br>WHEN se encuentre navegando por la landing page,<br><br>THEN encuentra una sección con información acerca de los servicios de MedicDefense.</td>
+        <td>EP03</td>
+    </tr>
+    <tr>
+    <td>HU14</td>
+        <td>Sección de contacto</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
+        <td>Scenario: Visualización de una sección de contacto<br><br>GIVEN un usuario visita la landing page,<br><br>WHEN se encuentre navegando por la landing page,<br><br>THEN encuentra una sección de contacto con campos como nombre, correo, teléfono, mensaje para solicitar información.</td>
+        <td>EP03</td>
+    </tr>
+    <tr>
+    <td>HU15</td>
+        <td>Sección about us</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
+        <td>Scenario: Visualización de una sección about us<br><br>GIVEN un usuario visita la landing page,<br><br>WHEN se encuentre navegando por la landing page,<br><br>THEN encuentra una sección about us que le brinda información acerca de la empresa cuyos servicios le interesan.</td>
+        <td>EP03</td>
+    </tr>
+    <tr>
+    <td>HU16</td>
+        <td>Sección de Creadores</td>
+        <td>CComo visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+        <td>Scenario: Visualización de una sección creadores<br>
+    <br>GIVEN un usuario visita la landing page,
+<br>
+    <br>WHEN se encuentre navegando por la landing page,<br><br>
+    THEN encuentra una sección creadores que le brinda información acerca de los creadores de la empresa.</td>
+        <td>EP03</td>
+    </tr>
+    <tr>
+    <td>HU17</td>
+        <td>Sección de inicio</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+        <td>Scenario: Visualización de una sección inicio<br>
+    <br>GIVEN un usuario visita la landing page,<br>
+    <br>WHEN se encuentre navegando por la landing page,<br>
+    <br>THEN encuentra una sección inicio que tenga una barra de navegación donde puede ver el logo para poder desplazarse mejor.</td>
+        <td>EP03</td>
+    </tr>
 </table>
 
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 8</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU08</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP03</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">  Fabricio Apaza</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Suscripción a un plan </td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de suscribirme a un plan mensual o anual para tener los beneficios de la suscripción.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Suscripción a un plan de usuario<br>
-    <br>DADO que soy un usuario que quiere inscribirse en la plataforma MedicDefense,<br>
-    <br>CUANDO escojo el tipo de suscripción (mensual o anual) de acuerdo a lo que me beneficie,<br>
-    <br>ENTONCES realizaré el pago y podré recibir los beneficios de la suscripción escogida.
-</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 9</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU09</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP03</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">  Fabricio Apaza</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Visualización de Perfil de Abogado Médico</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Visualización de perfil<br>
-    <br>DADO que soy un usuario que quiere ver los perfiles de los abogados médicos en MedicDefense,<br>
-    <br>CUANDO tiene curiosidad sobre los perfiles de los abogados médicos,<br>
-    <br>ENTONCES entro a la sección “Perfiles de Abogados” dentro del sitio web y podré visualizar.
-</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 10</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU10</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP01</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">  Mathias Vasquez</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Visualización del caso y documentos</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Visualización de documentacion<br>
-    <br>DADO que soy un usuario que quiere ver todo mi caso con su respectiva documentacion en MedicDefense,<br>
-    <br>CUANDO yo lo desee, tendré la capacidad de ver dicha documentacion,<br>
-    <br>ENTONCES entro a la sección “Perfil” dentro del sitio web y podré visualizar toda la documentacion de mi caso.
-</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 11</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU11</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP07</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">  Mathias Vasquez</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Contacto directo con mi medico asesor</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Contacto con el medido asesor seleccionado<br>
-    <br>DADO que soy un usuario que quiere contactarse con su medico asesor en MedicDefense,<br>
-    <br>CUANDO yo lo desee podré mantener contacto con el medico asesor mediante el sitio web o su contacto personal,<br>
-    <br>ENTONCES entro a la sección “Perfiles de Abogados” dentro del sitio web y podré tener la informacion del medico asesor que seleccioné para poder tener contacto con él.
-</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 12</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU12</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP08</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">  Mathias Vasquez</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Cambiar de medico asesor</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Cambio de medico defensor/asesor<br>
-    <br>DADO que soy un usuario que quiere cambiar de medico defensor o asesor<br>
-    <br>CUANDO yo asi lo desee poder tener contacto con el sitio web y solicitarles personalmente un cambio en el medico que me esta defendiendo o asesorando,<br>
-    <br>ENTONCES entro a la sección "Contacto", quiero que se me atienda la solicitud de cambio. 
-</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 13</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU13</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP02</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">Diego Flores</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Visualización de servicios</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Visualizar información sobre los servicios<br>
-    <br>DADO que soy un visitante de la landing page,<br>
-    <br>CUANDO me encuentre navegando por la landing page,<br>
-    <br>ENTONCES encuentro una sección con información acerca de los servicios de MedicDefense.
-</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 14</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU14</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP04</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">Diego Flores</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Sección de contacto</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como visitante de la landing page de  MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Visualización de una sección de contacto<br>
-    <br>DADO que soy un visitante de la landing page,<br>
-    <br>CUANDO me encuentre navegando por la landing page,<br>
-    <br>ENTONCES encuentro una sección de contacto con campos como nombre, correo, teléfono, mensaje para solicitar información.
-</td>
-</table>
-
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 15</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU15</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP04</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">Diego Flores</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Sección de about us</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como visitante de la landing page de  MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Visualización de una sección about us<br>
-    <br>DADO que soy un visitante de la landing page,<br>
-    <br>CUANDO me encuentre navegando por la landing page,<br>
-    <br>ENTONCES encuentro una sección about us que me brinda información acerca de la empresa la cual estoy interesado en sus servicios.
-</td>
-</table>
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 16</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU16</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP04</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">Gabriel Garcia</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Sección de Creadores</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Visualización de una sección creadores<br>
-    <br>DADO que soy un visitante de la landing page,<br>
-    <br>CUANDO me encuentre navegando por la landing page,<br>
-    <br>ENTONCES encuentro una sección creadores que me brinda información acerca de los creadores de la empresa la cual estoy interesado en sus servicios.
-</td>
-</table>
-<table>
-  <tr>
-    <th colspan="5">Historia de Usuario 17</th>
-  </tr>
-  <tr>
-    <td colspan="2">ID-HU</td>
-    <td colspan="1">HU17</td>
-    <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP04</td>
-  </tr>
-  <tr>
-    <td colspan="2">Owner</td>
-    <td colspan="3">Diego Flores</td>
-</tr>
-  <tr>
-    <td colspan="2">Título HU</td>
-    <td colspan="3">Sección de inicio</td>
-  </tr>
-  <tr>
-<td colspan="2">Descripción HU</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
-    </tr>
-<tr>
-<td colspan="2">Criterios de Aceptación</td>
-    <td colspan="3">Scenario: Visualización de una sección inicio<br>
-    <br>DADO que soy un visitante de la landing page,<br>
-    <br>CUANDO me encuentre navegando por la landing page,<br>
-    <br>ENTONCES encuentro una sección inicio que tenga una barra de navegación donde pueda ver el logo para poder desplazarme mejor.
-</td>
-</table>
 
 ## 3.3. Impact Mapping
 
