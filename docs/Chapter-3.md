@@ -525,10 +525,10 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
 En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
 
 **Segmento 1**
-![alt text](<../assets/imgs/Impact map - Clara.png>)
+![alt text](../assets/imgs/Clara-ImpactMap.png)
 
 **Segmento 2**
-![alt text](<../assets/imgs/Impact map - Carlos.png>)
+![alt text](../assets/imgs/Carlos-ImpactMap.png)
 
 ## 3.4. Product Backlog
 
