@@ -286,6 +286,25 @@ Se procede a recopilar las estadísticas de las respuestas de los entrevistados 
 ![alt text](../assets/imgs/Analisis-med-8.png)
 ![alt text](../assets/imgs/Analisis-med-9.png)
 
+**Segmento 2: Estudiantes de Medicina**
+Se procede a recopilar las estadísticas de las respuestas de los entrevistados para representarlas mediante gráficos proporcionados por la herramienta, Google Forms.
+
+![alt text](../assets/imgs/Analisis-est-1.png)
+![alt text](../assets/imgs/Analisis-est-2.png)
+![alt text](../assets/imgs/Analisis-est-3.png)
+![alt text](../assets/imgs/Analisis-est-4.png)
+![alt text](../assets/imgs/Analisis-est-5.png)
+![alt text](../assets/imgs/Analisis-est-6.png)
+![alt text](../assets/imgs/Analisis-est-7.png)
+![alt text](../assets/imgs/Analisis-est-8.png)
+![alt text](../assets/imgs/Analisis-est-9.png)
+![alt text](../assets/imgs/Analisis-est-10.png)
+![alt text](../assets/imgs/Analisis-est-11.png)
+![alt text](../assets/imgs/Analisis-est-12.png)
+![alt text](../assets/imgs/Analisis-est-13.png)
+![alt text](../assets/imgs/Analisis-est-14.png)
+
+
 ## 2.3. Needfinding
 Posteriormente a las entrevistas, pudimos obtener la información sobre sus deseos, frustraciones, situación y múltiples datos que nos van a servir para satisfacer sus necesidades, mejorando la experiencia a nuestros usuarios. 
 Esta información también nos ayudará a realizar los esquemas para las secciones de User Personas, User Task Matrix, User Journey Maps y el Empathy Mapping.
