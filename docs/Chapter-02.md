@@ -271,38 +271,20 @@ Sara Rojas Sojo, de 22 años y estudiante de la Universidad San Martín de Porre
 Patrick Gómez Palomino, un estudiante de 20 años de la Universidad Norbert Wiener, ha estado estudiando medicina durante aproximadamente cuatro años, encontrándose actualmente en su octavo ciclo académico. Durante su formación, ha participado en prácticas médicas en varios hospitales, incluyendo el Jorge Voto Bernales, El Sabogal y Luis Negreiros. Aunque no ha experimentado incidentes adversos con pacientes durante estas prácticas, ha observado la exigencia de algunos doctores. Aunque no está muy al tanto de los casos de negligencia médica en el país, Patrick reconoce la importancia de la documentación adecuada, como la historia clínica, para respaldar la responsabilidad médica y prevenir consecuencias legales. Destaca la necesidad de cumplir con las normativas legales y éticas en el ejercicio de la medicina. Recuerda una ocasión en la que un profesor mencionó un caso de problemas durante un parto, aunque no puede proporcionar detalles específicos. Además, Patrick considera que sería beneficioso tener acceso a servicios legales especializados en medicina para obtener orientación adicional y continuar aprendiendo sobre responsabilidad y defensa médica. Expresa su interés en recibir charlas y asesoramiento práctico durante su formación, así como en consultar a colegas para obtener diferentes perspectivas sobre situaciones clínicas complejas.
 
 ### 2.2.3. Análisis de entrevistas
-#### Entrevista 1: Mision Augusto Noriega Ambulodegui
-#### Hallazgos:
-Mision Augusto Noriega Ambulodegui compartió experiencias significativas relacionadas con los desafíos legales y médicos en su práctica como anestesiólogo. Destacó la importancia de la asesoría experta en casos de complicaciones médicas y denuncias. La mención de un mecanismo institucional para revisar casos de mortalidad materna e infantil refleja la necesidad crítica de contar con recursos educativos y de asesoramiento profesional para médicos. La ausencia de uso previo de aplicaciones especializadas en el ámbito del peritaje médico por parte del Dr. Noriega sugiere una oportunidad de mercado para una solución digital que facilite el acceso a conocimientos y asesoramiento en esta área crucial.
-#### Conclusiones:
-La entrevista con el Dr. Noriega destaca una clara oportunidad de mercado para una aplicación que proporcione asesoramiento experto y recursos educativos en peritaje médico. Su experiencia subraya la necesidad entre profesionales y estudiantes de medicina por una herramienta que facilite la comprensión y manejo de desafíos legales y médicos. La ausencia de uso previo de soluciones digitales en este ámbito sugiere una fuerte potencial de adopción para la aplicación propuesta.
-#### Entrevista 2: Augusto Manuel Vasquez Carrasco
 
-#### Conclusiones:
-En la entrevista con el Dr. Augusto Manuel Vasquez Carrasco, médico cirujano especializado en Anestesiología, se destaca su amplia experiencia desde el 2005, con especialización en Anestesiología desde el 2010 y subespecialización en Anestesiología Pediátrica. Augusto describe la complejidad de sus intervenciones quirúrgicas, enfatizando la atención individualizada requerida para cada paciente. Si bien ha enfrentado complicaciones esperadas, nunca ha tenido problemas legales, pero ha presenciado la falta de comunicación entre colegas y familias de pacientes. Ante cualquier problema con el resultado de una cirugía, buscaría ayuda profesional, habiendo incluso capacitado como perito en anestesiología para enfrentar posibles desafíos legales.
+**Segmento 1: Doctores**
 
-#### Entrevista 3: Liliana Edith Requejo Lozada
+Se procede a recopilar las estadísticas de las respuestas de los entrevistados para representarlas mediante gráficos proporcionados por la herramienta, Google Forms.
 
-#### Conclusiones:
-En la entrevista con Liliana Edith Requejo Lozada, obstetra con 13 años de experiencia, quien trabaja en el Centro de Salud de Jesús María, destaca su trayectoria de 20 años en medicina, principalmente en obstetricia. Aunque ya no participa en cirugías principales desde hace aproximadamente 5 años, aún realiza procedimientos quirúrgicos menores, como la colocación de implantes o métodos anticonceptivos. A lo largo de su carrera, ha enfrentado algunas complicaciones durante partos y cesáreas, pero generalmente los procedimientos han tenido resultados exitosos. Conoce un caso donde lamentablemente falleció un bebé durante el parto, pero considera que estaba dentro de las posibilidades debido a la complejidad del procedimiento. Ante cualquier problema con el resultado de la cirugía de un paciente, Liliana buscaría ayuda profesional de manera rotunda, reconociendo la necesidad de orientación experta en tales situaciones.
-
-**Entrevista 4: Vanessa Castillo**
-
-**Conclusiones:**
-
-Después de realizar las entrevistas, se obtuvo información valiosa sobre las experiencias y perspectivas de los usuarios en relación a los servicios de tecnología. En el caso de la entrevista con Vanessa Castillo, una estudiante de medicina, se destacó su interés en tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro. Además, mencionó la importancia de recibir formación y orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante su formación médica. Estos hallazgos nos permiten comprender mejor las necesidades y expectativas de nuestros usuarios y nos ayudarán a diseñar soluciones que satisfagan sus requerimientos.
-
-**Entrevista 5: Sara Rojas**
-
-**Conclusiones**
-De la entrevista con Sara, se observa la importancia de la ética médica y la comunicación efectiva con los pacientes para evitar situaciones que puedan derivar en denuncias por negligencia médica. A su vez, se muestra preocupada por la calidad de la formación recibida en cuanto a evaluación de los doctores y la implementación de los conocimientos teóricos en la práctica clínica. Por último, expresa interés en recibir orientación adicional, como talleres o asesoramientos legales especializados, para mejorar su preparación y enfrentar posibles desafíos legales en la medicina.
-
-**Entrevista 6: Patrick Gomez**
-
-**Conclusiones**
-
-De la entrevista se desprende una clara conciencia sobre la responsabilidad médica y las implicaciones legales que conlleva la práctica clínica. El entrevistado demuestra comprensión sobre la importancia de la documentación adecuada, especialmente en casos de cirugía y diagnóstico, y la necesidad de seguir protocolos rigurosos para evitar negligencias. Además, destaca la importancia del acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento y defensa en situaciones de denuncia por negligencia médica. Su disposición a seguir aprendiendo y buscar diversas fuentes de conocimiento refleja su compromiso con una práctica médica ética y responsable.
-
+![alt text](../assets/imgs/Analisis-med-1.png)
+![alt text](../assets/imgs/Analisis-med-2.png)
+![alt text](../assets/imgs/Analisis-med-3.png)
+![alt text](../assets/imgs/Analisis-med-4.png)
+![alt text](../assets/imgs/Analisis-med-5.png)
+![alt text](../assets/imgs/Analisis-med-6.png)
+![alt text](../assets/imgs/Analisis-med-7.png)
+![alt text](../assets/imgs/Analisis-med-8.png)
+![alt text](../assets/imgs/Analisis-med-9.png)
 
 ## 2.3. Needfinding
 Posteriormente a las entrevistas, pudimos obtener la información sobre sus deseos, frustraciones, situación y múltiples datos que nos van a servir para satisfacer sus necesidades, mejorando la experiencia a nuestros usuarios. 
