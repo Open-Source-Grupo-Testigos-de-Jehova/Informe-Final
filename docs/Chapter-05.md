@@ -243,15 +243,125 @@ una de las tareas identificadas para el sprint.
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-Para este sprint realizamos los features de nuestro Sprint Backlog con
-sus respectivos criterios de aceptación.
+**Unit Tests**
 
-![alt text](../assets/imgs/suscripciones-feature.png)
-![alt text](../assets/imgs/creadores-feature.png)
-![alt text](../assets/imgs/Servicios-feature.png)
-![alt text](../assets/imgs/Nosotros-feature.png)
-![alt text](../assets/imgs/Inicio-feature.png)
-![alt text](../assets/imgs/contacto-feature.png)
+Test de visualización de lista de tipos de suscripción
+
+- Clase relacionada: SubscriptionService
+
+- Comportamiento: Verificar que la función para mostrar la lista de tipos de suscripción funciona correctamente.
+
+Test de visualización de servicios
+
+- Clase relacionada: ServiceController
+
+- Comportamiento: Verificar que la sección de servicios se muestra correctamente en la página principal.
+
+Test de visualización de sección de contacto
+
+- Clase relacionada: ContactController
+
+- Comportamiento: Verificar que la sección de contacto se muestra correctamente en la página principal.
+
+Test de visualización de sección nosotros
+
+- Clase relacionada: AboutUsController
+
+- Comportamiento: Verificar que la sección nosotros se muestra correctamente en la página principal.
+
+Test de visualización de sección de inicio
+
+- Clase relacionada: NavigationController
+
+- Comportamiento: Verificar que la barra de navegación se muestra correctamente en la página principal.
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>168d5f0532985817301307d0eb0e651ebb233a77</td>
+      <td>initial commit</td>
+      <td>- Created initial commit for landing page</td>
+      <td>2024-04-06</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>4808acedb5738c031b71416e6ea0fff5d057e0e5</td>
+      <td>Added "Our Services"</td>
+      <td>- created our services section to landing page</td>
+      <td>2024-04-06</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>b6d10b1525acdd2e4914c5de25d2ecb836884e94</td>
+      <td>added contact section</td>
+      <td>- created our contact section to landing page</td>
+      <td>2024-04-06</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>555441bd8dc434640170aae69d2f517df739251a</td>
+      <td>Added "About us" and "Our Services"</td>
+      <td>- Created About us and Our Services to landing page</td>
+      <td>2024-04-06</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>a778131e10a50a903dfd234b986164615c9871e2</td>
+      <td>Added creators section</td>
+      <td>- Created Creators to landing page</td>
+      <td>2024-04-08</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>2d479db24e63fa3b3e24f141b8bfc56d5efc2883</td>
+      <td>update creators section</td>
+      <td>- update creators section to landing page</td>
+      <td>2024-04-09</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>7ace2ebbe27f9ea32f3e94c00e516610f996e68d</td>
+      <td>updated image errors</td>
+      <td>- Resolved image errors by updating references or fixing issues, ensuring proper display of images</td>
+      <td>2024-04-10</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>5b77d4e726f5b1b0dac3a9b6f17c8731562d9608</td>
+      <td>updated contact section</td>
+      <td>- Enhanced the contact section by updating its functionality or improving user experience</td>
+      <td>2024-04-10</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>b96e52c2884c042e2a27a25de945b9f263f9365a</td>
+      <td>updated menu.js</td>
+      <td>- Updated menu.js file, potentially to improve menu functionality or fix bugs</td>
+      <td>2024-04-10</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
