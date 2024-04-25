@@ -165,9 +165,9 @@ Misión Augusto Noriega Ambulodegui, un experimentado anestesiólogo en el Hospi
  
 **Nombre y Apellido:** Augusto Manuel Vasquez Carrasco
 
-**Edad:** 
+**Edad:** 46
 
-**Distrito:** 
+**Distrito:** San Borja
 
 **Screenshot de la Entrevista:**
 
@@ -185,9 +185,9 @@ Augusto Manuel Vásquez Carrasco, un médico cirujano con una vasta experiencia 
 
 **Nombre y Apellido:** Liliana Edith Requejo Lozada
 
-**Edad:** 
+**Edad:** 48
 
-**Distrito:** 
+**Distrito:** San Borja
 
 **Screenshot de la Entrevista:**
 
