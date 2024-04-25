@@ -74,21 +74,13 @@ Los antecedentes son esenciales para una comprensión más profunda de la proble
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-- Problem Statement 1 
+**Problem Statement**
 
-En entornos médicos, los médicos pueden enfrentar situaciones legales complicadas cuando algo sale mal durante una operación. Estas situaciones pueden surgir debido a diversos factores, como complicaciones inesperadas, errores médicos o disputas con pacientes o familiares. Sin embargo, muchos médicos carecen de acceso a recursos legales especializados y orientación adecuada para enfrentar estos desafíos de manera efectiva. Esta falta de apoyo puede llevar a una mayor vulnerabilidad legal, estrés emocional y profesional, así como a una posible disminución en la calidad de la atención médica proporcionada. 
+Nuestra plataforma de asistencia de perito en anestesiología fue creada con el objetivo de proporcionar acceso fácil y confiable a servicios especializados para médicos en busca de defensa legal y estudiantes de medicina interesados en obtener asesoramiento sobre peritaje en anestesiología. Además, buscamos ofrecer oportunidades laborales en este campo altamente especializado. Sin embargo, recientemente hemos observado que nuestra plataforma está experimentando una desconexión entre sus objetivos iniciales y los resultados actuales.
 
-Entonces podríamos dar la siguiente declaración: "Para los médicos que se ven envueltos en situaciones legales tras incidentes durante operaciones, la falta de orientación y recursos jurídicos especializados los deja expuestos a riesgos legales significativos. Esta falta de apoyo impacta negativamente en su bienestar emocional y profesional, generando una disminución en la calidad de la atención médica y en la confianza del paciente."
+Los cambios en el entorno, como la rápida evolución de las demandas legales en el campo de la medicina y la creciente competencia en el mercado de la educación médica en línea, han impactado negativamente nuestra plataforma. Nos encontramos enfrentando una disminución en la adopción de la plataforma por parte de los usuarios clave y una disminución en la satisfacción general del usuario.
 
-¿De qué manera nuestra solución tecnológica innovadora puede ayudar a los médicos en su estado de ánimo en caso se encontrasen bajo presión ya sea por temas judiciales o administrativos? 
-
-- Problem Statement 2
-
-Cuando ocurren resultados adversos durante operaciones médicas, los médicos pueden encontrarse en medio de disputas legales que requieren una defensa sólida. Sin embargo, la falta de acceso a expertos legales especializados y recursos para una defensa adecuada puede dejar a los médicos en una situación de incertidumbre y estrés. Esta falta de apoyo no solo distrae a los médicos de sus responsabilidades clínicas, sino que también puede afectar la eficiencia del sistema de atención médica y, lo que es más importante, la seguridad del paciente.
-
-Entonces podríamos dar la siguiente declaración: "Cuando los médicos enfrentan desafíos legales debido a resultados adversos durante operaciones, la falta de acceso a expertos legales especializados y recursos para la defensa adecuada crea un ambiente de incertidumbre y estrés. Esto se traduce en una distracción significativa de sus responsabilidades clínicas, erosionando la eficiencia del sistema de atención médica y comprometiendo la seguridad del paciente."
-
-¿De qué manera nuestra solución tecnológica innovadora puede aliviar los niveles de estrés en los doctores que están pasando por algún desafío legal y de esta manera no se vea afectada su calidad en las operaciones que este realiza?
+En respuesta a estos desafíos, necesitamos mejorar nuestra plataforma para volver a alinearla con sus objetivos originales y proporcionar un mayor valor a nuestros usuarios. Es crucial mejorar la plataforma de una manera que conduzca a resultados tangibles y cuantificables, como un aumento en la adopción de usuarios, una mayor satisfacción del cliente y una mejora en la eficacia de la asistencia legal y educativa proporcionada.
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -129,7 +121,11 @@ El producto debe tener una apariencia profesional y confiable, con un diseño li
 
 **User Outcomes**
 
-En este apartado, investigar que es lo que deberia ir aqui detallado y correcto.
+- **Acceso a Asistencia Especializada:** Los usuarios, ya sean médicos que necesiten defensa legal o estudiantes de medicina buscando orientación sobre el peritaje en anestesiología, buscan acceso fácil y rápido a asistencia especializada en el campo. Este outcome se centra en la capacidad de los usuarios para obtener ayuda experta y específica cuando la necesiten, lo que les proporciona confianza y apoyo en situaciones críticas o decisiones importantes.
+
+- **Oportunidades Laborales:** Para aquellos usuarios que hayan estudiado peritaje en anestesiología, el outcome deseado es la identificación y acceso a oportunidades laborales relevantes en su campo. Esto podría incluir ofertas de trabajo, oportunidades de consultoría o proyectos freelance dentro de la especialidad. El éxito se mide por la capacidad de la plataforma para conectar a estos usuarios con oportunidades laborales que se ajusten a sus habilidades y aspiraciones profesionales.
+
+- **Educación y Orientación Profesional:** Para los estudiantes de medicina interesados en la anestesiología, así como para otros profesionales en busca de orientación, el outcome deseado es recibir educación y orientación profesional en el campo del peritaje en anestesiología. Esto incluiría recursos informativos, consejos prácticos, y posiblemente mentoría por parte de expertos en el campo. El éxito se evalúa por la utilidad y relevancia de la información proporcionada, así como por el impacto positivo en la trayectoria profesional y el desarrollo de los usuarios.
 
 **Business Assumptions**
 
@@ -155,25 +151,40 @@ Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para 
 
 **Business Outcomes**
 
+1. **Generación de ingresos sostenibles:** Al ofrecer planes de suscripción para acceder a los servicios de asistencia de perito en anestesiología, la plataforma tiene el potencial de generar ingresos recurrentes. Esto asegura una fuente estable de financiamiento que puede respaldar el crecimiento y la expansión de la plataforma a largo plazo. Además, al tener una base de clientes suscritos, puedes prever y gestionar mejor los ingresos, lo que contribuye a la estabilidad financiera del proyecto.
+
+2. **Desarrollo de una comunidad especializada:** Al proporcionar servicios de asistencia y asesoramiento en el área médica de anestesiología, la plataforma puede convertirse en un punto de encuentro para médicos, estudiantes de medicina y profesionales interesados en esta especialidad. Esto puede fomentar el intercambio de conocimientos, experiencias y oportunidades laborales dentro de la comunidad, creando un ambiente propicio para la colaboración y el networking. Una comunidad sólida puede aumentar la fidelidad de los clientes y el boca a boca positivo, lo que a su vez puede impulsar el crecimiento orgánico de la plataforma.
+
+3. **Impacto positivo en la industria médica:** Al proporcionar acceso a servicios de asistencia y asesoramiento especializados en anestesiología, la plataforma puede contribuir significativamente a mejorar la práctica médica en este campo. Al ofrecer defensa legal a médicos y asesoramiento a estudiantes de medicina interesados en la especialidad de peritaje en anestesiología, tu proyecto puede ayudar a mejorar la calidad de la atención médica y a garantizar estándares más altos en esta área crucial de la medicina. Este impacto positivo no solo beneficia a los individuos directamente involucrados, sino que también puede tener repercusiones más amplias en la comunidad médica en general.
+
 **Features Outcomes**
 
+1. **Acceso a Asistencia Especializada:**
 
+  	- **Chat en vivo con expertos:** Implementar una función de chat en vivo que permita a los usuarios comunicarse directamente con expertos en anestesiología para obtener asesoramiento inmediato y específico.
+    - **Biblioteca de recursos:** Desarrollar una sección de la plataforma que contenga una amplia variedad de recursos, como artículos, estudios de casos y preguntas frecuentes, que los usuarios puedan consultar para obtener información detallada sobre temas relacionados con la anestesiología y el peritaje.
+
+2. **Oportunidades Laborales:**
+
+    - **Tablero de empleo y proyectos:** Crear un espacio dedicado en la plataforma donde los usuarios puedan buscar y postularse a oportunidades laborales, como trabajos permanentes, proyectos freelance o posiciones de consultoría en el campo de la anestesiología.
+    - **Perfiles profesionales:** Permitir a los usuarios crear perfiles profesionales detallados que muestren su experiencia, habilidades y disponibilidad laboral, facilitando así la búsqueda y selección por parte de posibles empleadores o clientes.
+
+3. Educación y Orientación Profesional:
+
+    - **Sesiones de orientación en línea:** Organizar sesiones regulares de orientación en línea dirigidas por expertos en anestesiología, donde los usuarios puedan aprender sobre diversos aspectos del peritaje y hacer preguntas en tiempo real.
+    - **Foro de discusión y mentoría:** Establecer un espacio de discusión en la plataforma donde los usuarios puedan interactuar entre ellos y con profesionales experimentados en el campo, compartiendo conocimientos, experiencias y consejos útiles.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Creemos que** si ofrecemos acceso directo a peritos en anestesiología para asistencia legal y educativa a través de nuestra plataforma web, entonces los médicos y estudiantes de medicina buscarán activamente nuestros servicios para resolver problemas relacionados con la anestesiología, lo cual **sabremos que** hemos tenido éxito cuando aumente la adopción de nuestra plataforma y la satisfacción del usuario.
-
-- **Creemos que** si proporcionamos opciones de suscripción flexibles y asequibles para acceder a servicios especializados en nuestra plataforma, entonces aumentaremos la retención de usuarios y la rentabilidad del negocio, lo cual **sabremos que** hemos tenido éxito cuando mejore la viabilidad financiera de nuestra plataforma.
-
-- **Creemos que** si establecemos asociaciones estratégicas con instituciones médicas y empresas del sector de la salud para ofrecer servicios adicionales, como programas de formación continua en anestesiología, entonces ampliaremos nuestra base de clientes y aumentaremos los ingresos generados por nuestra plataforma, lo cual **sabemos que** hemos tenido éxito cuando  fortalezcamos nuestra posición en el mercado y aumente la confianza de los usuarios.
-
-- **Creemos que si** optimizamos la experiencia de usuario de nuestra plataforma, mejorando la navegación y la accesibilidad, entonces aumentaremos la satisfacción del usuario y la fidelidad a nuestra marca, lo cual **sabremos que** hemos tenido éxito cuando obtengamos una mayor retención de usuarios y un boca a boca positivo.
-
-- **Creemos que** si implementamos una estrategia de marketing dirigida a médicos, estudiantes de medicina y profesionales del peritaje en anestesiología a través de canales específicos, como instituciones médicas y redes  profesionales, entonces aumentaremos el conocimiento de nuestra plataforma y la adquisición de nuevos usuarios, lo cual **sabemos que** hemos tenido éxito cuando impulsemos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma.
+1. **Creemos que lograremos** un aumento en la adopción de nuestra plataforma y una mejor satisfacción del usuario **si** los médicos y estudiantes de medicina buscan activamente soluciones para problemas relacionados con la anestesiología. **Al obtener** acceso directo a peritos en anestesiología para asistencia legal y educativa a través de nuestra plataforma web, **con la implementación** de una función de chat en vivo con expertos y una biblioteca de recursos que aborden las necesidades específicas de los usuarios en relación con la asistencia en anestesiología.
+2. **Creemos que lograremos** una mayor retención de usuarios y una mayor rentabilidad del negocio **si** los usuarios valoran la flexibilidad y la accesibilidad en las opciones de suscripción para acceder a servicios especializados. **Al proporcionar** opciones de suscripción flexibles y asequibles para acceder a servicios especializados en nuestra plataforma, **con la optimización** de nuestra oferta de suscripción después de realizar pruebas piloto con diferentes modelos y comprender las preferencias de los usuarios.
+3. **Creemos que logaremos** fortalecer nuestra posición en el mercado y aumentaremos la confianza de los usuarios **si** estos perciben que nuestra plataforma ofrece valor adicional a través de asociaciones estratégicas. **Al establecer** asociaciones estratégicas con instituciones médicas y empresas del sector de la salud para ofrecer servicios adicionales, **con la identificación** y el contacto de posibles socios, y la realización de pruebas piloto de programas de formación continua.
+4. **Creemos que lograremos** aumentar la satisfacción del usuario, la fidelidad a nuestra marca y el boca a boca positivo **si** los usuarios experimentan una mejor experiencia de usuario con nuestra plataforma. **Al mejorar** la navegación y la accesibilidad de nuestra plataforma basándonos en pruebas de usabilidad y recopilación de testimonios directos de usuarios, **con la implementación** de mejoras en la navegación y accesibilidad de nuestra plataforma.
+5. **Creemos que** impulsaremos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma **si** los usuarios objetivo se familiarizan con nuestra plataforma a través de campañas de marketing dirigidas. **Al realizar** campañas de marketing piloto dirigidas a los respectivos segmentos de usuarios , **con la realización** de campañas de marketing piloto y la adaptación de nuestra estrategia de marketing seguiremos una mejora según los resultados obtenidos.
 
 #### 1.2.2.4. Lean UX Canvas
 
-- Mediante un Lean UX Canvas podemos mostrar nuestro trabajo referente a los puntos de User and Business Benefits and outcomes"  de manera resumida y mas accesible al lector. Tambien se resume la problematica que estamos abordando y la solucion que proponemos.
+- Mediante la realizacion Lean UX Canvas podemos mostrar todla informacion anterior pero de una manera resumida, didactica y mas accesible al lector. Tambien se resume la problematica que estamos abordando y la solucion que proponemos, junto con los supuestos de las hipotesis y los puntos mas importantes de las mismas.
 
 ![Lean UX Canvas](<../assets/imgs/Lean UX Canva OpenSource.png>)
 
