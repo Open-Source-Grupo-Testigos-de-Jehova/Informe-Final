@@ -261,7 +261,7 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>US05</td>
         <td>Visualización de lista de tipos de suscripción</td>
         <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
-        <td>8</td>
+        <td>2</td>
     </tr>
     <tr>
         <td>6</td>
@@ -310,7 +310,7 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>US12</td>
         <td>Cambiar de medico asesor</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
-        <td>8</td>
+        <td>3</td>
     </tr>
     <tr>
         <td>13</td>
