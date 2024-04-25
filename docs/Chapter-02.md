@@ -107,8 +107,17 @@ Para enfrentar a los competidores establecidos en el mercado de asesoramiento le
 La entrevista se realiza con el objetivo de obtener mayor información acerca de los usuarios y del servicio de tecnología. De este modo, podremos conocer cuál es sus puntos de vista respecto a los servicios electrónicos, qué problemas tuvieron y cuáles son sus expectativas frente a los nuevos servicios educativos virtuales.
 
 ### 2.2.1 Diseño de entrevistas  
+
+**Preguntas para ambos segmentos**
+- Presentación:
+    - ¿Cual es su nombre y que edad tiene?
+    - Actualmente, ¿Donde vive?
+    - En el aspecto profesional, ¿Cómo se ve a ud mismo(a)?
+    - Vamos relacionandonos un poco mas al tema tecnologico ¿Cuál es la herramienta tecnologica que mas usa?
+    - ¿Cuáles son las aplicaciones que mas ha usado en este ultimo tiempo?
+    - ¿Considera que la propaganda que se expone hoy en dia en las apps mas usadas es invasiva?
+
 **Preguntas para Doctores**
-- Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
 - ¿Cuánto tiempo lleva ejerciendo la carrera de medicina y/o su especialidad?
 - ¿Cómo se siente cada vez que tiene que realizar una intervención quirúrgica?
 - ¿Alguna vez ha enfrentado algún problema médico con un paciente? En caso no, ¿conoce algún caso?
@@ -117,7 +126,6 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 
 **Preguntas para Estudiantes Medicinas**
 
-- Presentación(Nombre, edad, centro de estudios)  
 - ¿Cuánto tiempo llevas estudiando medicina?  
 - ¿Estás desempeñando practicas médicas en algún Hospital? ¿En que hospital?  
 - ¿Has tenido alguna mala experiencia mientras realizabas tus practicas médicas? ¿Conociste a alguien que haya tenido una mala experiencia?  
@@ -153,19 +161,6 @@ Minuto de la entrevista: 0:00-9:11
 
 #### Entrevista 2: Augusto Manuel Vasquez Carrasco (Medico)
  
-#### Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
-El nombre del entrevistado es Augusto ,Manuel Vasquez Carrasco , trabaja en el INSN en San borja, y a su vez en varias clinias en el sector privado.
-#### ¿Cuánto tiempo lleva ejerciendo la carrera de medicina y/o su especialidad?
-Augusto nos comenta que lleva ejerciendo la carrera de medicina y profesion medico cirujano desde el 2005 que terminó la universidad y como especialista en Anestesiologia desde el 2010, posterior a este ultimo año mencionado desarrollo una subespecialidad en el area de Anestesiologia Pediatrica. 
-#### ¿Cómo se siente cada vez que tiene que realizar una intervención quirúrgica?
-El Dr. Augusto nos comenta que si nos fijamos solamente en su especialidad que es la actividad que mas desarrolla actualmente y dada la complejida de su trabajo ya que las intervenciones se realizan en instituciones donde se llevan a cabo las cirugias mas "famosas" y complejas que se han llevado a cabo en nuestro pais, las cirugias son netamente individuales y que no hay dos pacientes iguales, si bien pueden tener la misma enfermedad o el caso clinico sea similar la complejidad que se le requiere al doctor es del mas alto nivel por ende aunque ya haya sido asistente de una sin numero de cirugias aun sigue poniendo toda su atencion y concentracion en el paciente.
-#### ¿Alguna vez ha enfrentado algún problema médico con un paciente? En caso no, ¿conoce algún caso?
-Augusto nos comenta que el término "problema" es algo muy general y lo que en su practica si ocurre es alguna complicacion ESPERADA o algun resultado de la operacion del paciente ESPERADO, ya que cuando se realiza un correcto analisis del paciente se abre una ventaba de posibilidades de los resultados que este podria tener. A su vez tambien nos comenta que cuando alguna de estas complicaciones se ha presentado si ha necesitado de ayuda.
-#### ¿Conoce a algún colega que haya tenido problemas con un paciente o con la familia de este debido al resultado de una cirugía?
-El Dr. Augusto nos afirma que él nunca ha tenido algun problema legal con alguno de los pacientes o la familia de estos pero ha vivido de primera mano algunos casos donde el principal problema es la carencia de comunicacion entre los medicos y la familia del paciente. Cuando esta situacion se le presentó, él ayudó con la base medica para la defensa de su colega.
-#### Si tuviera algún problema con el resultado de la cirugía de su paciente, ¿que haría? ¿Buscaría ayuda profesional?
-Actualmente nos comenta que ha realizado una investigacion y un curso para poder desarrollarse como perito en anestesiologia, por lo que sabe que es lo que implica encontrarse en un aprieto legal, pero que definitivamente buscaria mas ayuda para poder defenderse mejor.
-
 Minuto de la entrevista: 9:11 - 21:11
 ![Entrevista2](<../assets/imgs/Entrevista 2 Medico.png>)
 
