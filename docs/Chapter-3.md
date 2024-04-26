@@ -431,4 +431,53 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
         <td>3</td>
     </tr>
+        <tr>
+    <td>18</td>
+        <td>US18</td>
+        <td>Integración de pagos</td>
+        <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
+        <td>8</td>
+    </tr>
+        <tr>
+    <td>19</td>
+        <td>US19</td>
+        <td>Base de datos de usuarios</td>
+        <td>Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
+        <td>5</td>
+    </tr>
+        <tr>
+    <td>20</td>
+        <td>US20</td>
+        <td>API para gestión de perfiles</td>
+        <td>Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
+        <td>5</td>
+    </tr>
+        <tr>
+    <td>21</td>
+        <td>US21</td>
+        <td>Logging de Actividades</td>
+        <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
+        <td>8</td>
+    </tr>
+        <tr>
+    <td>22</td>
+        <td>US22</td>
+        <td>API para búsqueda por filtros</td>
+        <td>Como desarrollador, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
+        <td>5</td>
+    </tr>
+        <tr>
+    <td>23</td>
+        <td>US23</td>
+        <td>Servicio de notificaciones</td>
+        <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
+        <td>5</td>
+    </tr>
+        <tr>
+    <td>24</td>
+        <td>US24</td>
+        <td>Soporte para múltiples navegadores</td>
+        <td>Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
+        <td>3</td>
+    </tr>
 </table>
