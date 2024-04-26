@@ -51,6 +51,20 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td></td>
     </tr>
     <tr>
+    <tr>
+        <td>EP05</td>
+        <td>Infraestructura y Seguridad</td>
+        <td>Como administrador, quiero que la plataforma integre robustos sistemas de seguridad y manejo de datos, para proteger la información de los usuarios.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EP06</td>
+        <td>Interacción y Accesibilidad</td>
+        <td>Como desarrollador, quiero implementar interfaces y funcionalidades accesibles para mejorar la interacción del usuario con la plataforma.</td>
+        <td></td>
+        <td></td>
+    </tr>
         <td>HU01</td>
         <td>Gestión de las cuentas de los usuarios</td>
         <td>Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
@@ -205,8 +219,79 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <br>THEN encuentra una sección inicio que tenga una barra de navegación donde puede ver el logo para poder desplazarse mejor.</td>
         <td>EP03</td>
     </tr>
+    <tr>
+    <td>HU18</td>
+        <td>Integración de pagos</td>
+        <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
+        <td>Scenario: Implementar un proceso de pago seguro para las suscripciones.<br>
+    <br>GIVEN un usuario ha elegido un plan de suscripción y desea pagar,<br>
+    <br>WHEN introduce la información de su método de pago y confirma la transacción,<br>
+    <br>AND el sistema verifica la validez de la información de pago,<br>
+    <br>THEN el sistema procesa el pago de forma segura y actualiza el estatus de la suscripción en la base de datos.</td>
+        <td>EP05</td>
+    </tr>
+    <td>HU19</td>
+        <td>Base de datos de usuarios</td>
+        <td>Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
+        <td>Scenario: Acceder a datos de usuario para auditorías internas.<br>
+    <br>GIVEN que el administrador necesita verificar la integridad de los datos de los usuarios,<br>
+    <br>WHEN realiza una consulta en la base de datos,<br>
+    <br>THEN la base de datos valida los permisos del administrador,<br>
+    <br>AND proporciona los datos solicitados de manera rápida y segura.</td>
+        <td>EP05</td>
+    </tr>
+    <td>HU20</td>
+        <td>API para gestión de perfiles</td>
+        <td>Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
+        <td>Scenario: Un administrador necesita actualizar información de un perfil por motivos de seguridad.<br>
+    <br>GIVEN que un perfil de usuario necesita actualización urgente,<br>
+    <br>WHEN el administrador modifica y guarda los cambios en el perfil,<br>
+    <br>AND confirma la operación,<br>
+    <br>THEN la API actualiza los datos en la base de datos,<br>
+    <br>AND notifica al administrador que la actualización fue exitosa.
+    </td>
+        <td>EP06</td>
+    </tr>
+    <td>HU21</td>
+        <td>Logging de Actividades</td>
+        <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
+        <td>Scenario: Registrar una actividad crítica para la auditoría de seguridad.<br>
+    <br>GIVEN que se lleva a cabo una acción crítica en la plataforma,<br>
+    <br>WHEN la acción es ejecutada,<br>
+    <br>THEN el sistema registra detalladamente la acción en los logs de seguridad,<br>
+    <br>AND notifica a los administradores de seguridad sobre la actividad registrada.</td>
+        <td>EP05</td>
+    </tr>
+    <td>HU22</td>
+        <td>API para búsqueda por filtros</td>
+        <td>Como desarrollador, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
+        <td>Scenario: Administrar búsquedas avanzadas para encontrar registros específicos de usuarios.<br>
+    <br>GIVEN que el administrador necesita encontrar perfiles específicos basados en criterios complejos,<br>
+    <br>WHEN utiliza la API de búsqueda por filtros en la interfaz de administración,<br>
+    <br>THEN la API proporciona resultados precisos y rápidos, ayudando al administrador a gestionar eficientemente la información.</td>
+        <td>EP06</td>
+    </tr>
+    <td>HU23</td>
+        <td>Servicio de notificaciones</td>
+        <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
+        <td>Scenario: Notificar a los usuarios sobre una actualización de seguridad importante.<br>
+    <br>GIVEN que se ha emitido una actualización de seguridad,<br>
+    <br>WHEN el sistema procesa la actualización,<br>
+    <br>AND identifica los usuarios afectados,<br>
+    <br>THEN el servicio de notificaciones envía automáticamente alertas,<br>
+    <br>AND los usuarios reciben las notificaciones en tiempo real.</td>
+        <td>EP06</td>
+    </tr>
+    <td>HU24</td>
+        <td>Soporte para múltiples navegadores</td>
+        <td>Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
+        <td>Scenario: Verificar y asegurar la compatibilidad de la plataforma en diferentes navegadores.<br>
+    <br>GIVEN que los administradores y usuarios acceden a la plataforma desde diversos navegadores,<br>
+    <br>WHEN navegan y realizan operaciones críticas,<br>
+    <br>THEN el sistema mantiene una funcionalidad consistente y segura, sin importar el navegador utilizado.</td>
+        <td>EP06</td>
+    </tr>
 </table>
-
 
 ## 3.3. Impact Mapping
 
