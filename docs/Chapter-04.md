@@ -132,39 +132,39 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
 
 ### 4.3.1. Landing Page Wireframe
 
-![Header](<../assets/imgs/header.png>)
+![Header](../assets/imgs/header.png)
 
-![Principal](<../assets/imgs/principal.png>)
+![Principal](../assets/imgs/principal.png)
 
-![Nosotros](<../assets/imgs/nosotros.png>)
+![Nosotros](../assets/imgs/nosotros.png)
 
-![Servicios](<../assets/imgs/servicio.png>)
+![Servicios](../assets/imgs/servicio.png)
 
-![Planes](<../assets/imgs/planes.png>)
+![Planes](../assets/imgs/planes.png)
 
-![Contactanos](<../assets/imgs/contacto.png>)
+![Contactanos](../assets/imgs/contacto.png)
 
-![Creadores](<../assets/imgs/creadores.png>)
+![Creadores](../assets/imgs/creadores.png)
 
-![Footer](<../assets/imgs/footer.png>)
+![Footer](../assets/imgs/footer.png)
 
 ### 4.3.2. Landing Page Mock-up
 
-![Header](<../assets/imgs/headerM.png>)
+![Header](../assets/imgs/headerM.png)
 
-![Principal](<../assets/imgs/principalM.png>)
+![Principal](../assets/imgs/principalM.png)
 
-![Nosotros](<../assets/imgs/nosotrosM.png>)
+![Nosotros](../assets/imgs/nosotrosM.png)
 
-![Servicios](<../assets/imgs/servicioM.png>)
+![Servicios](../assets/imgs/servicioM.png)
 
-![Planes](<../assets/imgs/planesM.png>)
+![Planes](../assets/imgs/planesM.png)
 
-![Contactanos](<../assets/imgs/contactoM.png>)
+![Contactanos](../assets/imgs/contactoM.png)
 
-![Creadores](<../assets/imgs/creadoresM.png>)
+![Creadores](../assets/imgs/creadoresM.png)
 
-![Footer](<../assets/imgs/footerM.png>)
+![Footer](../assets/imgs/footerM.png)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -512,7 +512,7 @@ https://www.figma.com/proto/DDtoiHzqyJvkeeL3M4CMG7/Testigos-de-Jehova-MU?type=de
 
 ### 4.7.1. Class Diagrams
 
-![Class Diagram](../assets/imgs/classdiagram1.png)
+![Class Diagram](../assets/imgs/class_diagram.png)
 
 ### 4.7.2. Class Dictionary
 
@@ -647,4 +647,4 @@ https://www.figma.com/proto/DDtoiHzqyJvkeeL3M4CMG7/Testigos-de-Jehova-MU?type=de
 
 ### 4.8.1. Database Diagram
 
-![DB-Diagram](../assets/imgs/dbdiagram.jpeg)
+![DB Diagram](../assets/imgs/DataBase.png)
