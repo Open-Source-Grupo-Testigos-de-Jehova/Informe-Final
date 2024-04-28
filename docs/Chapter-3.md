@@ -323,14 +323,14 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>HU29</td>
     <td>Implementación de la funcionalidad de búsqueda de abogados</td>
     <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
-    <td><td>Scenario: Búsqueda de abogados<br><br>GIVEN el usuario necesita buscar un abogado específico<br><br>WHEN utiliza la función de búsqueda en la página de lista de abogados y proporciona un término de búsqueda,<br><br>THEN se muestran los resultados relevantes que coinciden con el término de búsqueda.</td></td>
+    <td>Scenario: Búsqueda de abogados<br><br>GIVEN el usuario necesita buscar un abogado específico<br><br>WHEN utiliza la función de búsqueda en la página de lista de abogados y proporciona un término de búsqueda,<br><br>THEN se muestran los resultados relevantes que coinciden con el término de búsqueda.</td>
     <td>EP06</td>
   </tr>
   <tr>
     <td>HU30</td>
     <td>Implementación de la paginación de resultados</td>
     <td>Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
-    <td><td>Scenario: Paginación de resultados<br><br>GIVEN el usuario necesita navegar por una larga lista de abogados<br><br>WHEN se muestra una lista de abogados con múltiples páginas de resultados,<br><br>THEN el usuario puede navegar fácilmente entre las páginas utilizando los controles de paginación.</td></td>
+    <td>Scenario: Paginación de resultados<br><br>GIVEN el usuario necesita navegar por una larga lista de abogados<br><br>WHEN se muestra una lista de abogados con múltiples páginas de resultados,<br><br>THEN el usuario puede navegar fácilmente entre las páginas utilizando los controles de paginación.</td>
     <td>EP06</td>
   </tr>
 </table>
@@ -433,7 +433,7 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>5</td>
     </tr>
     <tr>
-        <td>12</td>
+    <td>12</td>
         <td>HU29</td>
         <td>Implementación de la funcionalidad de búsqueda de abogados</td>
         <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
@@ -454,112 +454,112 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>5</td>
     </tr>
     <tr>
-        <td>1</td>
+        <td>15</td>
         <td>US01</td>
         <td>Gestión de las cuentas de los usuarios</td>
         <td>Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>2</td>
+        <td>16</td>
         <td>US02</td>
         <td>Verificación de credenciales médicas</td>
         <td>Como médico registrado en la plataforma, quiero que mi perfil pase por un proceso de verificación de credenciales médicas para aumentar mi credibilidad dentro de la comunidad y tener acceso a recursos especializados.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>3</td>
+        <td>17</td>
         <td>US03</td>
         <td>Gestión de roles de cuentas</td>
         <td>Como administrador de la plataforma, necesito poder asignar, modificar y revocar roles de usuario para gestionar adecuadamente el acceso a diversas áreas de la plataforma.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>4</td>
+        <td>18</td>
         <td>US04</td>
         <td>Eliminar cuenta Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense,necesito poder eliminar mi cuenta en caso sea necesario para no tener vinculo con el sitio web.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>6</td>
+        <td>19</td>
         <td>US06</td>
         <td>Visualizar actividades del Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>7</td>
+        <td>20</td>
         <td>US07</td>
         <td>Búsqueda por Filtros</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder realizar búsqueda por medio de filtros para facilitar el acceso a ello.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>8</td>
+        <td>21</td>
         <td>US08</td>
         <td>Suscripción a un plan</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de suscribirme a un plan mensual o anual para tener los beneficios de la suscripción.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>10</td>
+        <td>22</td>
         <td>US10</td>
         <td>Visualización del caso y documentos</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>11</td>
+        <td>23</td>
         <td>US11</td>
         <td>Contacto directo con mi medico asesor</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>12</td>
+        <td>24</td>
         <td>US12</td>
         <td>Cambiar de medico asesor</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
         <td>3</td>
     </tr>
         <tr>
-        <td>18</td>
+        <td>25</td>
         <td>US18</td>
         <td>Integración de pagos</td>
         <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
         <td>8</td>
     </tr>
         <tr>
-        <td>19</td>
+        <td>26</td>
         <td>US19</td>
         <td>Base de datos de usuarios</td>
         <td>Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
         <td>5</td>
     </tr>
         <tr>
-        <td>20</td>
+        <td>27</td>
         <td>US20</td>
         <td>API para gestión de perfiles</td>
         <td>Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
         <td>5</td>
     </tr>
         <tr>
-        <td>21</td>
+        <td>28</td>
         <td>US21</td>
         <td>Logging de Actividades</td>
         <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
         <td>8</td>
     </tr>
         <tr>
-        <td>22</td>
+        <td>29</td>
         <td>US22</td>
         <td>API para búsqueda por filtros</td>
         <td>Como desarrollador, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>23</td>
+        <td>30</td>
         <td>US23</td>
         <td>Servicio de notificaciones</td>
         <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
