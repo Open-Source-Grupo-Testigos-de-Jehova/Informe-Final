@@ -534,7 +534,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 </table>
 
-### 5.2.1.3. Development Evidence for Sprint Review
+### 5.2.2.3. Development Evidence for Sprint Review
 
 <table>
     <tr>
@@ -595,7 +595,7 @@ una de las tareas identificadas para el sprint.
     </tr>
 </table>
 
-### 5.2.1.4. Testing Suite Evidence for Sprint Review
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 **Unit Tests**
 
@@ -687,12 +687,12 @@ una de las tareas identificadas para el sprint.
 </table>
 
 
-### 5.2.1.5. Execution Evidence for Sprint Review
+### 5.2.2.5. Execution Evidence for Sprint Review
 
 Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versión de Frontend Web Application del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
