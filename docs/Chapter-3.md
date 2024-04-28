@@ -137,14 +137,11 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>EP04</td>
     </tr>
     <tr>
-    <td>HU09</td>
-        <td>Visualización de Perfil de Abogado Médico</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
-        <td>Scenario: Visualización de perfil<br>
-    <br>GIVEN un usuario quiere ver los perfiles de los abogados médicos en MedicDefense y tiene curiosidad sobre los perfiles de los abogados médicos,<br>
-    <br>WHEN entra a la sección “Perfiles de Abogados” dentro del sitio web,<br>
-    <br>THEN podrá visualizar los perfiles.</td>
-        <td>EP02</td>
+   <td>HU09</td>
+    <td>Perfil de abogado médico</td>
+    <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
+    <td>Scenario: Acceso al perfil completo de un abogado<br><br>Dado que el usuario está interesado en conocer más sobre un abogado en particular,<br><br>Cuando hace clic en el botón "Perfil" asociado a un abogado en la página principal,<br><br>Entonces espera que se abra un card que se superpone mostrando el perfil completo del abogado seleccionado.</td>
+    <td>EP02</td>
     </tr>
     <tr>
     <td>HU10</td>
@@ -333,6 +330,20 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>Scenario: Paginación de resultados<br><br>GIVEN el usuario necesita navegar por una larga lista de abogados<br><br>WHEN se muestra una lista de abogados con múltiples páginas de resultados,<br><br>THEN el usuario puede navegar fácilmente entre las páginas utilizando los controles de paginación.</td>
     <td>EP06</td>
   </tr>
+    <tr>
+    <td>HU31</td>
+    <td>Implementar card que se superpone para mostrar perfiles de abogados</td>
+    <td>El desarrollador implementa un card que se superpone para mostrar los perfiles completos de los abogados seleccionados, con el fin de proporcionar una experiencia de usuario consistente y centrada en la información detallada de cada abogado.</td>
+    <td>Scenario: Visualización del perfil completo de un abogado en un card que se superpone<br><br>Dado la necesidad de mostrar información detallada de los abogados de manera legible y organizada,<br><br>Cuando se desarrolla un card que se superpone para contener la información del perfil del abogado,<br><br>Entonces se asegura una presentación clara y consistente de la información del abogado.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU32</td>
+    <td>Implementar método para cargar información de abogado en el card que se superpone</td>
+    <td>El desarrollador implementa un método para cargar dinámicamente la información completa de un abogado seleccionado en el card que se superpone correspondiente, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
+    <td>Scenario: Carga dinámica de información del abogado en el card que se superpone<br><br>Dado la necesidad de cargar información detallada de un abogado seleccionado en el card que se superpone,<br><br>Cuando se selecciona un abogado y se abre su perfil completo en el card que se superpone,<br><br>Entonces se carga dinámicamente la información detallada del abogado seleccionado en el card que se superpone.</td>
+    <td>EP06</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
@@ -448,118 +459,132 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
     </tr>
     <tr>
         <td>14</td>
-        <td>US09</td>
-        <td>Visualización de Perfil de Abogado Médico</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
-        <td>5</td>
+        <td>HU09</td>
+    <td>Perfil de abogado médico</td>
+    <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
+    <td>3</td>
     </tr>
     <tr>
         <td>15</td>
+        <td>HU31</td>
+        <td>Implementar card que se superpone para mostrar perfiles de abogados</td>
+        <td>El desarrollador implementa un card que se superpone para mostrar los perfiles completos de los abogados seleccionados, con el fin de proporcionar una experiencia de usuario consistente y centrada en la información detallada de cada abogado.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>HU32</td>
+        <td>Implementar método para cargar información de abogado en el card que se superpone</td>
+        <td>El desarrollador implementa un método para cargar dinámicamente la información completa de un abogado seleccionado en el card que se superpone correspondiente, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>17</td>
         <td>US01</td>
         <td>Gestión de las cuentas de los usuarios</td>
         <td>Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>16</td>
+        <td>18</td>
         <td>US02</td>
         <td>Verificación de credenciales médicas</td>
         <td>Como médico registrado en la plataforma, quiero que mi perfil pase por un proceso de verificación de credenciales médicas para aumentar mi credibilidad dentro de la comunidad y tener acceso a recursos especializados.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>17</td>
+        <td>19</td>
         <td>US03</td>
         <td>Gestión de roles de cuentas</td>
         <td>Como administrador de la plataforma, necesito poder asignar, modificar y revocar roles de usuario para gestionar adecuadamente el acceso a diversas áreas de la plataforma.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>18</td>
+        <td>20</td>
         <td>US04</td>
         <td>Eliminar cuenta Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense,necesito poder eliminar mi cuenta en caso sea necesario para no tener vinculo con el sitio web.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>19</td>
+        <td>21</td>
         <td>US06</td>
         <td>Visualizar actividades del Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>20</td>
+        <td>22</td>
         <td>US07</td>
         <td>Búsqueda por Filtros</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder realizar búsqueda por medio de filtros para facilitar el acceso a ello.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>21</td>
+        <td>23</td>
         <td>US08</td>
         <td>Suscripción a un plan</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de suscribirme a un plan mensual o anual para tener los beneficios de la suscripción.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>22</td>
+        <td>24</td>
         <td>US10</td>
         <td>Visualización del caso y documentos</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>23</td>
+        <td>25</td>
         <td>US11</td>
         <td>Contacto directo con mi medico asesor</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>24</td>
+        <td>26</td>
         <td>US12</td>
         <td>Cambiar de medico asesor</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
         <td>3</td>
     </tr>
         <tr>
-        <td>25</td>
+        <td>27</td>
         <td>US18</td>
         <td>Integración de pagos</td>
         <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
         <td>8</td>
     </tr>
         <tr>
-        <td>26</td>
+        <td>28</td>
         <td>US19</td>
         <td>Base de datos de usuarios</td>
         <td>Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
         <td>5</td>
     </tr>
         <tr>
-        <td>27</td>
+        <td>29</td>
         <td>US20</td>
         <td>API para gestión de perfiles</td>
         <td>Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
         <td>5</td>
     </tr>
         <tr>
-        <td>28</td>
+        <td>30</td>
         <td>US21</td>
         <td>Logging de Actividades</td>
         <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
         <td>8</td>
     </tr>
         <tr>
-        <td>29</td>
+        <td>31</td>
         <td>US22</td>
         <td>API para búsqueda por filtros</td>
         <td>Como desarrollador, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>30</td>
+        <td>32</td>
         <td>US23</td>
         <td>Servicio de notificaciones</td>
         <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
