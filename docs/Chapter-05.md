@@ -132,7 +132,7 @@ una de las tareas identificadas para el sprint.
   <tr>
     <td colspan="1">16</td>
     <td colspan="2">Sección de Creadores</td>
-    <td colspan="1">1</td>
+    <td colspan="1">2</td>
     <td colspan="2">Añadir funcion para mostrar los creadores de la empresa</td>
     <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
     <td colspan="1">1</td>
@@ -288,7 +288,7 @@ Test de visualización de sección de inicio
   </thead>
   <tbody>
     <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>main</td>
       <td>168d5f0532985817301307d0eb0e651ebb233a77</td>
       <td>initial commit</td>
@@ -296,7 +296,7 @@ Test de visualización de sección de inicio
       <td>2024-04-06</td>
     </tr>
     <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>main</td>
       <td>4808acedb5738c031b71416e6ea0fff5d057e0e5</td>
       <td>Added "Our Services"</td>
@@ -304,7 +304,7 @@ Test de visualización de sección de inicio
       <td>2024-04-06</td>
     </tr>
     <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>main</td>
       <td>b6d10b1525acdd2e4914c5de25d2ecb836884e94</td>
       <td>added contact section</td>
@@ -312,7 +312,7 @@ Test de visualización de sección de inicio
       <td>2024-04-06</td>
     </tr>
     <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>main</td>
       <td>555441bd8dc434640170aae69d2f517df739251a</td>
       <td>Added "About us" and "Our Services"</td>
@@ -320,7 +320,7 @@ Test de visualización de sección de inicio
       <td>2024-04-06</td>
     </tr>
     <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>main</td>
       <td>a778131e10a50a903dfd234b986164615c9871e2</td>
       <td>Added creators section</td>
@@ -328,7 +328,7 @@ Test de visualización de sección de inicio
       <td>2024-04-08</td>
     </tr>
     <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>main</td>
       <td>2d479db24e63fa3b3e24f141b8bfc56d5efc2883</td>
       <td>update creators section</td>
@@ -336,7 +336,7 @@ Test de visualización de sección de inicio
       <td>2024-04-09</td>
     </tr>
     <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>main</td>
       <td>7ace2ebbe27f9ea32f3e94c00e516610f996e68d</td>
       <td>updated image errors</td>
@@ -344,7 +344,7 @@ Test de visualización de sección de inicio
       <td>2024-04-10</td>
     </tr>
     <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>main</td>
       <td>5b77d4e726f5b1b0dac3a9b6f17c8731562d9608</td>
       <td>updated contact section</td>
@@ -352,7 +352,7 @@ Test de visualización de sección de inicio
       <td>2024-04-10</td>
     </tr>
     <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>main</td>
       <td>b96e52c2884c042e2a27a25de945b9f263f9365a</td>
       <td>updated menu.js</td>
@@ -403,6 +403,312 @@ Commits:
 Analiticas de Colaboración:
 
 ![alt text](../assets/imgs/AnaliticasLanding.png)
+
+### 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 2
+
+Para este segundo sprint nos enfocaremos en los tasks para la
+elaboración de Frontend Web Application. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+
+### 5.2.2.2. Sprint Backlog 2
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">25</td>
+    <td colspan="2">Configuración de la base de datos</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Crear y Configurar el Fake-API para el FrontEnd</td>
+    <td colspan="3">Como desarrollador, necesito diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad, ubicación, etc.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">26</td>
+    <td colspan="2">Desarrollo del frontend para la lista de abogados</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Añadir Lista de Abogados</td>
+    <td colspan="3">Como desarrollador, necesito crear componentes en el frontend para mostrar la lista de abogados y diseñar la interfaz de usuario utilizando la biblioteca Angular.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">27</td>
+    <td colspan="2">Integración del toolbar</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir Toolbar</td>
+    <td colspan="3">Como desarrollador, necesito implementar un toolbar en el frontend y conectarlo con las diferentes opciones de la aplicación, asegurando una navegación fluida entre las secciones.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">28</td>
+    <td colspan="2">Estilizado y diseño responsivo</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Añadir estilizado y diseño responsivo</td>
+    <td colspan="3">Como desarrollador, necesito aplicar estilos CSS para garantizar un diseño atractivo y responsivo en todas las páginas de la aplicación, utilizando frameworks como Bootstrap o Material-UI.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">29</td>
+    <td colspan="2">Implementación de la funcionalidad de búsqueda de abogados</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Añadir busqueda de abogados</td>
+    <td colspan="3">Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">30</td>
+    <td colspan="2">Implementación de la paginación de resultados</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Añadir la paginación de resultados</td>
+    <td colspan="3">Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">9</td>
+    <td colspan="2">Perfil de abogado médico</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Añadir Perfil de abogado médico</td>
+    <td colspan="3">Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">31</td>
+    <td colspan="2">Implementar card que se superpone para mostrar perfiles de abogados</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Añadir Card que muestre perfil de abogados</td>
+    <td colspan="3">El desarrollador implementa un card que se superpone para mostrar los perfiles completos de los abogados seleccionados, con el fin de proporcionar una experiencia de usuario consistente y centrada en la información detallada de cada abogado.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">32</td>
+    <td colspan="2">Implementar método para cargar información de abogado en el card que se superpone</td>
+    <td colspan="1">9</td>
+    <td colspan="2">Añadir metodo para cargar la información de abogado en el card</td>
+    <td colspan="3">El desarrollador implementa un método para cargar dinámicamente la información completa de un abogado seleccionado en el card que se superpone correspondiente, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+</tr>
+</table>
+
+### 5.2.1.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">56853799d2969ae246d7b161ba4e729451f6e577</td>
+        <td colspan="2">feat: added db.json and start.sh</td>
+        <td colspan="2">-</td>
+        <td colspan="2">27/04/24</td>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">eb08f314c976895d3b6b61955c81cdf96e3849fa</td>
+        <td colspan="2">feat(static-content): added lawyers list and page no found.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">27/04/24</td>
+    </tr>
+     <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">81820b0e85b3959ccada181ae71969f108eb4b4e</td>
+        <td colspan="2">feat(main-view): implemented main view with in-app-navigation.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">27/04/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">341a49cb0a3501c91a29f67ae765835fa5529f47</td>
+        <td colspan="2">feat(static-content): added lawyers profile</td>
+        <td colspan="2">-</td>
+        <td colspan="2">27/04/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">d1b71f4b7cde4b5d98ebf23b8623a6fbefb3ce14</td>
+        <td colspan="2">feat(view): implemented view with lawyer-profile.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">27/04/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">-</td>
+        <td colspan="2"></td>
+    </tr>
+</table>
+
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+**Unit Tests**
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 5.2.1.5. Execution Evidence for Sprint Review
+
+Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versión de Frontend Web Application del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+
+
+Analiticas de Colaboración:
+
+
+
 
 ## 5.3. Conclusiones 
 
