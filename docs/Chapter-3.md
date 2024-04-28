@@ -291,6 +291,48 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <br>THEN el sistema mantiene una funcionalidad consistente y segura, sin importar el navegador utilizado.</td>
         <td>EP06</td>
     </tr>
+    <tr>
+    <td>HU25</td>
+    <td>Configuración de la base de datos</td>
+    <td>Como desarrollador, necesito diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
+    <td>Scenario: Configuración de la base de datos<br><br>GIVEN el desarrollador necesita configurar la base de datos para almacenar la información de los abogados<br><br>WHEN define la estructura de la tabla 'abogados' con los campos requeridos como nombre, especialidad y ubicación,<br><br>THEN la base de datos está configurada correctamente para almacenar la información de los abogados.</td>
+    <td>EP06</td>
+  </tr>
+  <tr>
+    <td>HU26</td>
+    <td>Desarrollo del frontend para la lista de abogados</td>
+    <td>Como desarrollador, necesito crear componentes en el frontend para mostrar la lista de abogados y diseñar la interfaz de usuario utilizando la biblioteca Angular.</td>
+    <td>Scenario: Desarrollo del frontend para la lista de abogados<br><br>GIVEN el desarrollador necesita mostrar la lista de abogados en el frontend<br><br>WHEN crea componentes en el frontend para mostrar la lista de abogados,<br><br>THEN la lista de abogados se muestra correctamente en la interfaz de usuario.</td>
+    <td>EP06</td>
+  </tr>
+  <tr>
+    <td>HU27</td>
+    <td>Integración del toolbar</td>
+    <td>Como desarrollador, necesito implementar un toolbar en el frontend y conectarlo con las diferentes opciones de la aplicación, asegurando una navegación fluida entre las secciones.</td>
+    <td>Scenario: Integración del toolbar<br><br>GIVEN el desarrollador necesita integrar un toolbar en el frontend<br><br>WHEN conecta el toolbar con las diferentes opciones de la aplicación,<br><br>THEN la navegación entre las secciones es fluida y sin problemas.</td>
+    <td>EP06</td>
+  </tr>
+  <tr>
+    <td>HU28</td>
+    <td>Estilizado y diseño responsivo</td>
+    <td>Como desarrollador, necesito aplicar estilos CSS para garantizar un diseño atractivo y responsivo en todas las páginas de la aplicación, utilizando frameworks como Bootstrap o Material-UI.</td>
+    <td>Scenario: Estilizado y diseño responsivo<br><br>GIVEN el desarrollador necesita aplicar estilos CSS para garantizar un diseño atractivo y responsivo<br><br>WHEN aplica estilos CSS utilizando frameworks como Bootstrap o Material-UI,<br><br>THEN el diseño de la aplicación es atractivo y compatible con diferentes tamaños de pantalla y dispositivos.</td>
+    <td>EP06</td>
+  </tr>
+  <tr>
+    <td>HU29</td>
+    <td>Implementación de la funcionalidad de búsqueda de abogados</td>
+    <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
+    <td><td>Scenario: Búsqueda de abogados<br><br>GIVEN el usuario necesita buscar un abogado específico<br><br>WHEN utiliza la función de búsqueda en la página de lista de abogados y proporciona un término de búsqueda,<br><br>THEN se muestran los resultados relevantes que coinciden con el término de búsqueda.</td></td>
+    <td>EP06</td>
+  </tr>
+  <tr>
+    <td>HU30</td>
+    <td>Implementación de la paginación de resultados</td>
+    <td>Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
+    <td><td>Scenario: Paginación de resultados<br><br>GIVEN el usuario necesita navegar por una larga lista de abogados<br><br>WHEN se muestra una lista de abogados con múltiples páginas de resultados,<br><br>THEN el usuario puede navegar fácilmente entre las páginas utilizando los controles de paginación.</td></td>
+    <td>EP06</td>
+  </tr>
 </table>
 
 ## 3.3. Impact Mapping
@@ -312,6 +354,104 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <th>Título</th>
         <th>Descripción</th>
         <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+    <tr>
+    <td>1</td>
+        <td>US17</td>
+        <td>Sección de inicio</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>US15</td>
+        <td>Sección de about us</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
+        <td>3</td>
+        </tr>
+         <tr>
+        <td>3</td>
+        <td>US13</td>
+        <td>Visualización de servicios</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>US05</td>
+        <td>Visualización de lista de tipos de suscripción</td>
+        <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>US14</td>
+        <td>Sección de contacto</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
+        <td>5</td>
+    </tr>
+     <tr>
+        <td>6</td>
+        <td>US16</td>
+        <td>Sección de contacto</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+        <td>3</td>
+    </tr>
+<tr>
+    <td>7</td>
+        <td>US24</td>
+        <td>Soporte para múltiples navegadores</td>
+        <td>Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>US25</td>
+        <td>Configuración de la base de datos</td>
+        <td>Como desarrollador, necesito diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>HU26</td>
+        <td>Desarrollo del frontend para la lista de abogados</td>
+        <td>Como desarrollador, necesito crear componentes en el frontend para mostrar la lista de abogados y diseñar la interfaz de usuario utilizando la biblioteca Angular.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>HU27</td>
+        <td>Integración del toolbar</td>
+        <td>Como desarrollador, necesito implementar un toolbar en el frontend y conectarlo con las diferentes opciones de la aplicación, asegurando una navegación fluida entre las secciones.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>HU28</td>
+        <td>Estilizado y diseño responsivo</td>
+        <td>Como desarrollador, necesito aplicar estilos CSS para garantizar un diseño atractivo y responsivo en todas las páginas de la aplicación, utilizando frameworks como Bootstrap o Material-UI.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>HU29</td>
+        <td>Implementación de la funcionalidad de búsqueda de abogados</td>
+        <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+    <td>13</td>
+        <td>HU30</td>
+        <td>Implementación de la paginación de resultados</td>
+        <td>Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>US09</td>
+        <td>Visualización de Perfil de Abogado Médico</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
+        <td>5</td>
     </tr>
     <tr>
         <td>1</td>
@@ -341,13 +481,6 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Como usuario de la plataforma de MedicDefense,necesito poder eliminar mi cuenta en caso sea necesario para no tener vinculo con el sitio web.</td>
         <td>3</td>
     </tr>
-     <tr>
-        <td>5</td>
-        <td>US05</td>
-        <td>Visualización de lista de tipos de suscripción</td>
-        <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
-        <td>2</td>
-    </tr>
     <tr>
         <td>6</td>
         <td>US06</td>
@@ -367,13 +500,6 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>US08</td>
         <td>Suscripción a un plan</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de suscribirme a un plan mensual o anual para tener los beneficios de la suscripción.</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>US09</td>
-        <td>Visualización de Perfil de Abogado Médico</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
         <td>5</td>
     </tr>
     <tr>
@@ -397,87 +523,46 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
         <td>3</td>
     </tr>
-    <tr>
-        <td>13</td>
-        <td>US13</td>
-        <td>Visualización de servicios</td>
-        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>US14</td>
-        <td>Sección de contacto</td>
-        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>US15</td>
-        <td>Sección de about us</td>
-        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
-        <td>3</td>
-    <tr>
-        <td>16</td>
-        <td>US16</td>
-        <td>Sección de contacto</td>
-        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
-        <td>3</td>
-    </tr>
-    <tr>
-    <td>17</td>
-        <td>US17</td>
-        <td>Sección de inicio</td>
-        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
-        <td>3</td>
-    </tr>
         <tr>
-    <td>18</td>
+        <td>18</td>
         <td>US18</td>
         <td>Integración de pagos</td>
         <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
         <td>8</td>
     </tr>
         <tr>
-    <td>19</td>
+        <td>19</td>
         <td>US19</td>
         <td>Base de datos de usuarios</td>
         <td>Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
         <td>5</td>
     </tr>
         <tr>
-    <td>20</td>
+        <td>20</td>
         <td>US20</td>
         <td>API para gestión de perfiles</td>
         <td>Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
         <td>5</td>
     </tr>
         <tr>
-    <td>21</td>
+        <td>21</td>
         <td>US21</td>
         <td>Logging de Actividades</td>
         <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
         <td>8</td>
     </tr>
         <tr>
-    <td>22</td>
+        <td>22</td>
         <td>US22</td>
         <td>API para búsqueda por filtros</td>
         <td>Como desarrollador, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
         <td>5</td>
     </tr>
-        <tr>
-    <td>23</td>
+    <tr>
+        <td>23</td>
         <td>US23</td>
         <td>Servicio de notificaciones</td>
         <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
         <td>5</td>
-    </tr>
-        <tr>
-    <td>24</td>
-        <td>US24</td>
-        <td>Soporte para múltiples navegadores</td>
-        <td>Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
-        <td>3</td>
     </tr>
 </table>
