@@ -186,7 +186,7 @@ Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para 
 
 - Mediante la realizacion Lean UX Canvas podemos mostrar todla informacion anterior pero de una manera resumida, didactica y mas accesible al lector. Tambien se resume la problematica que estamos abordando y la solucion que proponemos, junto con los supuestos de las hipotesis y los puntos mas importantes de las mismas.
 
-![Lean UX Canvas](<../assets/imgs/Lean UX Canvas Open Source>)
+![Lean UX Canvas](<../assets/imgs/Lean UX Canvas Open Source.png>)
 
 ## 1.3. Segmento Objetivo
 
