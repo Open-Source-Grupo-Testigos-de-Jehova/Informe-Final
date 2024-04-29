@@ -97,6 +97,57 @@ documentación y despliegue del Landing Page.
 Para este primer sprint nos enfocaremos en los tasks para la
 elaboración de la Landing Page. Nos dividiremos entre nosotros cada
 una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-04-12</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">11:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord y Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Garcia</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Mathias Vasquez, Anatoly Noriega</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Review Summary</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo del landing page para nuestro proyecto llamado MedicDefense</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando landing pages</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Culminar el landing Page</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">6 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">9 Story Points</td>
+</tr>
+</table>
 
 ### 5.2.1.2. Sprint Backlog 1
 
@@ -412,6 +463,58 @@ Para este segundo sprint nos enfocaremos en los tasks para la
 elaboración de Frontend Web Application. Nos dividiremos entre nosotros cada
 una de las tareas identificadas para el sprint.
 
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-04-28</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">8:40 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord y Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Garcia</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Mathias Vasquez, Anatoly Noriega</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Review Summary</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo la  primera version del frontend para nuestro proyecto llamado MedicDefense</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando landing pages</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Culminar el landing Page</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">36 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">40 Story Points</td>
+</tr>
+</table>
+
 ### 5.2.2.2. Sprint Backlog 2
 
 <table>
@@ -637,8 +740,7 @@ una de las tareas identificadas para el sprint.
         <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
         <td colspan="2">Develop</td>
         <td colspan="2">fe00f707be521ea6e879e506455385f660f96da2</td>
-        <td colspan="2">
-fix(User): correct implementation details in user.entity</td>
+        <td colspan="2">fix(User): correct implementation details in user.entity</td>
         <td colspan="2">-</td>
         <td colspan="2">28/04/24</td>
     </tr>
@@ -670,8 +772,6 @@ fix(User): correct implementation details in user.entity</td>
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-**Unit Tests**
-
 <table>
   <thead>
     <tr>
@@ -687,74 +787,274 @@ fix(User): correct implementation details in user.entity</td>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>develop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>56853799d2969ae246d7b161ba4e729451f6e577</td>
+      <td>added db.json and start.sh</td>
+      <td>Se añadió "db.json", una base de datos en JSON, y "start.sh", un script de inicio.</td>
+      <td>25/04/24</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>develop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>7b69a52051f2d9dde597eacf136d0371a5ae4895</td>
+      <td>added enviroments support files</td>
+      <td>se han incluido archivos de soporte para entornos para facilitar la configuración y el funcionamiento en diferentes contextos de desarrollo</td>
+      <td>27/04/24</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>develop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>3ed377edaa934a4d8600c371840f8f070bb50dca</td>
+      <td>update support file for fake api.</td>
+      <td>Se ha actualizado el archivo de soporte para la API falsa</td>
+      <td>27/04/24</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>develop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>024ce6a20f9f3509ab52f97bc9807b6e0880b89b</td>
+      <td>added base service.</td>
+      <td>Se ha añadido un servicio base</td>
+      <td>27/04/24</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>develop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>389daa9d83492686b84c04617bd13c4b0a7d431a</td>
+      <td>added lawyers service.</td>
+      <td>Se ha agregado un servicio de abogados</td>
+      <td>27/04/24</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>develop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>5546695c70d62a17dc3723248bb1b01fb79bb3a8</td>
+      <td>added needed component modules.</td>
+      <td>Se han añadido los módulos de componentes necesarios.</td>
+      <td>27/04/24</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>develop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>eb08f314c976895d3b6b61955c81cdf96e3849fa</td>
+      <td>added lawyers list and page no found.</td>
+      <td>Se ha agregado una lista de abogados junto con una página de "no encontrada"</td>
+      <td>27/04/24<</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>develop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>81820b0e85b3959ccada181ae71969f108eb4b4e</td>
+      <td>implemented main view with in-app-navigation.</td>
+      <td>Se ha implementado la vista principal con navegación dentro de la aplicación.</td>
+      <td>27/04/24<</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
       <td>develop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>fa9adce5335da947940cb0601823775afd977752</td>
+      <td>Merge branch 'feature/lawyer-listing-and-search' into develop</td>
+      <td>Se ha fusionado la rama "feature/lawyer-listing-and-search" en la rama "develop".</td>
+      <td>27/04/24<</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>e80adf27d54d85d5be44f3102f5932cf67e0327a</td>
+      <td>update instructions for development server in README.md</td>
+      <td>Se han actualizado las instrucciones para el servidor de desarrollo en el archivo README.md.</td>
+      <td>27/04/24<</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>b8e6bdf85f74be07124736c75575b53dc7d0ec84</td>
+      <td>update lawyer data in db.json</td>
+      <td>Se ha actualizado la información de los abogados en el archivo db.json.</td>
+      <td>27/04/24<</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>1f46cdc48fd6d2ffa4710cb881a3280ab7bbe6e8</td>
+      <td>update Lawyer entity in lawyer.entity.ts</td>
+      <td>Se ha actualizado la entidad Lawyer en el archivo lawyer.entity.ts</td>
+      <td>27/04/24<</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>bd9cb406ffecec4f765e5e167c1555e1de0a808c</td>
+      <td>added new components modules</td>
+      <td>Se han añadido nuevos módulos de componentes.</td>
+      <td>27/04/24<</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>d3ed2f983be5a7e3a11de8bb64af0c428524a84d</td>
+      <td>added a getter in base service.</td>
+      <td>Se ha agregado un getter en el servicio base.</td>
+      <td>27/04/24<</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>341a49cb0a3501c91a29f67ae765835fa5529f47</td>
+      <td>added lawyers profilep</td>
+      <td>Se ha añadido el perfil de abogados</td>
+      <td>27/04/24<</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>d1b71f4b7cde4b5d98ebf23b8623a6fbefb3ce14</td>
+      <td>implemented view with lawyer-profile.</td>
+      <td>Se ha implementado la vista con el perfil de abogado.</td>
+      <td>27/04/24<</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>66d75e3663f011ad68fb924f28567f006f4964ad</td>
+      <td>update photos in db.json</td>
+      <td>Se han actualizado las fotos en el archivo db.json.</td>
+      <td>27/04/24<</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>1a72ac51cba21ee8921cf36e3f80f3eeb823d1ee</td>
+      <td>update lawyers-profile styles</td>
+      <td>Se han actualizado los estilos del perfil de abogados.</td>
+      <td>27/04/24<</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>d0bbb98716f8097eeaf5189b268c412b55cb10f4</td>
+      <td>Merge branch 'feature/lawyer-profile' into develop</td>
+      <td>Se ha fusionado la rama "feature/lawyer-profile" en la rama "develop".</td>
+      <td>27/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>116092fcc09ac91471e2b14786a1bd5b63a76886</td>
+      <td>error in word landing.</td>
+      <td>Hay un error en la palabra "landing".</td>
+      <td>28/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>768640695baa5212a8468eab129ee40f075574f2</td>
+      <td>added suscription component.</td>
+      <td>Se ha añadido el componente de suscripción.</td>
+      <td>28/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>d2cc4392fde87e91e1384c713e7866841914bc58</td>
+      <td>readded suscription component.</td>
+      <td>Se ha vuelto a añadir el componente de suscripción.</td>
+      <td>28/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>62c825a4b204f8c4c0eef699fbb035f4b4d182e0</td>
+      <td>correct implementation details in user.entity</td>
+      <td>Se ha corregido la implementación en los detalles de la entidad de usuario en user.entity.</td>
+      <td>28/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>a4750ac76217e8bd07bd816380e01bd9ec7fc03f</td>
+      <td>added suscription pay component.</td>
+      <td>Se ha añadido el componente de pago de suscripción.</td>
+      <td>28/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>6f252c1e7912dc8ef870b1f3ec3158a76d7ff882</td>
+      <td>removed unused constant.</td>
+      <td>Se ha eliminado la constante no utilizada en la función de suscripción.</td>
+      <td>28/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>63b6c97512b83d1e9bd8b9acd0a4e8cd2711d620</td>
+      <td>Merge branch 'feature/suscrptions' into develop</td>
+      <td>Se ha fusionado la rama "feature/suscriptions" en la rama "develop".</td>
+      <td>28/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>25985a15a89a3b85d7946a26459c1e381fa2e36a</td>
+      <td>feat(profile): add new profile section</td>
+      <td>Se ha agregado una nueva sección de perfil.</td>
+      <td>28/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>faa63ccb4631215b6415454907e1d0d1ce8223a1</td>
+      <td>feat(edit-profile): add new edit profile section</td>
+      <td>Se ha agregado una nueva sección para editar el perfil.</td>
+      <td>28/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>7c236add4b5763054a50a5a0f0e7e3c70219af0e</td>
+      <td>added summary section.</td>
+      <td>Se ha añadido una sección de resumen al contenido estático.</td>
+      <td>28/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>42b7ef1ffc1d19010cbeaa1182ef2c5411e4bf84</td>
+      <td>added needed component modules.</td>
+      <td>Se han añadido los módulos de componentes necesarios para Material Design.</td>
+      <td>29/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>339016af024e40d825917f558c71654ef7ff0e36</td>
+      <td>Merge branch 'feature/summary-section' into develop</td>
+      <td>Se ha fusionado la rama "feature/summary-section" en la rama "develop".</td>
+      <td>29/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>b0305fea82b6e891369952034cbf40b556405c7e</td>
+      <td>added lawyer filter component.</td>
+      <td>Se ha añadido el componente de filtro de abogados.</td>
+      <td>29/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>4c4e0abefd64de10451044343ae6ac3ad7f0c882</td>
+      <td>implemented lawyer filter interface.</td>
+      <td>Se ha implementado la interfaz de filtro de abogados.</td>
+      <td>29/04/24<</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>develop</td>
+      <td>42f53e5cda1a93e5a304b6a64bd5a4e423202d29</td>
+      <td>Merge branch 'feature/lawyer-filter' into develop</td>
+      <td>Se ha fusionado la rama "feature/lawyer-filter" en la rama "develop".</td>
+      <td>29/04/24<</td>
     </tr>
   </tbody>
 </table>
