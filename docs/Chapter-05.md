@@ -553,6 +553,16 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
+    <td colspan="1">36</td>
+    <td colspan="2">Diseño de la Interfaz de Edición de Filtros</td>
+    <td colspan="1">13</td>
+    <td colspan="2">Añadir interfaz de filtro</td>
+    <td colspan="3">Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Mathias</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
     <td colspan="1"></td>
     <td colspan="2"></td>
     <td colspan="1"></td>
