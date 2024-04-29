@@ -688,8 +688,8 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>3</td>
     </tr>
     <tr>
-        <td>37</td>
-        <td>US37</td>
+        <td>39</td>
+        <td>US39</td>
         <td>Diseño de la interfaz de pago Suscripciones</td>
         <td>Como desarollador, quiero implementar una interfaz donde se pueda ingresar los detalles de una tarjeta de crédito y el monto a pagar, para completar el proceso de pago de la suscripción.</td>
         <td>3</td>
