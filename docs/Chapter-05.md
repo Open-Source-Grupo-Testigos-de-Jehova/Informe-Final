@@ -1134,10 +1134,10 @@ Enlace al video de Evidencia: https://upcedupe-my.sharepoint.com/:v:/g/personal/
 Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
+![alt text](../assets/imgs/CommitsFrontEnd.png)
 
-
-Analiticas de Colaboración:
-
+Network Graph:
+![alt text](../assets/imgs/NetworkGraphFrontEnd.png)
 
 
 
