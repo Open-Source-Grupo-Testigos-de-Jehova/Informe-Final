@@ -333,16 +333,40 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
     <td>HU31</td>
     <td>Implementar card que se superpone para mostrar perfiles de abogados</td>
-    <td>El desarrollador implementa un card que se superpone para mostrar los perfiles completos de los abogados seleccionados, con el fin de proporcionar una experiencia de usuario consistente y centrada en la información detallada de cada abogado.</td>
-    <td>Scenario: Visualización del perfil completo de un abogado en un card que se superpone<br><br>Dado la necesidad de mostrar información detallada de los abogados de manera legible y organizada,<br><br>Cuando se desarrolla un card que se superpone para contener la información del perfil del abogado,<br><br>Entonces se asegura una presentación clara y consistente de la información del abogado.</td>
+    <td>Como desarrollador quiero implementar un card que se superpone para mostrar los perfiles completos de los abogados seleccionados.</td>
+    <td>Scenario: Visualización del perfil completo de un abogado en un card que se superpone<br><br>GIVEN la necesidad de mostrar información detallada de los abogados de manera legible y organizada,<br><br>WHEN se desarrolla un card que se superpone para contener la información del perfil del abogado,<br><br>THEN se asegura una presentación clara y consistente de la información del abogado.</td>
     <td>EP06</td>
     </tr>
     <tr>
     <td>HU32</td>
     <td>Implementar método para cargar información de abogado en el card que se superpone</td>
-    <td>El desarrollador implementa un método para cargar dinámicamente la información completa de un abogado seleccionado en el card que se superpone correspondiente, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
-    <td>Scenario: Carga dinámica de información del abogado en el card que se superpone<br><br>Dado la necesidad de cargar información detallada de un abogado seleccionado en el card que se superpone,<br><br>Cuando se selecciona un abogado y se abre su perfil completo en el card que se superpone,<br><br>Entonces se carga dinámicamente la información detallada del abogado seleccionado en el card que se superpone.</td>
+    <td>Como desarrollador quiero implementar un método para cargar dinámicamente la información completa de un abogado seleccionado, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
+    <td>Scenario: Carga dinámica de información del abogado en el card que se superpone<br><br>GIVEN la necesidad de cargar información detallada de un abogado seleccionado en el card que se superpone,<br><br>WHEN se selecciona un abogado y se abre su perfil completo en el card que se superpone,<br><br>THEN se carga dinámicamente la información detallada del abogado seleccionado en el card que se superpone.</td>
     <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU33</td>
+    <td>Implementación de la Entidad de Usuario</td>
+    <td>Como desarrollador, quiero crear la entidad de usuario con todos los atributos necesarios para representar a médicos y estudiantes en la plataforma.
+</td>
+    <td>Scenario: Creación de la entidad de usuario<br><br>GIVEN el desarrollador necesita representar a los usuarios en el sistema,<br><br>WHEN define y crea la entidad de usuario con atributos como ID, nombre, especialidad, correo electrónico, contraseña, etc,<br><br>THEN la entidad está disponible en el sistema para ser utilizada en otras funcionalidades de la plataforma.</td>
+    <td>EP01</td>
+    </tr>
+    <tr>
+    <td>HU34</td>
+    <td>Diseño de la Sección de Perfil de Usuario</td>
+    <td>Como desarrollador, quiero crear una sección de perfil para usuarios que muestre claramente la información del médico o estudiante de medicina.
+</td>
+    <td>Scenario: Diseño del perfil de usuario<br><br>GIVEN el desarrollador necesita mostrar información del usuario de manera organizada,<br><br>WHEN diseña la sección de perfil de usuario incluyendo campos como nombre, especialidad, y datos de contacto,<br><br>THEN la sección de perfil se muestra de forma atractiva y es fácil de navegar para el usuario.</td>
+    <td>EP01</td>
+    </tr>
+    <tr>
+    <td>HU35</td>
+    <td>Diseño de la Interfaz de Edición de Perfil de Usuario</td>
+    <td>Como desarrollador, quiero diseñar la interfaz de edición de perfil para que los usuarios visualicen de manera clara los campos que pueden modificar en su perfil.
+</td>
+    <td>Scenario: Diseño de la interfaz de edición de perfil<br><br>GIVEN un usuario desea ver su perfil para posibles actualizaciones,<br><br>WHEN accede a la opción 'Editar Perfil' en la plataforma,<br><br>THEN se muestra una interfaz con los campos de su perfil actual, como nombre, especialidad, correo electrónico, entre otros, listos para ser editados.</td>
+    <td>EP01</td>
     </tr>
 </table>
 
@@ -424,58 +448,58 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
     </tr>
     <tr>
         <td>9</td>
-        <td>HU26</td>
+        <td>US26</td>
         <td>Desarrollo del frontend para la lista de abogados</td>
         <td>Como desarrollador, necesito crear componentes en el frontend para mostrar la lista de abogados y diseñar la interfaz de usuario utilizando la biblioteca Angular.</td>
         <td>5</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>HU27</td>
+        <td>US27</td>
         <td>Integración del toolbar</td>
         <td>Como desarrollador, necesito implementar un toolbar en el frontend y conectarlo con las diferentes opciones de la aplicación, asegurando una navegación fluida entre las secciones.</td>
         <td>5</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>HU28</td>
+        <td>US28</td>
         <td>Estilizado y diseño responsivo</td>
         <td>Como desarrollador, necesito aplicar estilos CSS para garantizar un diseño atractivo y responsivo en todas las páginas de la aplicación, utilizando frameworks como Bootstrap o Material-UI.</td>
         <td>5</td>
     </tr>
     <tr>
     <td>12</td>
-        <td>HU29</td>
+        <td>US29</td>
         <td>Implementación de la funcionalidad de búsqueda de abogados</td>
         <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
         <td>3</td>
     </tr>
     <tr>
     <td>13</td>
-        <td>HU30</td>
+        <td>US30</td>
         <td>Implementación de la paginación de resultados</td>
         <td>Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>14</td>
-        <td>HU09</td>
+        <td>US09</td>
     <td>Perfil de abogado médico</td>
     <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
     <td>3</td>
     </tr>
     <tr>
         <td>15</td>
-        <td>HU31</td>
+        <td>US31</td>
         <td>Implementar card que se superpone para mostrar perfiles de abogados</td>
-        <td>El desarrollador implementa un card que se superpone para mostrar los perfiles completos de los abogados seleccionados, con el fin de proporcionar una experiencia de usuario consistente y centrada en la información detallada de cada abogado.</td>
+        <td>Como desarrollador quiero implementar un card que se superpone para mostrar los perfiles completos de los abogados seleccionados.</td>
         <td>5</td>
     </tr>
     <tr>
         <td>16</td>
-        <td>HU32</td>
+        <td>US32</td>
         <td>Implementar método para cargar información de abogado en el card que se superpone</td>
-        <td>El desarrollador implementa un método para cargar dinámicamente la información completa de un abogado seleccionado en el card que se superpone correspondiente, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
+        <td>Como desarrollador quiero implementar un método para cargar dinámicamente la información completa de un abogado seleccionado, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
         <td>5</td>
     </tr>
     <tr>
@@ -589,5 +613,26 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Servicio de notificaciones</td>
         <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
         <td>5</td>
+    </tr>
+        <tr>
+        <td>33</td>
+        <td>US33</td>
+        <td>Implementación de la Entidad de Usuario</td>
+        <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
+        <td>5</td>
+    </tr>
+        <tr>
+        <td>34</td>
+        <td>US34</td>
+        <td>Diseño de la Sección de Perfil de Usuario</td>
+        <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
+        <td>3</td>
+    </tr>
+        <tr>
+        <td>35</td>
+        <td>US35</td>
+        <td>Diseño de la Interfaz de Edición de Perfil de Usuario</td>
+        <td>Como desarrollador, quiero diseñar la interfaz de edición de perfil para que los usuarios visualicen de manera clara los campos que pueden modificar en su perfil.</td>
+        <td>3</td>
     </tr>
 </table>
