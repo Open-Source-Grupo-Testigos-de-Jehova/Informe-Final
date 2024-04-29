@@ -666,14 +666,34 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">37</td>
+    <td colspan="2">Diseño de la sección Suscripciones</td>
+    <td colspan="1">14</td>
+    <td colspan="2">Añadir diseño de la seccion suscripciones</td>
+    <td colspan="3">Como desarrollador, quiero implementar la sección de suscripción para obtener ayuda legal en caso de cometer alguna negligencia médica, para estar protegido legalmente.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">38</td>
+    <td colspan="2">Diseño de la interfaz Suscripciones</td>
+    <td colspan="1">15</td>
+    <td colspan="2">Añadir diseño de la interfaz Suscripciones</td>
+    <td colspan="3">Como desarrollador, quiero implementar una interfaz donde se puede ver los detalles de la suscripción actual, para ver el plan seleccionado.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">39</td>
+    <td colspan="2">Diseño de la interfaz de pago Suscripciones</td>
+    <td colspan="1">16</td>
+    <td colspan="2">Añadir diseño de la interfaz de pago suscripciones</td>
+    <td colspan="3">Como desarollador, quiero implementar una interfaz donde se pueda ingresar los detalles de una tarjeta de crédito y el monto a pagar, para completar el proceso de pago de la suscripción</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
 </tr>
 </table>
 
