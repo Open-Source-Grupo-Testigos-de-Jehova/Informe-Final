@@ -496,14 +496,14 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n – 2 Retrospective Summary</td>
-    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando landing pages</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando el FrontEnd Web Application</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Culminar el landing Page</td>
+    <td colspan="8">Avance del FrontEnd Web Application</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
