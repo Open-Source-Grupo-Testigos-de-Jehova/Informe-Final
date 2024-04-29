@@ -368,13 +368,34 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>Scenario: Diseño de la interfaz de edición de perfil<br><br>GIVEN un usuario desea ver su perfil para posibles actualizaciones,<br><br>WHEN accede a la opción 'Editar Perfil' en la plataforma,<br><br>THEN se muestra una interfaz con los campos de su perfil actual, como nombre, especialidad, correo electrónico, entre otros, listos para ser editados.</td>
     <td>EP01</td>
     </tr>
-        <tr>
+    <tr>
     <td>HU36</td>
     <td>Diseño de la Interfaz de Edición de Filtros</td>
     <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.
 </td>
     <td>Scenario: Diseño de la interfaz de filtros<br><br>GIVEN un usuario desea buscar algo aplicando cierto filtro,<br><br>WHEN accede a la opción 'Filtro' en la plataforma,<br><br>THEN se muestra una interfaz con todas las opciones de filtros que estan disponibles.</td>
     <td>EP01</td>
+    </tr>
+    <tr>
+    <td>HU37</td>
+    <td>Diseño de la sección Suscripciones</td>
+    <td>Como desarrollador, quiero implementar la sección de suscripción para obtener ayuda legal en caso de cometer alguna negligencia médica, para estar protegido legalmente.</td>
+    <td>Scenario: Suscripción para ayuda legal<br><br>GIVEN soy un médico autenticado en la plataforma,<br><br>WHEN selecciono la opción de suscripción para obtener ayuda legal,<br><br>THEN se me presenta una lista de planes de suscripción disponibles.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU38</td>
+    <td>Diseño de la interfaz Suscripciones</td>
+    <td>Como desarrollador, quiero implementar una interfaz donde se puede ver los detalles de la suscripción actual, para ver el plan seleccionado.</td>
+    <td>Scenario: Ver detalles de la suscripción<br><br>GIVEN estoy en la sección de suscripciones,<br><br>WHEN selecciono la opción "adquirir",<br><br>THEN se me presenta un apartado donde se ve los detalles de la suscripción.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU39</td>
+    <td>Diseño de la interfaz de pago Suscripciones</td>
+    <td>Como desarollador, quiero implementar una interfaz donde se pueda ingresar los detalles de una tarjeta de crédito y el monto a pagar, para completar el proceso de pago de la suscripción</td>
+    <td>Scenario: Ingreso de detalles de pago<br><br>GIVEN soy un usuario,<br><br>WHEN selecciono la opción "adquirir",<br><br>THEN se me presenta una interfaz para poner los detalles de pago como tarjeta y monto a pagar.</td>
+    <td>EP06</td>
     </tr>
 </table>
 
@@ -651,4 +672,26 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Servicio de notificaciones</td>
         <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
         <td>5</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>US37</td>
+        <td>Diseño de la sección Suscripciones</td>
+        <td>Como desarrollador, quiero implementar la sección de suscripción para obtener ayuda legal en caso de cometer alguna negligencia médica, para estar protegido legalmente.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>US38</td>
+        <td>Diseño de la interfaz Suscripciones</td>
+        <td>Como desarrollador, quiero implementar una interfaz donde se puede ver los detalles de la suscripción actual, para ver el plan seleccionado.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>US37</td>
+        <td>Diseño de la interfaz de pago Suscripciones</td>
+        <td>Como desarollador, quiero implementar una interfaz donde se pueda ingresar los detalles de una tarjeta de crédito y el monto a pagar, para completar el proceso de pago de la suscripción.</td>
+        <td>3</td>
+    </tr>
 </table>
