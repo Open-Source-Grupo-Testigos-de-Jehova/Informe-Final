@@ -507,7 +507,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Implementar card que se superpone para mostrar perfiles de abogados</td>
     <td colspan="1">8</td>
     <td colspan="2">Añadir Card que muestre perfil de abogados</td>
-    <td colspan="3">El desarrollador implementa un card que se superpone para mostrar los perfiles completos de los abogados seleccionados, con el fin de proporcionar una experiencia de usuario consistente y centrada en la información detallada de cada abogado.</td>
+    <td colspan="3">Como desarrollador quiero implementar un card que se superpone para mostrar los perfiles completos de los abogados seleccionados.</td>
     <td colspan="1">5</td>
     <td colspan="2">Fabricio</td>
     <td colspan="1">Done</td>
@@ -517,9 +517,39 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Implementar método para cargar información de abogado en el card que se superpone</td>
     <td colspan="1">9</td>
     <td colspan="2">Añadir metodo para cargar la información de abogado en el card</td>
-    <td colspan="3">El desarrollador implementa un método para cargar dinámicamente la información completa de un abogado seleccionado en el card que se superpone correspondiente, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
+    <td colspan="3">Como desarrollador quiero implementar un método para cargar dinámicamente la información completa de un abogado seleccionado, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
     <td colspan="1">5</td>
     <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">33</td>
+    <td colspan="2">Implementación de la Entidad de Usuario</td>
+    <td colspan="1">10</td>
+    <td colspan="2">Añadir entidad de Usuario con sus respectivos atributos</td>
+    <td colspan="3">Como desarrollador, quiero crear la entidad de usuario con todos los atributos necesarios para representar a médicos y estudiantes en la plataforma.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">34</td>
+    <td colspan="2">Diseño de la Sección de Perfil de Usuario</td>
+    <td colspan="1">11</td>
+    <td colspan="2">Añadir interfaz del perfil de usuario</td>
+    <td colspan="3">Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">35</td>
+    <td colspan="2">Diseño de la Interfaz de Edición de Perfil de Usuario</td>
+    <td colspan="1">12</td>
+    <td colspan="2">Añadir interfaz de edición del perfil de usuario</td>
+    <td colspan="3">Como desarrollador, quiero diseñar la interfaz de edición de perfil para que los usuarios visualicen de manera clara los campos que pueden modificar en su perfil.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Anatoly</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
@@ -586,6 +616,39 @@ una de las tareas identificadas para el sprint.
         <td colspan="2">27/04/24</td>
     </tr>
     <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">62c825a4b204f8c4c0eef699fbb035f4b4d182e0</td>
+        <td colspan="2">feat(user): add User entity in user.entity.ts</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/04/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">fe00f707be521ea6e879e506455385f660f96da2</td>
+        <td colspan="2">
+fix(User): correct implementation details in user.entity</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/04/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">25985a15a89a3b85d7946a26459c1e381fa2e36a</td>
+        <td colspan="2">feat(profile): add new profile section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/04/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">faa63ccb4631215b6415454907e1d0d1ce8223a1</td>
+        <td colspan="2">feat(edit-profile): add new edit profile section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/04/24</td>
+    </tr>
+        <tr>
         <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
         <td colspan="2">Develop</td>
         <td colspan="2"></td>
