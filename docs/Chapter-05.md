@@ -1125,6 +1125,80 @@ Enlace al video de Evidencia: https://upcedupe-my.sharepoint.com/:v:/g/personal/
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+Durante este sprint, se ha desarrollado una Fake API de abogados que proporciona información sobre abogados ficticios. La API incluye detalles como el nombre del abogado, años de experiencia, especialización, casos ganados, tarifa por hora, correo electrónico y número de teléfono.
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+  <tr>
+    <td>/api/lawyers</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/lawyers</td>
+    <td>-</td>
+    <td>GET /api/lawyers</td>
+    <td>200 OK: Devuelve una lista de todos los abogados.</td>
+  </tr>
+  <tr>
+    <td>/api/lawyers/{id}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/lawyers/{id}</td>
+    <td>ID del abogado</td>
+    <td>GET /api/lawyers/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+</table>
+
+Capturas de interaccion: 
+
+-Creacion del Fake API
+
+![alt text](../assets/imgs/fakeApi.png)
+
+-Configuracion del servico HTTPClient
+
+![alt text](../assets/imgs/lawyer-service.png)
+
+-Uso en el componente lawyer-list
+
+![alt text](../assets/imgs/lawyer-list.png)
+-Iteracion en la vista HTML
+
+![alt text](../assets/imgs/lawerlist-html.png)
+
+
+Url del repositorio: https://github.com/Open-Source-Grupo-Testigos-de-Jehova/frontend-app
+
+Commits relacionados: 
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">56853799d2969ae246d7b161ba4e729451f6e577</td>
+        <td colspan="2">feat: added db.json and start.sh</td>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">eb08f314c976895d3b6b61955c81cdf96e3849fa</td>
+        <td colspan="2">feat(static-content): added lawyers list</td>
+    </tr>
+</table>    
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -1138,8 +1212,6 @@ Commits:
 
 Network Graph:
 ![alt text](../assets/imgs/NetworkGraphFrontEnd.png)
-
-
 
 ## 5.3. Conclusiones 
 
