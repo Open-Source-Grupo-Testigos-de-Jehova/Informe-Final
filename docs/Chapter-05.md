@@ -1093,6 +1093,35 @@ una de las tareas identificadas para el sprint.
 
 Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versión de Frontend Web Application del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
+Lista de Abogados y Toolbar:
+![alt text](../assets/imgs/ListaAbogados.png)
+
+Perfil Abogado:
+![alt text](../assets/imgs/PerfilAbogado.png)
+
+Busqueda Abogados:
+![alt text](../assets/imgs/BusquedaAbogado.png)
+
+Filtros Abogados:
+![alt text](../assets/imgs/FiltrosAbogados.png)
+
+Sección Resumen:
+![alt text](../assets/imgs/ResumenAbogados.png)
+
+Sección Suscripción:
+![alt text](../assets/imgs/SuscripciónSección.png)
+
+Suscripción Pago:
+![alt text](../assets/imgs/SuscripciónPayment.png)
+
+Sección Perfil Usuario:
+![alt text](../assets/imgs/PerfilUsuario.png)
+
+Editar Perfil Usuario:
+![alt text](../assets/imgs/EditPerfilUser.png)
+
+
+Enlace al video de Evidencia: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EcsD7o4DfFpPnvygTgabW9EBfx9hWmLUNARniRmaaV33MA?e=65UnnM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
