@@ -783,10 +783,19 @@ una de las tareas identificadas para el sprint.
         <tr>
         <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
         <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">4c4e0abefd64de10451044343ae6ac3ad7f0c882</td>
+        <td colspan="2">feat(lawyer-filer): implemented lawyer filter interface.</td>
         <td colspan="2">-</td>
-        <td colspan="2"></td>
+        <td colspan="2">28/04/24</td>
+    </tr>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">a4750ac76217e8bd07bd816380e01bd9ec7fc03f</td>
+        <td colspan="2">feat(suscription): added suscription pay component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/04/24</td>
     </tr>
 </table>
 
