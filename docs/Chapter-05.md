@@ -1201,7 +1201,11 @@ Commits relacionados:
 </table>    
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada Netlify. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
 
+![alt text](../assets/imgs/DeployEvidence.png)
+
+![alt text](../assets/imgs/DeployEvidence2.png)
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
