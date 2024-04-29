@@ -368,6 +368,14 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>Scenario: Diseño de la interfaz de edición de perfil<br><br>GIVEN un usuario desea ver su perfil para posibles actualizaciones,<br><br>WHEN accede a la opción 'Editar Perfil' en la plataforma,<br><br>THEN se muestra una interfaz con los campos de su perfil actual, como nombre, especialidad, correo electrónico, entre otros, listos para ser editados.</td>
     <td>EP01</td>
     </tr>
+        <tr>
+    <td>HU36</td>
+    <td>Diseño de la Interfaz de Edición de Filtros</td>
+    <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.
+</td>
+    <td>Scenario: Diseño de la interfaz de filtros<br><br>GIVEN un usuario desea buscar algo aplicando cierto filtro,<br><br>WHEN accede a la opción 'Filtro' en la plataforma,<br><br>THEN se muestra una interfaz con todas las opciones de filtros que estan disponibles.</td>
+    <td>EP01</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
