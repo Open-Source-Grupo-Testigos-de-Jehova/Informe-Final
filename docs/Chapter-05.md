@@ -86,6 +86,21 @@ Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los sig
 De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
 Enlace del Landing Page: https://open-source-grupo-testigos-de-jehova.github.io/Landing-page-MedicDefense/
 
+Para desplegar el primer avance del FrontEnd Web Application se utilizó la plataforma Netlify.
+1. Selecciona GitHub como proveedor de Git y autorizamos a Netlify para acceder a tus repositorios.
+
+2. Elegimos el repositorio que contiene el proyecto de Angular.
+
+3. Configura las opciones de compilación:
+- Comando de compilación: ng build --prod
+- Directorio de publicación: dist/frontendApp
+- Hacemos clic en "Deploy site" para iniciar el proceso de despliegue.
+
+4. Netlify compilará y desplegará automáticamente el proyecto Angular. 
+- Una vez que el despliegue esté completo, nos proporcionará una URL para el sitio.
+
+Enlace de la primera version del Frontend App: https://medicdefense.netlify.app/
+
 ## 5.2. Landing Page, Services & Applications Implementation
 En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
 documentación y despliegue del Landing Page.
