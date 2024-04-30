@@ -522,11 +522,11 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
-    <td colspan="8">36 story points</td>
+    <td colspan="8">56 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">40 Story Points</td>
+    <td colspan="8">60 Story Points</td>
 </tr>
 </table>
 
