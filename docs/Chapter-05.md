@@ -57,11 +57,7 @@ Utilizaremos las siguientes referencias para establecer nuestras convenciones.
 - "W3C JavaScript Style Guide"
 - "Angular coding style guide".
 
-4. **C#**: 
-- "C# Coding Conventions"
-- "Microsoft ASP.NET Core Coding Guidelines".
-
-5. **Gherkin**:
+4. **Gherkin**:
 - "Gherkin Conventions for Readable Specifications".
 
 Es importante destacar que todas las convenciones y referencias mencionadas están en inglés, siguiendo las prácticas comunes en el desarrollo de software. De tal modo que, al seguir estas referencias nos ayudará a mantener un código claro, coherente y fácilmente comprensible para todo el equipo de desarrollo.
