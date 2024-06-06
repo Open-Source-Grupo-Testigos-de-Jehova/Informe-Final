@@ -438,6 +438,55 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <br><br>THEN se devuelven los recursos educativos que han sido escritos por ese autor.</td>
     <td>EP06</td>
     </tr>
+    <tr>
+    <td>HU43</td>
+    <td>Obtener todas las notificaciones</td>
+    <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
+    <td>Scenario: Obtener todas las notificaciones
+    <br><br>GIVEN el administrador necesita obtener todas las notificaciones,
+    <br><br>WHEN el administrador realiza una solicitud GET a '/notifications',
+    <br><br>THEN todas las notificaciones almacenadas en la base de datos se deben devolver en formato JSON.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU44</td>
+    <td>Crear una nueva notificación</td>
+    <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
+    <td>Scenario: Crear una nueva notificación
+    <br><br>GIVEN el administrador necesita crear una nueva notificación,
+    <br><br>WHEN el administrador realiza una solicitud POST a '/notifications' con los detalles de la notificación en el cuerpo de la solicitud,
+    <br><br>THEN se debe crear una nueva notificación en la base de datos y devolver un mensaje de confirmación junto con los detalles de la notificación creada.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU45</td>
+    <td>Obtener una notificación por ID</td>
+    <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
+    <td>Scenario: Obtener notificación por ID
+    <br><br>GIVEN el administrador necesita crear una notificación por ID,
+    <br><br>WHEN el administrador realiza una solicitud GET a '/notifications/{id}' con un identificador de notificación válido,
+    <br><br>THEN se deben devolver los detalles de la notificación correspondiente en formato JSON.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU46</td>
+    <td>Creación y gestión de recursos de casos legales</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan
+    gestionar los casos legales.</td>
+    <td>Scenario: Crear un caso legal
+    <br><br>GIVEN el administrador necesita crear una nuevo caso legal,
+    <br><br>WHEN el administrador realiza una solicitud POST con los detalles del caso legal,
+    <br><br>THEN se debe crear un nuevo caso legal en la base de datos.
+    <br><br>Scenario: Obtener los casos legales
+    <br><br>GIVEN el administrador necesita obtener los casos legales,
+    <br><br>WHEN el administrador realiza una solicitud GET,
+    <br><br>THEN se debe devolver todos los casos legales existentes.
+    <br><br>Scenario: Obtener los casos legales por status
+    <br><br>GIVEN el administrador necesita obtener los casos legales por status,
+    <br><br>WHEN el administrador realiza una solicitud GET con el detalle de status,
+    <br><br>THEN se debe devolver todos los casos legales existentes que coincidan con el status solicitado.</td>
+    <td>EP06</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
@@ -761,6 +810,35 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>US42</td>
         <td>Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
         <td>Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>US43</td>
+        <td>Obtener todas las notificaciones</td>
+        <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>US43</td>
+        <td>Crear una nueva notificación</td>
+        <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>US43</td>
+        <td>Obtener una notificación por ID</td>
+        <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>44</td>
+        <td>US44</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan
+        gestionar los casos legales.</td>
+        <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
         <td>5</td>
     </tr>
 </table>
