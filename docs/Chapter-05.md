@@ -1411,38 +1411,58 @@ Network Graph:
 ### 5.2.3.3. Development Evidence for Sprint Review
 
 <table>
+  <thead>
     <tr>
-        <th colspan="2">Repository</th>
-        <th colspan="2">Branch</th>
-        <th colspan="2">Commit Id</th>
-        <th colspan="2">Commit Message</th>
-        <th colspan="2">Commit Message Body</th>
-        <th colspan="2">Commited on (Date)</th>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
     </tr>
-        <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">-</td>
-        <td colspan="2"></td>
-    </tr>
-        <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">-</td>
-        <td colspan="2"></td>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Carlos Avellaneda</td>
+      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
+      <td>Merge Bounded Context of Consultation</td>
+      <td>-</td>
+      <td>05/06/2024</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">-</td>
-        <td colspan="2"></td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Anatoly Noriega</td>
+      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+      <td>Merge Bounded Context of Educational</td>
+      <td>-</td>
+      <td>05/06/2024</td>
     </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Augusto Vasquez</td>
+      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+      <td>Merge Bounded Context of Payment</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Diego Flores</td>
+      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+      <td>Merge Bounded Context of Communication</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Gabriel Garcia and Fabricio Apaza</td>
+      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+      <td>Merge Bounded Context of Legal Case</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+  </tbody>
 </table>
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
@@ -1461,27 +1481,43 @@ Network Graph:
   <tbody>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Carlos Avellaneda</td>
+      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
+      <td>Merge Bounded Context of Consultation</td>
+      <td>-</td>
+      <td>05/06/2024</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Anatoly Noriega</td>
+      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+      <td>Merge Bounded Context of Educational</td>
+      <td>-</td>
+      <td>05/06/2024</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Augusto Vasquez</td>
+      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+      <td>Merge Bounded Context of Payment</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Diego Flores</td>
+      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+      <td>Merge Bounded Context of Communication</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Gabriel Garcia and Fabricio Apaza</td>
+      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+      <td>Merge Bounded Context of Legal Case</td>
+      <td>-</td>
+      <td>05/06/2024</td>
     </tr>
   </tbody>
 </table>
