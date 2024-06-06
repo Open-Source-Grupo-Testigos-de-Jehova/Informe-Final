@@ -1459,6 +1459,28 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 ## 5.4 Video About-the-Product
 
+## 5.5 Video About-the-Team
+
+**Captura del About-the-Team**
+![alt text](../assets/imgs/Captura-AbouttheTeam.png)
+
+**Enlace del video**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/ESa2l1PhMVlCimuVke4ecpUBFZTBIBPNwj2X8OXxeJG6AA?e=YDvz98&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Timelapse Total:** [Inicio:00:00, Fin: 19:36]
+
+**Timelapse Gabriel García:** [Inicio: 00:00, Fin: 02:13]
+
+**Timelapse Carlos Avellaneda:** [Inicio: 02:13, Fin: 04:10]
+
+**Timelapse Diego Flores:** [Inicio: 04:10, Fin: 07:58]
+
+**Timelapse Mathias Vasquez:** [Inicio: 07:58, Fin: 11:35]
+
+**Timelapse Anatoly Noriega:** [Inicio: 11:35, Fin: 15:12]
+
+**Timelapse Fabricio Apaza:** [Inicio: 15:12, Fin: 18:31]
+
+**Timelapse Reunión + Voz en Off:** [Inicio: 18:31, Fin: 19:36]
 
 # Conclusiones 
 
