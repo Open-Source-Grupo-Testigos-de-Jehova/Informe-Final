@@ -504,9 +504,9 @@ https://www.figma.com/proto/DDtoiHzqyJvkeeL3M4CMG7/Testigos-de-Jehova-MU?type=de
 
 ![alt text](../assets/imgs/ComponentDiagramPayment.png)
 
-#### Bounded Context Notification Diagram
+#### Bounded Context Communication Diagram
 
-![alt text](../assets/imgs/ComponentDiagramNotification.png)
+![alt text](../assets/imgs/ComponentDiagramCommunication.png)
 
 ## 4.7. Software Object-Oriented Design
 
