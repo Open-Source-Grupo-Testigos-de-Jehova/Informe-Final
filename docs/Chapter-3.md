@@ -397,6 +397,47 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>Scenario: Ingreso de detalles de pago<br><br>GIVEN soy un usuario,<br><br>WHEN selecciono la opción "adquirir",<br><br>THEN se me presenta una interfaz para poner los detalles de pago como tarjeta y monto a pagar.</td>
     <td>EP06</td>
     </tr>
+    <td>HU40</td>
+    <td>Creación y Gestión de Recursos Educativos</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
+    <td>Scenario: Creación de recursos educativos.
+    <br><br>GIVEN el administrador necesita añadir un nuevo recurso educativo,
+    <br><br>WHEN el administrador envía los detalles del recurso a través del endpoint de creación,
+    <br><br>THEN el recurso educativo se almacena correctamente en la base de datos.
+    <br><br>Scenario: Eliminación de recursos educativos
+    <br><br>GIVEN el administrador necesita eliminar un recurso educativo,
+    <br><br>WHEN el administrador envía una solicitud de eliminación a través del endpoint correspondiente,
+    <br><br>THEN el recurso educativo se elimina correctamente de la base de datos.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU41</td>
+    <td>Implementación de Categorías a los Recursos</td>
+    <td>Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías de los recursos educativos para organizar los recursos de manera eficiente.</td>
+    <td>Scenario: Creación de categorías
+    <br><br>GIVEN el administrador necesita crear una nueva categoría para los recursos educativos,
+    <br><br>WHEN el administrador envía los detalles de la categoría a través del endpoint de creación,
+    <br><br>THEN la categoría se almacena correctamente en la base de datos.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU42</td>
+    <td>Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td>Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
+    <td>Scenario: Búsqueda de recursos educativos por título
+    <br><br>GIVEN un usuario necesita buscar recursos educativos por título,
+    <br><br>WHEN el usuario envía un término de búsqueda a través del endpoint de búsqueda,
+    <br><br>THEN se devuelven los recursos educativos que coinciden con el término de búsqueda.
+    <br><br>Scenario: Búsqueda de recursos educativos por categoría
+    <br><br>GIVEN un usuario necesita buscar recursos educativos por categoría,
+    <br><br>WHEN el usuario selecciona una categoría a través del endpoint de búsqueda,
+    <br><br>THEN se devuelven los recursos educativos que pertenecen a la categoría seleccionada.
+    <br><br>Scenario: Búsqueda de recursos educativos por autor
+    <br><br>GIVEN un usuario necesita buscar recursos educativos por autor,
+    <br><br>WHEN el usuario envía el nombre del autor a través del endpoint de búsqueda,
+    <br><br>THEN se devuelven los recursos educativos que han sido escritos por ese autor.</td>
+    <td>EP06</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
@@ -699,6 +740,27 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>US23</td>
         <td>Servicio de notificaciones</td>
         <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>US40</td>
+        <td>Creación y Gestión de Recursos Educativos</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
+        <td>5</td>
+    </tr>
+        <tr>
+        <td>41</td>
+        <td>US41</td>
+        <td>Implementación de Categorías de Recursos</td>
+        <td>Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>42</td>
+        <td>US42</td>
+        <td>Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+        <td>Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
         <td>5</td>
     </tr>
 </table>
