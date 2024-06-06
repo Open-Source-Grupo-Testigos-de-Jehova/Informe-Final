@@ -1435,16 +1435,18 @@ Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versi
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 Para el desarrollo de la primera version de Web Services, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
 
+![alt text](<../assets/imgs/Evidence Backend.png>)
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
-Commits:
+**Commits:**
 
+![alt text](<../assets/imgs/Evidence Backend.png>)
 
+**Analiticas de Colaboración:**
 
-Analiticas de Colaboración:
-
-
+![alt text](<../assets/imgs/NetworkGraph Backend.png>)
 
 ## 5.3 Validation Interviews
 
