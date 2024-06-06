@@ -1306,33 +1306,83 @@ Network Graph:
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
+    <td colspan="1">46</td>
+    <td colspan="2">Creación y gestión de recursos de casos legales</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Creación y gestión de recursos de casos legales</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Visualización de lista de tipos de suscripción</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Añadir funcion para mostrar lista de tipos de suscrpción</td>
-    <td colspan="3">Como visitador del alding page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Fabricio</td>
+    <td colspan="2">Fabricio and Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">40</td>
+    <td colspan="2">Creación y Gestión de Recursos Educativos</td>
     <td colspan="1">2</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="2">Creación y Gestión de Recursos Educativos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Anatoly</td>
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">41</td>
+    <td colspan="2">Implementación de Categorías de Recursos</td>
     <td colspan="1">3</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="2">Implementación de Categorías de Recursos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">42</td>
+    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">43</td>
+    <td colspan="2">Obtener todas las notificaciones</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Obtener todas las notificaciones</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">44</td>
+    <td colspan="2">Crear una nueva notificación</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Crear una nueva notificación</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">45</td>
+    <td colspan="2">Obtener una notificación por ID</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Obtener una notificación por ID</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">18</td>
+    <td colspan="2">Integración de pagos</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Integración de pagos</td>
+    <td colspan="3">Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Mathias</td>
     <td colspan="1">Done</td>
 <tr>
 <tr>
@@ -1343,8 +1393,19 @@ Network Graph:
     <td colspan="3"></td>
     <td colspan="1"></td>
     <td colspan="2"></td>
-    <td colspan="1">Done</td>
+    <td colspan="1"></td>
 <tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+<tr>
+
 </table>
 
 ### 5.2.3.3. Development Evidence for Sprint Review
