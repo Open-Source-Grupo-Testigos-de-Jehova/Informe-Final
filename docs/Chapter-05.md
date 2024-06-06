@@ -1458,13 +1458,21 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 
 ## 5.4 Video About-the-Product
+**Captura del About-the-Product**
+![alt text](../assets/imgs/about-the-product-captura.png)
+
+**Enlace del video en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EZe_EhcxKgdEkprwnSB2xkYBzAVx31Rxmv5W6OdQyMIGvQ?e=gNhYwA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Enlace del video en Youtube**: 
 
 ## 5.5 Video About-the-Team
 
 **Captura del About-the-Team**
 ![alt text](../assets/imgs/Captura-AbouttheTeam.png)
 
-**Enlace del video**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/ESa2l1PhMVlCimuVke4ecpUBFZTBIBPNwj2X8OXxeJG6AA?e=YDvz98&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**Enlace del video en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/ESa2l1PhMVlCimuVke4ecpUBFZTBIBPNwj2X8OXxeJG6AA?e=YDvz98&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Enlace del video en Youtube**: https://www.youtube.com/watch?v=2UWytSnFzU0
 
 **Timelapse Total:** [Inicio:00:00, Fin: 19:36]
 
