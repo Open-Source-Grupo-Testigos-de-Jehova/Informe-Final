@@ -1719,7 +1719,79 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 ### 5.3.1. Diseño de Entrevistas
 
+Para el diseño de entrevistas hemos optado por mostrar nuestra Landing Page y nuestro proceso del Frontend a nuestros segmentos objetivos, con tal de tener una retroalimentación por parte de ellos y ver los puntos positivos y negativos. De tal modo, se realizaron ciertas preguntas de acorde a lo solicitado:
+
+- ¿Que opinas acerca de nuestra propuesta?
+- ¿Acudirias a nosotros si pasaras por una situacion similar? ¿Por que si o por que no?
+- ¿Que opinas acerca de la interfaz de nuestra plataforma? 
+- ¿Tienes alguna sugerencia sobre nuestra plataforma en la que crees que debamos mejorar?
+- ¿Que funciones crees que podriamos implementar en el futuro?
+
 ### 5.3.2. Registro de Entrevistas
+
+En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EY6BY7W2r-5MrgGySTtZle0BT872c7cyh_jclUp2aCeAMg?e=XgJtkO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+**Entrevista 1: Liliana Edith Requejo Lozada (Medico)**
+
+**Nombre y Apellido:** Liliana Edith Requejo Lozada
+
+**Edad:** 48
+
+**Distrito:** San Borja
+
+**Screenshot de la Entrevista:**
+![alt text](<../assets/imgs/Entrevista Mathias 2.png>)
+
+**Timelapse:** [Inicio: 00:00, Fin: 04:44]
+
+
+**Entrevista 2: Mision Augusto Noriega Ambulodegui (Medico)**
+
+**Nombre y Apellido:** Mision Augusto Noriega Ambulodegui
+
+**Edad:** 54
+
+**Distrito:** Breña
+
+**Screenshot de la Entrevista:**
+
+![alt text](<../assets/imgs/Entrevista Anatoly.png>)
+
+**Timelapse:** [Inicio: 04:44, Fin: 14:18]
+
+
+
+**Entrevista 3: Augusto Manuel Vasquez Carrasco (Medico)**
+
+**Nombre y Apellido:** Augusto Manuel Vasquez Carrasco
+
+**Edad:** 46
+
+**Distrito:** San Borja
+
+**Screenshot de la Entrevista:**
+
+![alt text](<../assets/imgs/Entrevista Mathias.png>)
+
+**Timelapse:** [Inicio: 14:18, Fin: 20:18]
+
+
+**Entrevista 4: Patrick Gómez (Estudiante de Medicina)**
+
+**Nombre y Apellido:** Patrick Gómez
+
+**Edad:** 20 años
+
+**Distrito:** San Luis
+
+**Screenshot de la Entrevista:**
+![alt text](<../assets/imgs/Entrevista Fabricio.png>)
+
+**Timelapse:** [Inicio: 20:18, Fin: 43:24]
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
