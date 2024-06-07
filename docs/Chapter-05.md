@@ -1523,8 +1523,9 @@ Network Graph:
 </table>
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
-Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "MedicDefense".
+Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "MedicDefense". El cual utilizamos la plataforma "Swagger" para poder visualizar los endpoints realizados.
 
+![alt text](../assets/imgs/endpoint-backend.png)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
