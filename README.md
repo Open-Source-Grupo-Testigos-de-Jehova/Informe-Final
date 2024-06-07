@@ -20,6 +20,7 @@ Relación de Integrantes:
 - Noriega Suschenko, Anatoly Andrey - U202211813
 - Flores Avalos, Diego - U20221B394
 - Apaza Morales, Fabricio - U201922146
+- Avellaneda Ramos, Carlos - u201923994
 
 ## Historial de Versiones
 
@@ -59,6 +60,12 @@ Relación de Integrantes:
     <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales.</td>
     <td colspan="5">Capítulo V, Desarrollo Frontend</td>
   </tr>
+  <tr>
+    <td colspan="3">6ta</td>
+    <td colspan="3">06/06/2024</td>
+    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales, Carlos Avellaneda.</td>
+    <td colspan="5">Capítulo V, Desarrollo Backend</td>
+  </tr>
   </table>
 
 ## Project Report Collaboration Insights
@@ -72,6 +79,11 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
 
 **Entrega N°2: TP1**
+- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas a corregir para cada capitulo permitiendo asi mejorar el informe y a la vez anvazar con el forntend application
+
+- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
+
+**Entrega N°3: TB2**
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas a corregir para cada capitulo permitiendo asi mejorar el informe y a la vez anvazar con el forntend application
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
