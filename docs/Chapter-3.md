@@ -487,6 +487,44 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <br><br>THEN se debe devolver todos los casos legales existentes que coincidan con el status solicitado.</td>
     <td>EP06</td>
     </tr>
+    <tr>
+    <td>HU47</td>
+    <td>Creación y gestión de recursos de consultas</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan
+    gestionar las consultas necesarias.</td>
+    <td>Scenario: Crear una consulta
+    <br><br>GIVEN el administrador necesita crear una nueva consulta,
+    <br><br>WHEN el administrador realiza una solicitud POST con los detalles de la consulta,
+    <br><br>THEN se debe crear una nueva consulta en la base de datos.
+    <br><br>Scenario: Obtener las consultas
+    <br><br>GIVEN el administrador necesita obtener las consultas,
+    <br><br>WHEN el administrador realiza una solicitud GET,
+    <br><br>THEN se debe devolver todas las consultas existentes.
+    <br><br>Scenario: Eliminar las consultas
+    <br><br>GIVEN el administrador necesita eliminar una consulta,
+    <br><br>WHEN el administrador realiza una solicitud DELETE con el ID de la consulta,
+    <br><br>THEN se debe eliminar la consulta existente que coincida con el ID solicitado.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU48</td>
+    <td>Creación y gestión de asuntos legales</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de asuntos legales para que los administradores puedan
+    gestionar los asuntos legales.</td>
+    <td>Scenario: Crear un asunto legal
+    <br><br>GIVEN el administrador necesita crear un nuevo asunto legal,
+    <br><br>WHEN el administrador realiza una solicitud POST con los detalles del asunto legal,
+    <br><br>THEN se debe crear un nuevo asunto legal en la base de datos.
+    <br><br>Scenario: Obtener los asuntos legales
+    <br><br>GIVEN el administrador necesita obtener los asuntos legales,
+    <br><br>WHEN el administrador realiza una solicitud GET,
+    <br><br>THEN se debe devolver todas los asuntos legales existentes.
+    <br><br>Scenario: Obtener asunto legal por ID
+    <br><br>GIVEN el administrador necesita obtner un solo asunto legal,
+    <br><br>WHEN el administrador realiza una solicitud GET con el ID del asunto legal,
+    <br><br>THEN se debe obtener el asunto legal que coincida con el ID solicitado.</td>
+    <td>EP06</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
@@ -820,25 +858,40 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>5</td>
     </tr>
     <tr>
-        <td>43</td>
-        <td>US43</td>
+        <td>44</td>
+        <td>US44</td>
         <td>Crear una nueva notificación</td>
         <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>43</td>
-        <td>US43</td>
+        <td>45</td>
+        <td>US45</td>
         <td>Obtener una notificación por ID</td>
         <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>44</td>
-        <td>US44</td>
+        <td>46</td>
+        <td>US46</td>
+        <td>Creación y gestión de recursos de casos legales</td>
         <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan
         gestionar los casos legales.</td>
-        <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>47</td>
+        <td>US47</td>
+        <td>Creación y gestión de recursos de consultas</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan
+        gestionar las consultas necesarias.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>48</td>
+        <td>US48</td>
+        <td>Creación y gestión de asuntos legales</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de asuntos legales para que los administradores puedan gestionar los asuntos legales.</td>
         <td>5</td>
     </tr>
 </table>
