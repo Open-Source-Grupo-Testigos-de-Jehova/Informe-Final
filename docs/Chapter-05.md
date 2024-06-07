@@ -1948,7 +1948,126 @@ El problema identificado presenta una falta de funcionalidad en la sección de f
 
 Se recomienda que esta sección y todas las opciones que ofrece estén operativas al lanzamiento del sitio web.
 
+## **Entrevista 3: Augusto Manuel Vasquez Carrasco (Medico)**
 
+### **TABLA RESUMEN:**
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*Mayor rigidez en el caso para iniciar sesión para corroborar que sean médicos legítimos o no existan suplantaciones de identidad*|*2*|*Usability: Libertad y control del usuario*|
+|*2*|*Opciones que se ven en el apartado de “Profile” pero que no llevan a nada.*|*3*|*Usability: Libertad y control del usuario*|
+|*3*|*Opciones de Legal Services poco claras o llamativas*|*3*|*Usability: Consistencia y estándares*|
+|*4*|*Imágenes muy bruscas, podrían ser más pequeñas o dinámicas.*|*2*|*Inclusive Design: Proporciona experiencias comparables*|
+|*5*|*Falta de explicación del funcionamiento de alguna funciones* |*3*|*Information Architecture: Is it usable?*|
+
+## **DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** Mayor rigidez en el caso para iniciar sesión para corroborar que sean médicos legítimos o no existan suplantaciones de identidad
+
+
+**Severidad:** 2
+
+**Heurística violada:** Usabilidad - Libertad y control del usuario
+
+**Problema:**
+
+Al momento de ingresar nuestros datos, no se pide en caso de ser medico alguna referencia o algún certificado para corroborar que este sea un medico legítimo.
+
+![alt text](../assets/imgs/Lil1.png)
+
+**Recomendación:**
+
+La más práctica es que al momento en el que un nuevo usuario se registra pueda ingresar su DNI u otro documento oficial internacional para identificarla
+
+
+
+**PROBLEMA #2:**  Todos tienen el mismo tipo de cuenta al registrarse, podría haber una clasificación desde el momento de creación de cuenta.
+
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Libertad y control del usuario
+
+**Problema:**
+
+Existen las opciones como “Edit Profile”, “Sign off” y “Delete Account” que son útiles para el usuario pero aún carecen de funcionalidad.
+
+![alt text](../assets/imgs/Lil2.png)
+
+**Recomendación:**
+
+Se recomienda que estas opciones se encuentren operativas para el usuario y a su vez este pueda poner su perfil en privado o publico si así este lo desea.
+
+
+
+**PROBLEMA #3:** Opciones de Legal Services limitadas
+
+
+**Severidad:** 3
+
+**Heurística violada: Usability:** Consistencia y estándares
+
+**Problema:**
+
+El problema identificado se relaciona con la falta de algún atractivo visual para cada uno de los servicios que ofrecemos y con una mayor claridad en las opciones.
+
+![alt text](../assets/imgs/Lil3.png)
+
+**Recomendación:**
+
+Se recomienda revisar la aplicación y añadir algún atractivo visual para esta sección ya sea alguna imagen del perito medico o algo llamativo y alguna opción que algunos usuarios podrían llegar a usar. También verificar que es lo que ofrece cada opción con un cuadro de texto claro o elementos dinámicos.
+
+
+**PROBLEMA #4:** Imágenes muy bruscas, podrían ser más pequeñas o dinámicas.
+
+
+**Severidad:** 2
+
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
+**Problema:**
+
+El problema identificado en este punto es la “suavidad” de las imágenes y el tamaño que tienen estas, siendo muy “toscas” para algunos usuarios y más si es lo primero que se ve al ingresar al sitio web.* 
+
+![alt text](../assets/imgs/Lil4.png)
+
+**Recomendación:**
+
+Se recomienda que las imágenes deben ser ligeramente más pequeñas y añadir algún otro atractivo visual.
+
+
+**PROBLEMA #5:** Incluye algunas opciones no explicadas por lo que se toma a interpretación, nada de forma literal.
+
+**Severidad:** 3
+
+**Heurística violada:** Information Architecture: Is it findable?
+
+**Problema:**
+
+El problema identificado se refiere a la inclusión de opciones en la aplicación que carecen de una explicación clara, lo que lleva a que los usuarios tengan que interpretar su función de forma literal. La falta de explicaciones claras para ciertas opciones puede hacer que los usuarios se sientan perdidos y desorientados al no comprender su utilidad.
+
+
+![alt text](../assets/imgs/Lil5.png)
+
+
+**Recomendación:**
+
+Se recomienda proporcionar explicaciones claras y concisas para todas las opciones dentro de la aplicación. Las descripciones deberían ser informativas y ayudar a los usuarios a comprender el propósito y la función de cada opción. En este caso sería: ¿Qué son Legal Services? Y ¿Qué son “Consultation” y cuales son las diferencias entre ambas secciones.
+
+
+
+
+
+
+
+
+## **Entrevista 2: Mision Augusto Noriega Ambulodegui (Medico)**
+
+
+
+
+
+## **Entrevista 4: Patrick Gómez (Estudiante de Medicina)**
 
 
 
