@@ -1276,11 +1276,11 @@ Network Graph:
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
-    <td colspan="8">X story points</td>
+    <td colspan="8">51 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">X Story Points</td>
+    <td colspan="8">51 Story Points</td>
 </tr>
 </table>
 
@@ -1386,24 +1386,24 @@ Network Graph:
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">47</td>
+    <td colspan="2">Creación y gestión de recursos de consultas</td>
+    <td colspan="1">9</td>
+    <td colspan="2">Creación y gestión de recursos de consultas</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan gestionar las consultas necesarias.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Carlos</td>
+    <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">48</td>
+    <td colspan="2">Creación y gestión de asuntos legales</td>
+    <td colspan="1">10</td>
+    <td colspan="2">Creación y gestión de asuntos legales</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de asuntos legales para que los administradores puedan gestionar los asuntos legales.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Carlos</td>
+    <td colspan="1">Done</td>
 <tr>
 
 </table>
@@ -2068,7 +2068,9 @@ Se recomienda proporcionar explicaciones claras y concisas para todas las opcion
 **DESCRIPCIÓN DE PROBLEMAS:**
 
 **PROBLEMA #1:** No hay una forma de conocer a los abogados directamente desde la página
+
 **Severidad:** 3
+
 **Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso
 
 **Problema:** Los usuarios no tienen una forma clara de conocer más sobre los abogados desde la página, lo que dificulta la elección del abogado adecuado.
@@ -2078,7 +2080,9 @@ Se recomienda proporcionar explicaciones claras y concisas para todas las opcion
 ![alt text](../assets/imgs/Nor1.png)
 
 **PROBLEMA #2:** Falta de comunicación directa con los abogados desde la plataforma
+
 **Severidad:** 4
+
 **Heurística violada:** Usabilidad - Libertad y control del usuario
 
 **Problema:** Los usuarios no tienen una forma clara y directa de comunicarse con los abogados desde la propia plataforma, lo que puede generar desconfianza y dificultar la relación cliente-abogado.
@@ -2088,7 +2092,9 @@ Se recomienda proporcionar explicaciones claras y concisas para todas las opcion
 ![alt text](../assets/imgs/Nor2.png)
 
 **PROBLEMA #3:** No se muestra el CV de los abogados para una relación más personalizada
+
 **Severidad:** 3
+
 **Heurística violada:** Usabilidad - Información y ayuda
 
 **Problema:** Los usuarios no pueden ver el CV de los abogados, lo que limita la cantidad de información disponible para tomar una decisión informada y personalizada.
