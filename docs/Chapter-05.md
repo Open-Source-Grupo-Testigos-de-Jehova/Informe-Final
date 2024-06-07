@@ -1423,7 +1423,7 @@ Network Graph:
   </thead>
   <tbody>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
       <td>Carlos Avellaneda</td>
       <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
       <td>Merge Bounded Context of Consultation</td>
@@ -1431,7 +1431,7 @@ Network Graph:
       <td>05/06/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
       <td>Anatoly Noriega</td>
       <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
       <td>Merge Bounded Context of Educational</td>
@@ -1439,7 +1439,7 @@ Network Graph:
       <td>05/06/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
       <td>Augusto Vasquez</td>
       <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
       <td>Merge Bounded Context of Payment</td>
@@ -1447,7 +1447,7 @@ Network Graph:
       <td>05/06/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
       <td>Diego Flores</td>
       <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
       <td>Merge Bounded Context of Communication</td>
@@ -1455,7 +1455,7 @@ Network Graph:
       <td>05/06/2024</td>
     </tr>
      <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
       <td>Gabriel Garcia and Fabricio Apaza</td>
       <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
       <td>Merge Bounded Context of Legal Case</td>
@@ -1480,7 +1480,7 @@ Network Graph:
   </thead>
   <tbody>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
       <td>Carlos Avellaneda</td>
       <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
       <td>Merge Bounded Context of Consultation</td>
@@ -1488,7 +1488,7 @@ Network Graph:
       <td>05/06/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
       <td>Anatoly Noriega</td>
       <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
       <td>Merge Bounded Context of Educational</td>
@@ -1496,7 +1496,7 @@ Network Graph:
       <td>05/06/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
       <td>Augusto Vasquez</td>
       <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
       <td>Merge Bounded Context of Payment</td>
@@ -1504,7 +1504,7 @@ Network Graph:
       <td>05/06/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
       <td>Diego Flores</td>
       <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
       <td>Merge Bounded Context of Communication</td>
@@ -1512,7 +1512,7 @@ Network Graph:
       <td>05/06/2024</td>
     </tr>
      <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
       <td>Gabriel Garcia and Fabricio Apaza</td>
       <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
       <td>Merge Bounded Context of Legal Case</td>
@@ -1794,6 +1794,162 @@ Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2019
 
 
 ### 5.3.3. Evaluaciones según heurísticas
+
+**UX Heuristics & Principles Evaluation**
+
+**SITE o APP A EVALUAR:** Medic Defense
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Ver la lista de abogados con información relevante (precios, años de experiencia, especialización).
+1. Utilizar los filtros para encontrar abogados específicos.
+1. Realizar una búsqueda de abogados.
+1. Ver el resumen de los casos legales y consultas.
+1. Seleccionar y revisar los planes de suscripción.
+1. Realizar el pago de la suscripción.
+1. Acceder y actualizar el perfil de usuario (médico/estudiante).
+1. Usar el botón para acceder a la página de inicio (landing page).
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Acceder a recursos educacionales.
+1. Registrar nuevos usuarios.
+1. Guardar información del usuario.
+1. Implementación de la lógica backend al frontend.
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+
+## Entrevista 1: Liliana Edith Requejo Lozada (Medico)
+### **TABLA RESUMEN:**
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*No hay un control que permita regresar a la parte de iniciar sesión o registro si en caso hay algún error en “Username” o “Contraseña” o limitadas opciones en este primer apartado.* |*2*|*Usability: Libertad y control del usuario*|
+|*2*|*Opciones que se ven en el apartado de “Profile” pero que no llevan a nada.*|*3*|*Usability: Libertad y control del usuario*|
+|*3*|*Opciones de Legal Services limitadas* |*3*|*Usability: Consistencia y estándares*|
+|*4*|*Imágenes muy bruscas, podrían ser más pequeñas o dinámicas.*|*2*|*Inclusive Design: Proporciona experiencias comparables*|
+|*5*|*Incluye algunas opciones no explicadas por lo que se toma a interpretación, nada de forma literal.* |*3*|*Information Architecture: Is it usable?*|
+|*6*|*Sección de filtros muestra opciones pero no lleva a algún contenido.*|*3*|*Information Architecture: Is it findable?*|
+
+## **DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** No hay un control que permita regresar a la parte de iniciar sesión o registro si en caso hay algún error en “Username” o “Contraseña” o limitadas opciones en este primer apartado.*
+
+
+**Severidad:** 2
+
+**Heurística violada:** Usabilidad - Libertad y control del usuario
+
+**Problema:**
+
+Al momento de ingresar nuestros datos, no podemos regresar al formulario en caso nos hayamos equivocado de credenciales, en caso de que el usuario quiera cambiarlos, no hay un botón que le de esta opción, lo cual nos obliga a efectuar la acción de salir y cerrar la app, realizar el formulario de inicio de sesión otra vez. Esto se traduce en una falta de control y flexibilidad para el usuario, lo cual afecta negativamente la usabilidad de la aplicación.
+
+![alt text](../assets/imgs/Lil1.png)
+
+**Recomendación:**
+
+La más práctica es que al momento en que queramos realizar dicho cuestionario las opciones sean mas variadas, como un ingreso de invitado para conocer un poco la app y su funcionamiento. Se sugiere implementar un botón o enlace claramente visible en el formulario de inicio de sesión o registro que permita a los usuarios regresar y corregir cualquier error o modificar la información ingresada. Además, se debe considerar la posibilidad de proporcionar mensajes de error claros y descriptivos para ayudar a los usuarios a comprender y corregir sus errores de manera efectiva.
+
+
+**PROBLEMA #2:**  Todos tienen el mismo tipo de cuenta al registrarse, podría haber una clasificación desde el momento de creación de cuenta.
+
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Libertad y control del usuario
+
+**Problema:**
+
+Existen las opciones como “Edit Profile”, “Sign off” y “Delete Account” que son útiles para el usuario pero aún carecen de funcionalidad.
+
+![alt text](../assets/imgs/Lil2.png)
+
+**Recomendación:**
+
+Se recomienda que estas opciones se encuentren operativas para el usuario y a su vez este pueda poner su perfil en privado o publico si así este lo desea.
+
+
+**PROBLEMA #3:** Opciones de Legal Services limitadas
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Consistencia y estándares
+
+**Problema:**
+
+El problema identificado se relaciona con la falta de algún atractivo visual para cada uno de los servicios que ofrecemos y con una mayor claridad en las opciones.
+
+![alt text](../assets/imgs/Lil3.png)
+
+**Recomendación:**
+
+Se recomienda revisar la aplicación y añadir algún atractivo visual para esta sección ya sea alguna imagen del perito medico o algo llamativo y alguna opción que algunos usuarios podrían llegar a usar.
+
+
+**PROBLEMA #4:** Imágenes muy bruscas, podrían ser más pequeñas o dinámicas.
+
+**Severidad:** 2
+
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
+**Problema:**
+
+El problema identificado en este punto es la “suavidad” de las imágenes y el tamaño que tienen estas, siendo muy “toscas” para algunos usuarios y más si es lo primero que se ve al ingresar al sitio web.* 
+
+![alt text](../assets/imgs/Lil4.png)
+
+**Recomendación:**
+
+Se recomienda que las imágenes deben ser ligeramente más pequeñas y añadir algún otro atractivo visual.
+
+
+**PROBLEMA #5:** Incluye algunas opciones no explicadas por lo que se toma a interpretación, nada de forma literal.
+
+**Severidad:** 3
+
+**Heurística violada:** Information Architecture: Is it findable?
+
+**Problema:**
+
+El problema identificado se refiere a la inclusión de opciones en la aplicación que carecen de una explicación clara, lo que lleva a que los usuarios tengan que interpretar su función de forma literal. La falta de explicaciones claras para ciertas opciones puede hacer que los usuarios se sientan perdidos y desorientados al no comprender su utilidad.
+
+![alt text](../assets/imgs/Lil5.png)
+
+**Recomendación:**
+
+Se recomienda proporcionar explicaciones claras y concisas para todas las opciones dentro de la aplicación. Las descripciones deberían ser informativas y ayudar a los usuarios a comprender el propósito y la función de cada opción. En este caso sería: ¿Qué son Legal Services? Y ¿Qué son “Consultation” y cuales son las diferencias entre ambas secciones.
+
+
+**PROBLEMA #6:** Sección de filtros muestra opciones pero no lleva a algún contenido.
+
+**Severidad:** 3
+
+**Heurística violada:** Information Architecture: Is it findable?
+
+**Problema:**
+
+El problema identificado presenta una falta de funcionalidad en la sección de filtros que suele ser una sección muy utilizada por los usuarios cuando quieren ahorrar tiempo en los procesos que estos necesiten hacer.
+
+![alt text](../assets/imgs/Lil6.png)
+
+**Recomendación:**
+
+Se recomienda que esta sección y todas las opciones que ofrece estén operativas al lanzamiento del sitio web.
+
+
+
 
 
 ## 5.4 Video About-the-Product
