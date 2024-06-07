@@ -19,10 +19,11 @@ Visión (Metas a medio o largo plazo):
 | Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                      | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Augusto Mathias Vasquez Requejo      | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Mathias Vasquez](../assets/imgs/mathifaa.png) | - Conocimientos en lenguajes de programación como C++, JavaScript, HTML, CSS.<br> - Responsabilidad y dedicación con los trabajos grupales.                                                                                                                                         |
-| Noriega Suschenko Anatoly Andrey     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Anatoly Noriega](../assets/imgs/Anatoly.png)    | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                                                         |
-| Garcia Rodriguez Gabriel Stefano     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Gabriel García](../assets/imgs/Gabriel.png)     | - Conocimientos de lenguajes de programación c++, python, html y css.<br>- Habilidades de liderazgo y contribución en equipo.                                                                                                                                                       |
+| Noriega Suschenko Anatoly Andrey     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Anatoly Noriega](../assets/imgs/Anatoly.png)  | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                                                         |
+| Garcia Rodriguez Gabriel Stefano     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Gabriel García](../assets/imgs/Gabriel.png)   | - Conocimientos de lenguajes de programación c++, python, html y css.<br>- Habilidades de liderazgo y contribución en equipo.                                                                                                                                                       |
 | Apaza Morales Fabricio Josué Emanuel | Ingeniería de Software<br> 5to Ciclo <br> 2024-01 <br> Universidad Peruana de Ciencias aplicadas | ![alt text](../assets/imgs/fabricio.png)        | - Conocimientos en lenguajes de programación como C++, Python, Html y CSS.Considero que puedo aportar en el equipo, ya que soy responsable y trato de cumplir con las partes que se delegan en el equipo. A la vez, colaboro con ideas para poder lograr un buen trabajo en equipo. |
 | Flores Avalos Diego                  | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![alt text](../assets/imgs/diego.png)           | - Conocimientos de programación en los lenguajes C++, HTML, CSS y JavaScript.<br> - Considero que soy una persona responsable y que se esfuerza en lograr un buen desempeño en los trabajos grupales.                                                                               |
+| Avellaneda Ramos Carlos Edward       | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![alt text](../assets/imgs/charlie.png)         | - Conocimientos de programación en los lenguajes C++, HTML, CSS y Python.<br> - Disfruto generando ideas para contribuir al grupo y estoy comprometido a brindar apoyo en todas las metas que se planteen.                                                                          |
 
 ## 1.2. Solution Profile
 
@@ -90,21 +91,20 @@ Nuestras estrategias de mejora incluyen la actualización continua del contenido
 
 El usuario puede ser un médico que necesite defensa legal en casos relacionados con anestesiología o un estudiante de medicina interesado en obtener asesoramiento sobre el peritaje en anestesiología. Además, personas que han estudiado peritaje en anestesiología y buscan oportunidades laborales pueden ser usuarios potenciales.
 
-
 - ¿Dónde encaja nuestro producto, en su trabajo o vida?
 
 Nuestro producto encaja en la vida profesional de médicos y estudiantes de medicina, así como en la búsqueda de empleo de personas con experiencia en peritaje en anestesiología. Para los médicos, el producto puede ayudar a resolver problemas legales relacionados con la anestesiología, mientras que para los estudiantes y profesionales del peritaje en anestesiología, puede proporcionar oportunidades laborales y asesoramiento educativo.
 
-
-- ¿Qué problemas tiene nuestro producto y cómo se pueden resolver? 
+- ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
 
 - Problema 1: Falta de acceso a expertos en anestesiología para asesoramiento legal o educativo.
 
- 	- Solución: Nosotros ofrecemos una plataforma donde los usuarios puedan encontrar peritos en anestesiología 
-	disponibles para asistencia legal y orientación educativa. 
+  - Solución: Nosotros ofrecemos una plataforma donde los usuarios puedan encontrar peritos en anestesiología
+    disponibles para asistencia legal y orientación educativa.
 
--  Problema 2: Falta de oportunidades laborales específicas en el campo del peritaje en anestesiología
- 	- Solución: El sistema puede conectar a los usuarios con empleadores que buscan estos perfiles.
+- Problema 2: Falta de oportunidades laborales específicas en el campo del peritaje en anestesiología
+
+  - Solución: El sistema puede conectar a los usuarios con empleadores que buscan estos perfiles.
 
 - ¿Cuándo y cómo es usado nuestro producto?
 
@@ -113,7 +113,6 @@ Nuestro producto podría ser utilizado por los usuarios en momentos en que enfre
 - ¿Qué características son importantes?
 
 Características importantes pueden incluir un directorio de peritos en anestesiología disponibles para asistencia legal, recursos educativos sobre el peritaje en anestesiología, una sección de ofertas de empleo para profesionales en este campo, opciones de suscripción para acceder a diferentes niveles de servicios y una interfaz fácil de usar y navegación intuitiva.
-
 
 - ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 
@@ -161,18 +160,18 @@ Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para 
 
 1. **Acceso a Asistencia Especializada:**
 
-  	- **Chat en vivo con expertos:** Implementar una función de chat en vivo que permita a los usuarios comunicarse directamente con expertos en anestesiología para obtener asesoramiento inmediato y específico.
-    - **Biblioteca de recursos:** Desarrollar una sección de la plataforma que contenga una amplia variedad de recursos, como artículos, estudios de casos y preguntas frecuentes, que los usuarios puedan consultar para obtener información detallada sobre temas relacionados con la anestesiología y el peritaje.
+   - **Chat en vivo con expertos:** Implementar una función de chat en vivo que permita a los usuarios comunicarse directamente con expertos en anestesiología para obtener asesoramiento inmediato y específico.
+   - **Biblioteca de recursos:** Desarrollar una sección de la plataforma que contenga una amplia variedad de recursos, como artículos, estudios de casos y preguntas frecuentes, que los usuarios puedan consultar para obtener información detallada sobre temas relacionados con la anestesiología y el peritaje.
 
 2. **Oportunidades Laborales:**
 
-    - **Tablero de empleo y proyectos:** Crear un espacio dedicado en la plataforma donde los usuarios puedan buscar y postularse a oportunidades laborales, como trabajos permanentes, proyectos freelance o posiciones de consultoría en el campo de la anestesiología.
-    - **Perfiles profesionales:** Permitir a los usuarios crear perfiles profesionales detallados que muestren su experiencia, habilidades y disponibilidad laboral, facilitando así la búsqueda y selección por parte de posibles empleadores o clientes.
+   - **Tablero de empleo y proyectos:** Crear un espacio dedicado en la plataforma donde los usuarios puedan buscar y postularse a oportunidades laborales, como trabajos permanentes, proyectos freelance o posiciones de consultoría en el campo de la anestesiología.
+   - **Perfiles profesionales:** Permitir a los usuarios crear perfiles profesionales detallados que muestren su experiencia, habilidades y disponibilidad laboral, facilitando así la búsqueda y selección por parte de posibles empleadores o clientes.
 
 3. Educación y Orientación Profesional:
 
-    - **Sesiones de orientación en línea:** Organizar sesiones regulares de orientación en línea dirigidas por expertos en anestesiología, donde los usuarios puedan aprender sobre diversos aspectos del peritaje y hacer preguntas en tiempo real.
-    - **Foro de discusión y mentoría:** Establecer un espacio de discusión en la plataforma donde los usuarios puedan interactuar entre ellos y con profesionales experimentados en el campo, compartiendo conocimientos, experiencias y consejos útiles.
+   - **Sesiones de orientación en línea:** Organizar sesiones regulares de orientación en línea dirigidas por expertos en anestesiología, donde los usuarios puedan aprender sobre diversos aspectos del peritaje y hacer preguntas en tiempo real.
+   - **Foro de discusión y mentoría:** Establecer un espacio de discusión en la plataforma donde los usuarios puedan interactuar entre ellos y con profesionales experimentados en el campo, compartiendo conocimientos, experiencias y consejos útiles.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -189,7 +188,6 @@ Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para 
 ![Lean UX Canvas](<../assets/imgs/Lean UX Canvas Open Source.png>)
 
 ## 1.3. Segmento Objetivo
-
 
 Establecer y definir un segmento objetivo es fundamental para el desarrollo exitoso de esta etapa del proyecto. Como resultado, los futuros clientes del segmento tendrán un producto que cumpla sus necesidades. Esto llevó a la definición del siguiente segmento objetivo.
 
