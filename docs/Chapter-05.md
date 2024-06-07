@@ -2055,17 +2055,47 @@ El problema identificado se refiere a la inclusión de opciones en la aplicació
 Se recomienda proporcionar explicaciones claras y concisas para todas las opciones dentro de la aplicación. Las descripciones deberían ser informativas y ayudar a los usuarios a comprender el propósito y la función de cada opción. En este caso sería: ¿Qué son Legal Services? Y ¿Qué son “Consultation” y cuales son las diferencias entre ambas secciones.
 
 
+## **Entrevista 3: Mision Augusto Noriega Ambulodegui (Medico)**
 
+**TABLA RESUMEN:**
 
+|#|Problema|Escala de Serveridad|Heurística/Principio violada(o)|
+| :- | :-: | :-: | :-: |
+|1|No hay una forma de conocer a los abogados directamente desde la página|3|Usability: Flexibilidad y eficiencia de uso|
+|2|Falta de comunicación directa con los abogados desde la plataforma|4|Usability: Libertad y control del usuario|
+|3|No se muestra el CV de los abogados para una relación más personalizada|3|Usability: Información y ayuda|
 
+**DESCRIPCIÓN DE PROBLEMAS:**
 
+**PROBLEMA #1:** No hay una forma de conocer a los abogados directamente desde la página
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso
 
+**Problema:** Los usuarios no tienen una forma clara de conocer más sobre los abogados desde la página, lo que dificulta la elección del abogado adecuado.
 
-## **Entrevista 2: Mision Augusto Noriega Ambulodegui (Medico)**
+**Recomendación:** Incluir una sección con información detallada sobre los abogados, como videos de presentación, entrevistas o testimonios de clientes anteriores.
 
+![alt text](../assets/imgs/Nor1.png)
 
+**PROBLEMA #2:** Falta de comunicación directa con los abogados desde la plataforma
+**Severidad:** 4
+**Heurística violada:** Usabilidad - Libertad y control del usuario
 
+**Problema:** Los usuarios no tienen una forma clara y directa de comunicarse con los abogados desde la propia plataforma, lo que puede generar desconfianza y dificultar la relación cliente-abogado.
 
+**Recomendación:** Agregar funcionalidades de chat o contacto directo con los abogados a través de la plataforma.
+
+![alt text](../assets/imgs/Nor2.png)
+
+**PROBLEMA #3:** No se muestra el CV de los abogados para una relación más personalizada
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Información y ayuda
+
+**Problema:** Los usuarios no pueden ver el CV de los abogados, lo que limita la cantidad de información disponible para tomar una decisión informada y personalizada.
+
+**Recomendación:** Mostrar el CV detallado de los abogados en sus perfiles para que los usuarios puedan conocer más sobre su formación y experiencia.
+
+![alt text](../assets/imgs/No3.png)
 
 ## **Entrevista 4: Patrick Gómez (Estudiante de Medicina)**
 
