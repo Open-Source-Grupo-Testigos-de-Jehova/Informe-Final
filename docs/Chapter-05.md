@@ -2099,6 +2099,51 @@ Se recomienda proporcionar explicaciones claras y concisas para todas las opcion
 
 ## **Entrevista 4: Patrick Gómez (Estudiante de Medicina)**
 
+**TABLA RESUMEN:**
+
+|#|Problema|Escala de Serveridad|Heurística/Principio violada(o)|
+| :- | :-: | :-: | :-: |
+|1|Falta información sobre leyes médicas o material educativo medico|2|Information Architecture: Is it findable?|
+|2|Hay botones que no funcionan o llevan a ningun lado |4|Information Architecture: Is it usable?|
+|3|No se muestra la informacion primordial de los abogados como la licencia médica o algo que valide su status como abogado médico |3|Usability: Información y ayuda|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** Falta información sobre leyes médicas o material educativo medico
+
+**Severidad:** 2
+
+**Heurística violada:** Information Architecture: Is it findable?
+
+**Problema:** Los usuarios no tienen una forma clara de conocer la información sobre leyes medicas o material educativo.
+
+**Recomendación:** Incluir una sección con información detallada sobre leyes medicas, como videos de presentación, entrevistas o materiales informativos.
+
+![alt text](../assets/imgs/Nor1.png)
+
+**PROBLEMA #2:** Hay botones que no funcionan o llevan a ningun lado
+
+**Severidad:** 4
+
+**Heurística violada:** Information Architecture: Is it usable?
+
+**Problema:** Los usuarios al momento de interactuar con el Landing Page y el frontend encuentrar botones el cual no tienen ninguna funcionalidad.
+
+**Recomendación:** Agregar funcionalidades en los botones, el cual lleven a otro apartado o cumplan una función.
+
+![alt text](../assets/imgs/Nor2.png)
+
+**PROBLEMA #3:** No se muestra la informacion primordial de los abogados como la licencia médica o algo que valide su status como abogado médico
+
+**Severidad:** 3
+
+**Heurística violada:** Usabilidad - Información y ayuda
+
+**Problema:** Los usuarios no pueden ver la información primordial de los abogados como su licencia médica, lo que limita la cantidad de información disponible para tomar una decisión informada y personalizada.
+
+**Recomendación:** Añadir información detallada que verifique el status del abogado.
+
+![alt text](../assets/imgs/No3.png)
 
 
 ## 5.4 Video About-the-Product
