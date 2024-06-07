@@ -1528,6 +1528,175 @@ Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versi
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Durante este sprint, se ha desarrollado el back-end de una API de abogados utilizando Java, JPA (Java Persistence API), y siguiendo los principios de Domain-Driven Design (DDD). La API proporciona información sobre abogados ficticios, incluyendo detalles como el nombre del abogado, años de experiencia, especialización, casos ganados, tarifa por hora, correo electrónico y número de teléfono, utilizando la convención de nomenclatura snake_case para los campos. Además, la API también proporciona información sobre recursos educativos (educational_resources), pagos (payments), casos legales (legal_cases) y consultas (consultations).
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/lawyers</td>
+    <td>-</td>
+    <td>GET /api/lawyers</td>
+    <td>200 OK: Devuelve una lista de todos los abogados.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers/{id}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/lawyers/{id}</td>
+    <td>ID del abogado</td>
+    <td>GET /api/lawyers/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>ID del legal consultation</td>
+    <td>GET /api/legal-consultations/{legalConsultaationId}</td>
+    <td>200 OK: Devuelve los detalles de los legal consultations.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>Recibir</td>
+    <td>POST</td>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>ID del legal consultations</td>
+    <td>POST/api/legal-consultations/{legalConsultaationId}</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>Eliminar</td>
+    <td>Delete</td>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>ID del legaal consultations</td>
+    <td>Delete /api/lawyers/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/notifications/{notificationId}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/v1/notifications/{notificationId}</td>
+    <td>ID del notification</td>
+    <td>GET /api/notifications/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/notifications/{notificationId}</td>
+    <td>Recibir</td>
+    <td>POST</td>
+    <td>/api/v1/notifications/{notificationId}</td>
+    <td>ID de la notificacion</td>
+    <td>POST /api/v1/notifications/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legalcases/{Id}</td>
+    <td>Recibir</td>
+    <td>POST</td>
+    <td>/api/v1/legalcases/{Id}</td>
+    <td>ID del legal cases</td>
+    <td>POST /api/v1/legalcases/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/payment/{id}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/v1/payment/{id}</td>
+    <td>ID del payment</td>
+    <td>POST /api/v1/payment/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/educaational-resources/{id}</td>
+    <td>Recibir</td>
+    <td>POST</td>
+    <td>/api/v1/educaational-resources/{notificationId}</td>
+    <td>ID del educational resource</td>
+    <td>GET /api/v1/educaational-resources/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+
+</table>
+
+Capturas de interaccion:
+
+- Visualización de los endpoints:
+
+![alt text](../assets/imgs/endpoint-backend.png)
+
+- Controller del bounded context Notification
+
+![alt text](../assets/imgs/evidence-notification.png)
+
+- Controller del bounded context Consultation
+
+![alt text](../assets/imgs/evidence-logal-consultation.png)
+
+- Controller del bounded context legal case
+
+![alt text](../assets/imgs/evidence-legal-case.png)
+
+- Controller del bounded context payment
+
+![alt text](../assets/imgs/evidence-payment.png)
+
+Url del repositorio: https://github.com/Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense
+
+Commits relacionados: 
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Carlos_Avellaneda</td>
+        <td colspan="2">ef480ccd255b89447523f90e8efc7a947a490001</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Anatoly_noriega</td>
+        <td colspan="2">b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Augusto_Vasquez</td>
+        <td colspan="2">6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Diego_Flores</td>
+        <td colspan="2">4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Gabriel_Garcia-and-Fabricio_Apaza</td>
+        <td colspan="2">df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+</table>    
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 Para el desarrollo de la primera version de Web Services, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
