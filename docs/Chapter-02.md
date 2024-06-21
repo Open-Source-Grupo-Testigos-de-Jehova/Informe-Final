@@ -139,7 +139,7 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 
 En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
 
-Link de la entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EY0EEih9gSFFtx3i-ZEJrs8BvrigbkrnpZoWK7KLuCWRjg?e=cirhGcnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EY0EEih9gSFFtx3i-ZEJrs8BvrigbkrnpZoWK7KLuCWRjg?e=mStiDh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Entrevista 1: Mision Augusto Noriega Ambulodegui
 
@@ -152,8 +152,6 @@ Link de la entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a9
 **Screenshot de la Entrevista:**
 
 ![Entrevista1](<../assets/imgs/Entrevista1.png>)
-
-**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EY0EEih9gSFFtx3i-ZEJrs8BvrigbkrnpZoWK7KLuCWRjg?e=cirhGcnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Timelapse:** [Inicio: 00:00, Fin: 09:11]
 
@@ -173,8 +171,6 @@ Misión Augusto Noriega Ambulodegui, un experimentado anestesiólogo en el Hospi
 
 ![Entrevista2](<../assets/imgs/Entrevista 2 Medico.png>)
 
-**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EY0EEih9gSFFtx3i-ZEJrs8BvrigbkrnpZoWK7KLuCWRjg?e=cirhGcnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
 **Timelapse:** [Inicio: 09:11, Fin: 21:11]
 
 **Resumen de la Entrevista:**
@@ -193,7 +189,6 @@ Augusto Manuel Vásquez Carrasco, un médico cirujano con una vasta experiencia 
 
 ![Entrevista3](<../assets/imgs/Entrevista 3 Medico.png>)
 
-**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EY0EEih9gSFFtx3i-ZEJrs8BvrigbkrnpZoWK7KLuCWRjg?e=cirhGcnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Timelapse:** [Inicio: 21:20, Fin: 26:57]
 
@@ -213,7 +208,6 @@ Liliana Requejo, obstetra con 20 años de experiencia, 13 de los cuales se han d
 
 ![alt text](../assets/imgs/entrevista-vanessa.png)
 
-**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EY0EEih9gSFFtx3i-ZEJrs8BvrigbkrnpZoWK7KLuCWRjg?e=cirhGcnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Timelapse:** [Inicio: 26:58, Fin: 33:10]
 
@@ -241,7 +235,6 @@ En resumen, Vanessa muestra un fuerte compromiso con su carrera médica y un int
 
 ![alt text](<../assets/imgs/Entrevista - Sara (Estudiante).png>)
 
-**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EY0EEih9gSFFtx3i-ZEJrs8BvrigbkrnpZoWK7KLuCWRjg?e=cirhGcnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Timelapse:** [Inicio: 33:13, Fin: 40:39]
 
@@ -261,8 +254,6 @@ Sara Rojas Sojo, de 22 años y estudiante de la Universidad San Martín de Porre
 **Screenshot de la Entrevista:**
 
 ![alt text](<../assets/imgs/Entrevista - Patrick (Estudiante).png>)
-
-**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EY0EEih9gSFFtx3i-ZEJrs8BvrigbkrnpZoWK7KLuCWRjg?e=cirhGcnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Timelapse:** [Inicio: 40:42, Fin: 46:43]
 
@@ -321,31 +312,49 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 
 **_Segmento Objetivo 1: Medicos_**
 
-![Clara Diaz](<../assets/imgs/Clara Diaz.png>)
+![Clara Diaz](<../assets/imgs/Claria Dias(1).png>)
 
 **_Segmento Objetivo 2: Estudiante de Medicina_**
 
-![Carlos Orbegozo](<../assets/imgs/Carlos Orbegozo.png>)
+![Carlos Orbegozo](<../assets/imgs/Carlos Orbegozo (1).png>)
 
 ### 2.3.2. User Task Matrix
 
 Elaboramos los User Task Matrix  del Usuario con el propósito de determinar la frecuencia con la que los usuarios llevan a cabo diversas actividades, lo que nos permite visualizar la importancia de ciertas tareas.
 
-| Tareas                                                        | Estudiante de Medicina <br>Importancia   | Estudiante de Medicina<br>Frecuencia               | Médico/a  <br>Importancia    | Médico/a  <br>Frecuencia               |
-|---------------------------------------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
-| Acceder a recursos educativos en línea                        | Alta                     | Siempre                  | Media                    | Casi siempre             |
-| Participar en prácticas clínicas y adquirir habilidades prácticas | Alta                 | Siempre                  | Media                    | A veces                  |
-| Estudiar y comprender implicaciones legales y éticas de la práctica médica | Alta         | Siempre                  | Alta                     | Siempre                  |
-| Mantenerse actualizado/a en avances médicos y tecnológicos    | Alta                     | Siempre                  | Alta                     | Siempre                  |
-| Buscar apoyo legal en caso de necesidad                       | Media                    | A veces                  | Alta                     | Siempre                  |
-| Colaborar con otros profesionales de la salud                 | Baja                     | Casi nunca               | Alta                     | Siempre                  |
-| Realizar investigaciones médicas                              | Media                    | A veces                  | Alta                     | Siempre                  |
-| Asistir a conferencias y eventos académicos                   | Media                    | A veces                  | Alta                     | Siempre                  |
-| Participar en actividades extracurriculares relacionadas con la medicina | Alta            | Siempre                  | Media                    | A veces                  |
-| Cumplir con requisitos académicos (exámenes, trabajos)        | Alta                     | Siempre                  | Media                    | A veces                  |
-| Utilizar tecnología médica avanzada en prácticas clínicas     | Media                    | A veces                  | Alta                     | Siempre                  |
-| Gestionar el tiempo de estudio y prácticas                    | Alta                     | Siempre                  | Media                    | A veces                  |
+**Segmento 1: Médicos**
+| Tareas                                                        | Médico/a <br>Importancia   | Médico/a <br>Frecuencia               |
+|---------------------------------------------------------------|--------------------------|--------------------------
+| Acceder a recursos educativos en línea                        |Media                     | Casi siempre                  
+| Participar en prácticas clínicas y adquirir habilidades prácticas |Media                 | A veces                  
+| Estudiar y comprender implicaciones legales y éticas de la práctica médica |Alta         | Siempre                  
+| Mantenerse actualizado/a en avances médicos y tecnológicos    |Alta                     | Siempre                  
+| Buscar apoyo legal en caso de necesidad                       |Alta                    | Siempre                  
+| Colaborar con otros profesionales de la salud                 |Alta                     | Siempre               
+| Realizar investigaciones médicas                              |Alta                    | Siempre                  
+| Asistir a conferencias y eventos académicos                   |Alta                    | Siempre                  
+| Participar en actividades extracurriculares relacionadas con la medicina |Media            | A veces                  
+| Cumplir con requisitos académicos (exámenes, trabajos)        |Media                     | A veces                  
+| Utilizar tecnología médica avanzada en prácticas clínicas     |Alta                    | Siempre                  
+| Gestionar el tiempo de estudio y prácticas                    |Media                     | A veces     
 
+<br>
+
+**Segmento Objetivo 2:**
+| Tareas                                                        | Estudiante de Medicina <br>Importancia   | Estudiante de Medicina<br>Frecuencia               |
+|---------------------------------------------------------------|--------------------------|--------------------------
+| Acceder a recursos educativos en línea                        |Alta                     | Siempre                  
+| Participar en prácticas clínicas y adquirir habilidades prácticas | Alta                 | Siempre                  
+| Estudiar y comprender implicaciones legales y éticas de la práctica médica | Alta         | Siempre                  
+| Mantenerse actualizado/a en avances médicos y tecnológicos    |Alta                     | Siempre                  
+| Buscar apoyo legal en caso de necesidad                       |Media                    | A veces                  
+| Colaborar con otros profesionales de la salud                 |Baja                     | Casi nunca               
+| Realizar investigaciones médicas                              |Media                    | A veces                  
+| Asistir a conferencias y eventos académicos                   |Media                    | A veces                  
+| Participar en actividades extracurriculares relacionadas con la medicina |Alta            | Siempre                  
+| Cumplir con requisitos académicos (exámenes, trabajos)        |Alta                     | Siempre                  
+| Utilizar tecnología médica avanzada en prácticas clínicas     |Media                    | A veces                  
+| Gestionar el tiempo de estudio y prácticas                    |Alta                     | Siempre                  
 
 #### **Explicación y análisis**
 
