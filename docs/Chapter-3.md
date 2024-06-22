@@ -288,240 +288,174 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <br>THEN el sistema mantiene una funcionalidad consistente y segura, sin importar el navegador utilizado.</td>
         <td>EP06</td>
     </tr>
-    <tr>
-    <td>HU25</td>
+        <tr>
+<td>HU25</td>
     <td>Configuración de la base de datos</td>
-    <td>Como desarrollador, necesito diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
-    <td>Scenario: Configuración de la base de datos<br><br>GIVEN el desarrollador necesita configurar la base de datos para almacenar la información de los abogados<br><br>WHEN define la estructura de la tabla 'abogados' con los campos requeridos como nombre, especialidad y ubicación,<br><br>THEN la base de datos está configurada correctamente para almacenar la información de los abogados.</td>
+    <td>Como desarrollador, quiero diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
+    <td>Scenario: Configuración de la base de datos<br><br>GIVEN el desarrollador quiere configurar la base de datos para almacenar la información de los abogados<br><br>WHEN define la estructura de la tabla 'abogados' con los campos requeridos como nombre, especialidad y ubicación,<br><br>THEN la base de datos está configurada correctamente para almacenar la información de los abogados.</td>
     <td>EP06</td>
   </tr>
   <tr>
     <td>HU26</td>
-    <td>Desarrollo del frontend para la lista de abogados</td>
-    <td>Como desarrollador, necesito crear componentes en el frontend para mostrar la lista de abogados y diseñar la interfaz de usuario utilizando la biblioteca Angular.</td>
-    <td>Scenario: Desarrollo del frontend para la lista de abogados<br><br>GIVEN el desarrollador necesita mostrar la lista de abogados en el frontend<br><br>WHEN crea componentes en el frontend para mostrar la lista de abogados,<br><br>THEN la lista de abogados se muestra correctamente en la interfaz de usuario.</td>
-    <td>EP06</td>
-  </tr>
-  <tr>
-    <td>HU27</td>
-    <td>Integración del toolbar</td>
-    <td>Como desarrollador, necesito implementar un toolbar en el frontend y conectarlo con las diferentes opciones de la aplicación, asegurando una navegación fluida entre las secciones.</td>
-    <td>Scenario: Integración del toolbar<br><br>GIVEN el desarrollador necesita integrar un toolbar en el frontend<br><br>WHEN conecta el toolbar con las diferentes opciones de la aplicación,<br><br>THEN la navegación entre las secciones es fluida y sin problemas.</td>
-    <td>EP06</td>
-  </tr>
-  <tr>
-    <td>HU28</td>
-    <td>Estilizado y diseño responsivo</td>
-    <td>Como desarrollador, necesito aplicar estilos CSS para garantizar un diseño atractivo y responsivo en todas las páginas de la aplicación, utilizando frameworks como Bootstrap o Material-UI.</td>
-    <td>Scenario: Estilizado y diseño responsivo<br><br>GIVEN el desarrollador necesita aplicar estilos CSS para garantizar un diseño atractivo y responsivo<br><br>WHEN aplica estilos CSS utilizando frameworks como Bootstrap o Material-UI,<br><br>THEN el diseño de la aplicación es atractivo y compatible con diferentes tamaños de pantalla y dispositivos.</td>
-    <td>EP06</td>
-  </tr>
-  <tr>
-    <td>HU29</td>
     <td>Implementación de la funcionalidad de búsqueda de abogados</td>
-    <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
-    <td>Scenario: Búsqueda de abogados<br><br>GIVEN el usuario necesita buscar un abogado específico<br><br>WHEN utiliza la función de búsqueda en la página de lista de abogados y proporciona un término de búsqueda,<br><br>THEN se muestran los resultados relevantes que coinciden con el término de búsqueda.</td>
+    <td>Como desarrollador, quiero agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
+    <td>Scenario: Búsqueda de abogados<br><br>GIVEN el desarrollador quiere implementar la función de búsqueda de abogados en la aplicación,<br><br>WHEN desarrolla la función de búsqueda en la página de lista de abogados y configura los parámetros para buscar por nombre o especialidad,<br><br>THEN la búsqueda de abogados muestra resultados relevantes que coinciden con el término de búsqueda proporcionado.</td>
     <td>EP06</td>
   </tr>
-  <tr>
+    <tr>
+    <td>HU27</td>
+    <td>Creación y Gestión de la Entidad de Abogados</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de la entidad de abogados en la base de datos para almacenar información detallada de los abogados.</td>
+    <td>Scenario: Creación de Perfiles de Abogados<br><br>GIVEN el desarrollador quiere registrar nuevos abogados para almacenarlos en la base de datos de la plataforma,<br><br>WHEN se realiza una solicitud para crear un nuevo perfil de abogado, proporcionando información como nombre, especialidad, ubicación y otros detalles relevantes,<br><br>THEN se crea un nuevo registro en la base de datos que contiene la información completa del abogado.<br><br>Scenario: Actualización de Perfiles de Abogados<br><br>GIVEN el desarrollador quiere actualizar la información de un abogado existente en la plataforma para gestionar su información,<br><br>WHEN se realiza una solicitud para actualizar los detalles de un abogado, proporcionando el ID único del abogado y los campos que se desean modificar,<br><br>THEN el backend actualiza los datos del abogado correspondiente en la base de datos según los campos proporcionados.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU28</td>
+    <td>Creación y Gestión de Entidad de Usuario Médico/Estudiante</td>
+    <td>Como desarrollador, quiero crear la entidad de usuario que represente tanto a médicos como a estudiantes de medicina en la plataforma, para asegurar que todos los atributos necesarios estén disponibles para cada tipo de usuario.
+</td>
+    <td>Scenario: Creación de la entidad de usuario<br><br>GIVEN el desarrollador quiere representar tanto a médicos como a estudiantes de medicina en el sistema para asegurar los atributos necesarios para cada tipo de usuario,<br><br>WHEN define y crea la entidad de usuario con atributos comunes como ID, nombre, especialidad, correo electrónico, contraseña, entre otros,<br><br>THEN la entidad de usuario está disponible en el sistema para ser utilizada en otras funcionalidades de la plataforma.<br><br>Scenario: Gestión de usuarios médicos/estudiantes<br><br>GIVEN el desarrollador quiere gestionar la información de médicos y estudiantes registrados para gestionar su información,<br><br>WHEN se implementa la funcionalidad para añadir, actualizar y eliminar usuarios a través de endpoints dedicados,<br><br>THEN los administradores pueden realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre la información de médicos y estudiantes de manera eficiente y segura.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU29</td>
+    <td>Gestión de Suscripciones</td>
+    <td>Como desarrollador, quiero implementar la gestión de suscripciones para que los usuarios puedan ver, seleccionar y administrar sus planes de suscripción en la plataforma.</td>
+    <td>Scenario: Manejo de Suscripciones<br><br>GIVEN el desarrollador backend necesita implementar la gestión de suscripciones en la plataforma,<br><br>WHEN desarrolla los endpoints necesarios en la API para visualizar, seleccionar y actualizar planes de suscripción,<br><br>THEN los usuarios pueden ver su suscripción actual, seleccionar nuevos planes si es necesario, y actualizar la información de pago de forma segura y eficiente.</td>
+    <td>EP06</td>
+    </tr>
+    </tr>
     <td>HU30</td>
-    <td>Implementación de la paginación de resultados</td>
-    <td>Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
-    <td>Scenario: Paginación de resultados<br><br>GIVEN el usuario necesita navegar por una larga lista de abogados<br><br>WHEN se muestra una lista de abogados con múltiples páginas de resultados,<br><br>THEN el usuario puede navegar fácilmente entre las páginas utilizando los controles de paginación.</td>
-    <td>EP06</td>
-  </tr>
-    <tr>
-    <td>HU31</td>
-    <td>Implementar card que se superpone para mostrar perfiles de abogados</td>
-    <td>Como desarrollador quiero implementar un card que se superpone para mostrar los perfiles completos de los abogados seleccionados.</td>
-    <td>Scenario: Visualización del perfil completo de un abogado en un card que se superpone<br><br>GIVEN la necesidad de mostrar información detallada de los abogados de manera legible y organizada,<br><br>WHEN se desarrolla un card que se superpone para contener la información del perfil del abogado,<br><br>THEN se asegura una presentación clara y consistente de la información del abogado.</td>
-    <td>EP06</td>
-    </tr>
-    <tr>
-    <td>HU32</td>
-    <td>Implementar método para cargar información de abogado en el card que se superpone</td>
-    <td>Como desarrollador quiero implementar un método para cargar dinámicamente la información completa de un abogado seleccionado, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
-    <td>Scenario: Carga dinámica de información del abogado en el card que se superpone<br><br>GIVEN la necesidad de cargar información detallada de un abogado seleccionado en el card que se superpone,<br><br>WHEN se selecciona un abogado y se abre su perfil completo en el card que se superpone,<br><br>THEN se carga dinámicamente la información detallada del abogado seleccionado en el card que se superpone.</td>
-    <td>EP06</td>
-    </tr>
-    <tr>
-    <td>HU33</td>
-    <td>Implementación de la Entidad de Usuario</td>
-    <td>Como desarrollador, quiero crear la entidad de usuario con todos los atributos necesarios para representar a médicos y estudiantes en la plataforma.
-</td>
-    <td>Scenario: Creación de la entidad de usuario<br><br>GIVEN el desarrollador necesita representar a los usuarios en el sistema,<br><br>WHEN define y crea la entidad de usuario con atributos como ID, nombre, especialidad, correo electrónico, contraseña, etc,<br><br>THEN la entidad está disponible en el sistema para ser utilizada en otras funcionalidades de la plataforma.</td>
-    <td>EP01</td>
-    </tr>
-    <tr>
-    <td>HU34</td>
-    <td>Diseño de la Sección de Perfil de Usuario</td>
-    <td>Como desarrollador, quiero crear una sección de perfil para usuarios que muestre claramente la información del médico o estudiante de medicina.
-</td>
-    <td>Scenario: Diseño del perfil de usuario<br><br>GIVEN el desarrollador necesita mostrar información del usuario de manera organizada,<br><br>WHEN diseña la sección de perfil de usuario incluyendo campos como nombre, especialidad, y datos de contacto,<br><br>THEN la sección de perfil se muestra de forma atractiva y es fácil de navegar para el usuario.</td>
-    <td>EP01</td>
-    </tr>
-    <tr>
-    <td>HU35</td>
-    <td>Diseño de la Interfaz de Edición de Perfil de Usuario</td>
-    <td>Como desarrollador, quiero diseñar la interfaz de edición de perfil para que los usuarios visualicen de manera clara los campos que pueden modificar en su perfil.
-</td>
-    <td>Scenario: Diseño de la interfaz de edición de perfil<br><br>GIVEN un usuario desea ver su perfil para posibles actualizaciones,<br><br>WHEN accede a la opción 'Editar Perfil' en la plataforma,<br><br>THEN se muestra una interfaz con los campos de su perfil actual, como nombre, especialidad, correo electrónico, entre otros, listos para ser editados.</td>
-    <td>EP01</td>
-    </tr>
-    <tr>
-    <td>HU36</td>
-    <td>Diseño de la Interfaz de Edición de Filtros</td>
-    <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.
-</td>
-    <td>Scenario: Diseño de la interfaz de filtros<br><br>GIVEN un usuario desea buscar algo aplicando cierto filtro,<br><br>WHEN accede a la opción 'Filtro' en la plataforma,<br><br>THEN se muestra una interfaz con todas las opciones de filtros que estan disponibles.</td>
-    <td>EP01</td>
-    </tr>
-    <tr>
-    <td>HU37</td>
-    <td>Diseño de la sección Suscripciones</td>
-    <td>Como desarrollador, quiero implementar la sección de suscripción para obtener ayuda legal en caso de cometer alguna negligencia médica, para estar protegido legalmente.</td>
-    <td>Scenario: Suscripción para ayuda legal<br><br>GIVEN soy un médico autenticado en la plataforma,<br><br>WHEN selecciono la opción de suscripción para obtener ayuda legal,<br><br>THEN se me presenta una lista de planes de suscripción disponibles.</td>
-    <td>EP06</td>
-    </tr>
-    <tr>
-    <td>HU38</td>
-    <td>Diseño de la interfaz Suscripciones</td>
-    <td>Como desarrollador, quiero implementar una interfaz donde se puede ver los detalles de la suscripción actual, para ver el plan seleccionado.</td>
-    <td>Scenario: Ver detalles de la suscripción<br><br>GIVEN estoy en la sección de suscripciones,<br><br>WHEN selecciono la opción "adquirir",<br><br>THEN se me presenta un apartado donde se ve los detalles de la suscripción.</td>
-    <td>EP06</td>
-    </tr>
-    <tr>
-    <td>HU39</td>
-    <td>Diseño de la interfaz de pago Suscripciones</td>
-    <td>Como desarollador, quiero implementar una interfaz donde se pueda ingresar los detalles de una tarjeta de crédito y el monto a pagar, para completar el proceso de pago de la suscripción</td>
-    <td>Scenario: Ingreso de detalles de pago<br><br>GIVEN soy un usuario,<br><br>WHEN selecciono la opción "adquirir",<br><br>THEN se me presenta una interfaz para poner los detalles de pago como tarjeta y monto a pagar.</td>
-    <td>EP06</td>
-    </tr>
-    <td>HU40</td>
     <td>Creación y Gestión de Recursos Educativos</td>
     <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
     <td>Scenario: Creación de recursos educativos.
-    <br><br>GIVEN el administrador necesita añadir un nuevo recurso educativo,
-    <br><br>WHEN el administrador envía los detalles del recurso a través del endpoint de creación,
+    <br><br>GIVEN el desarrollador necesita añadir un nuevo recurso educativo,
+    <br><br>WHEN el desarrollador envía los detalles del recurso a través del endpoint de creación,
     <br><br>THEN el recurso educativo se almacena correctamente en la base de datos.
     <br><br>Scenario: Eliminación de recursos educativos
-    <br><br>GIVEN el administrador necesita eliminar un recurso educativo,
-    <br><br>WHEN el administrador envía una solicitud de eliminación a través del endpoint correspondiente,
+    <br><br>GIVEN el desarrollador necesita eliminar un recurso educativo,
+    <br><br>WHEN el desarrollador envía una solicitud de eliminación a través del endpoint correspondiente,
     <br><br>THEN el recurso educativo se elimina correctamente de la base de datos.</td>
     <td>EP06</td>
     </tr>
     <tr>
-    <td>HU41</td>
+    <td>HU31</td>
     <td>Implementación de Categorías a los Recursos</td>
     <td>Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías de los recursos educativos para organizar los recursos de manera eficiente.</td>
     <td>Scenario: Creación de categorías
-    <br><br>GIVEN el administrador necesita crear una nueva categoría para los recursos educativos,
-    <br><br>WHEN el administrador envía los detalles de la categoría a través del endpoint de creación,
-    <br><br>THEN la categoría se almacena correctamente en la base de datos.</td>
+    <br><br>GIVEN el desarrollador necesita crear una nueva categoría para los recursos educativos,
+    <br><br>WHEN el desarrollador envía los detalles de la categoría a través del endpoint de creación,
+    <br><br>THEN la categoría se almacena correctamente en la base de datos.
+    <br><br>Scenario: Gestión de categorías
+    <br><br>GIVEN el desarrollador desea actualizar una categoría existente en los recursos educativos,
+    <br><br>WHEN el desarrollador envía una solicitud de actualización a través del endpoint correspondiente,
+    <br><br>THEN la categoría se actualiza correctamente en la base de datos.</td>
     <td>EP06</td>
     </tr>
     <tr>
-    <td>HU42</td>
+    <td>HU32</td>
     <td>Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
     <td>Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
-    <td>Scenario: Búsqueda de recursos educativos por título
-    <br><br>GIVEN un usuario necesita buscar recursos educativos por título,
-    <br><br>WHEN el usuario envía un término de búsqueda a través del endpoint de búsqueda,
-    <br><br>THEN se devuelven los recursos educativos que coinciden con el término de búsqueda.
-    <br><br>Scenario: Búsqueda de recursos educativos por categoría
-    <br><br>GIVEN un usuario necesita buscar recursos educativos por categoría,
-    <br><br>WHEN el usuario selecciona una categoría a través del endpoint de búsqueda,
-    <br><br>THEN se devuelven los recursos educativos que pertenecen a la categoría seleccionada.
-    <br><br>Scenario: Búsqueda de recursos educativos por autor
-    <br><br>GIVEN un usuario necesita buscar recursos educativos por autor,
-    <br><br>WHEN el usuario envía el nombre del autor a través del endpoint de búsqueda,
-    <br><br>THEN se devuelven los recursos educativos que han sido escritos por ese autor.</td>
+    <td>
+        Scenario: Búsqueda de recursos educativos por título
+        <br><br>GIVEN el desarrollador necesita implementar la búsqueda de recursos educativos por título,
+        <br><br>WHEN se desarrolla el endpoint de búsqueda que recibe un término de búsqueda,
+        <br><br>THEN se devuelve una lista de recursos educativos que coinciden con el término buscado.
+        <br><br>Scenario: Búsqueda de recursos educativos por categoría
+        <br><br>GIVEN el desarrollador necesita implementar la búsqueda de recursos educativos por categoría,
+        <br><br>WHEN se desarrolla el endpoint de búsqueda que recibe una categoría como parámetro,
+        <br><br>THEN se devuelven los recursos educativos que pertenecen a la categoría seleccionada.
+        <br><br>Scenario: Búsqueda de recursos educativos por autor
+        <br><br>GIVEN el desarrollador necesita implementar la búsqueda de recursos educativos por autor,
+        <br><br>WHEN se desarrolla el endpoint de búsqueda que recibe el nombre del autor como parámetro,
+        <br><br>THEN se devuelven los recursos educativos escritos por ese autor.
+    </td>
     <td>EP06</td>
-    </tr>
+</tr>
     <tr>
-    <td>HU43</td>
+    <td>HU33</td>
     <td>Obtener todas las notificaciones</td>
     <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
-    <td>Scenario: Obtener todas las notificaciones
-    <br><br>GIVEN el administrador necesita obtener todas las notificaciones,
-    <br><br>WHEN el administrador realiza una solicitud GET a '/notifications',
+    <td>Scenario: Obtenención de todas las notificaciones
+    <br><br>GIVEN el desarrollador necesita obtener todas las notificaciones,
+    <br><br>WHEN el desarrollador realiza una solicitud GET a '/notifications',
     <br><br>THEN todas las notificaciones almacenadas en la base de datos se deben devolver en formato JSON.</td>
     <td>EP06</td>
     </tr>
     <tr>
-    <td>HU44</td>
+    <td>HU34</td>
     <td>Crear una nueva notificación</td>
     <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
-    <td>Scenario: Crear una nueva notificación
-    <br><br>GIVEN el administrador necesita crear una nueva notificación,
-    <br><br>WHEN el administrador realiza una solicitud POST a '/notifications' con los detalles de la notificación en el cuerpo de la solicitud,
+    <td>Scenario: Creación de una nueva notificación
+    <br><br>GIVEN el desarrollador necesita crear una nueva notificación,
+    <br><br>WHEN el desarrollador realiza una solicitud POST a '/notifications' con los detalles de la notificación en el cuerpo de la solicitud,
     <br><br>THEN se debe crear una nueva notificación en la base de datos y devolver un mensaje de confirmación junto con los detalles de la notificación creada.</td>
     <td>EP06</td>
     </tr>
     <tr>
-    <td>HU45</td>
+    <td>HU35</td>
     <td>Obtener una notificación por ID</td>
     <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
-    <td>Scenario: Obtener notificación por ID
-    <br><br>GIVEN el administrador necesita crear una notificación por ID,
-    <br><br>WHEN el administrador realiza una solicitud GET a '/notifications/{id}' con un identificador de notificación válido,
+    <td>Scenario: Obtenención de notificación por ID
+    <br><br>GIVEN el desarrollador necesita crear una notificación por ID,
+    <br><br>WHEN el desarrollador realiza una solicitud GET a '/notifications/{id}' con un identificador de notificación válido,
     <br><br>THEN se deben devolver los detalles de la notificación correspondiente en formato JSON.</td>
     <td>EP06</td>
     </tr>
     <tr>
-    <td>HU46</td>
+    <td>HU36</td>
     <td>Creación y gestión de recursos de casos legales</td>
     <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan
     gestionar los casos legales.</td>
     <td>Scenario: Crear un caso legal
-    <br><br>GIVEN el administrador necesita crear una nuevo caso legal,
-    <br><br>WHEN el administrador realiza una solicitud POST con los detalles del caso legal,
+    <br><br>GIVEN el desarrollador necesita crear una nuevo caso legal,
+    <br><br>WHEN el desarrollador realiza una solicitud POST con los detalles del caso legal,
     <br><br>THEN se debe crear un nuevo caso legal en la base de datos.
-    <br><br>Scenario: Obtener los casos legales
-    <br><br>GIVEN el administrador necesita obtener los casos legales,
-    <br><br>WHEN el administrador realiza una solicitud GET,
+    <br><br>Scenario: Obtener todos los casos legales
+    <br><br>GIVEN el desarrollador necesita obtener los casos legales,
+    <br><br>WHEN el desarrollador realiza una solicitud GET,
     <br><br>THEN se debe devolver todos los casos legales existentes.
-    <br><br>Scenario: Obtener los casos legales por status
-    <br><br>GIVEN el administrador necesita obtener los casos legales por status,
-    <br><br>WHEN el administrador realiza una solicitud GET con el detalle de status,
+    <br><br>Scenario: Obtener de los casos legales por status
+    <br><br>GIVEN el desarrollador necesita obtener los casos legales por status,
+    <br><br>WHEN el desarrollador realiza una solicitud GET con el detalle de status,
     <br><br>THEN se debe devolver todos los casos legales existentes que coincidan con el status solicitado.</td>
     <td>EP06</td>
     </tr>
     <tr>
-    <td>HU47</td>
+    <td>HU37</td>
     <td>Creación y gestión de recursos de consultas</td>
     <td>Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan
     gestionar las consultas necesarias.</td>
     <td>Scenario: Crear una consulta
-    <br><br>GIVEN el administrador necesita crear una nueva consulta,
-    <br><br>WHEN el administrador realiza una solicitud POST con los detalles de la consulta,
+    <br><br>GIVEN el desarrollaodr necesita crear una nueva consulta,
+    <br><br>WHEN el desarrollaodr realiza una solicitud POST con los detalles de la consulta,
     <br><br>THEN se debe crear una nueva consulta en la base de datos.
     <br><br>Scenario: Obtener las consultas
-    <br><br>GIVEN el administrador necesita obtener las consultas,
-    <br><br>WHEN el administrador realiza una solicitud GET,
+    <br><br>GIVEN el desarrollaodr necesita obtener las consultas,
+    <br><br>WHEN el desarrollaodr realiza una solicitud GET,
     <br><br>THEN se debe devolver todas las consultas existentes.
     <br><br>Scenario: Eliminar las consultas
-    <br><br>GIVEN el administrador necesita eliminar una consulta,
-    <br><br>WHEN el administrador realiza una solicitud DELETE con el ID de la consulta,
+    <br><br>GIVEN el desarrollaodr necesita eliminar una consulta,
+    <br><br>WHEN el desarrollaodr realiza una solicitud DELETE con el ID de la consulta,
     <br><br>THEN se debe eliminar la consulta existente que coincida con el ID solicitado.</td>
     <td>EP06</td>
     </tr>
     <tr>
-    <td>HU48</td>
+    <td>HU38</td>
     <td>Creación y gestión de asuntos legales</td>
     <td>Como desarrollador backend, quiero implementar la creación y gestión de asuntos legales para que los administradores puedan
     gestionar los asuntos legales.</td>
     <td>Scenario: Crear un asunto legal
-    <br><br>GIVEN el administrador necesita crear un nuevo asunto legal,
-    <br><br>WHEN el administrador realiza una solicitud POST con los detalles del asunto legal,
+    <br><br>GIVEN el desarrollaodr necesita crear un nuevo asunto legal,
+    <br><br>WHEN el desarrollaodr realiza una solicitud POST con los detalles del asunto legal,
     <br><br>THEN se debe crear un nuevo asunto legal en la base de datos.
     <br><br>Scenario: Obtener los asuntos legales
-    <br><br>GIVEN el administrador necesita obtener los asuntos legales,
-    <br><br>WHEN el administrador realiza una solicitud GET,
+    <br><br>GIVEN el desarrollaodr necesita obtener los asuntos legales,
+    <br><br>WHEN el desarrollaodr realiza una solicitud GET,
     <br><br>THEN se debe devolver todas los asuntos legales existentes.
     <br><br>Scenario: Obtener asunto legal por ID
-    <br><br>GIVEN el administrador necesita obtner un solo asunto legal,
-    <br><br>WHEN el administrador realiza una solicitud GET con el ID del asunto legal,
+    <br><br>GIVEN el desarrollaodr necesita obtner un solo asunto legal,
+    <br><br>WHEN el desarrollaodr realiza una solicitud GET con el ID del asunto legal,
     <br><br>THEN se debe obtener el asunto legal que coincida con el ID solicitado.</td>
     <td>EP06</td>
     </tr>
