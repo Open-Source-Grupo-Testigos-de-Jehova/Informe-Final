@@ -140,7 +140,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
    <td>HU09</td>
     <td>Perfil de abogado médico</td>
     <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
-    <td>Scenario: Acceso al perfil completo de un abogado<br><br>Dado que el usuario está interesado en conocer más sobre un abogado en particular,<br><br>Cuando hace clic en el botón "Perfil" asociado a un abogado en la página principal,<br><br>Entonces espera que se abra un card que se superpone mostrando el perfil completo del abogado seleccionado.</td>
+    <td>Scenario: Acceso al perfil completo de un abogado<br><br>GIVEN el usuario está interesado en conocer más sobre un abogado en particular,<br><br>WHEN hace clic en el botón "Perfil" asociado a un abogado en la página principal,<br><br>THEN espera que se abra un card que se superpone mostrando el perfil completo del abogado seleccionado.</td>
     <td>EP02</td>
     </tr>
     <tr>
@@ -149,7 +149,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
         <td>Scenario: Visualización de documentacion<br>
     <br>GIVEN un usuario quiere ver su caso con su respectiva documentacion en MedicDefense,<br>
-    <br>WHEN entre a la sección “Resumen”,<br>
+    <br>WHEN entre a la sección “Resumen DE”,<br>
     <br>AND seleccione su caso,<br>
     <br>THEN podrá visualizar toda la documentacion de su caso.</td>
         <td>EP02</td>
@@ -178,29 +178,29 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>HU13</td>
         <td>Visualización de servicios</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
-        <td>Scenario: Visualizar información sobre los servicios<br><br>GIVEN un usuario visita la landing page,<br><br>WHEN se encuentre navegando por la landing page,<br><br>THEN encuentra una sección con información acerca de los servicios de MedicDefense.</td>
+        <td>Scenario: Visualizar información sobre los servicios<br><br>GIVEN un visitante entre a visualizar la landing page,<br><br>WHEN se encuentre navegando por la landing page,<br><br>THEN encuentra una sección con información acerca de los servicios de MedicDefense.</td>
         <td>EP03</td>
     </tr>
     <tr>
     <td>HU14</td>
         <td>Sección de contacto</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
-        <td>Scenario: Visualización de una sección de contacto<br><br>GIVEN un usuario visita la landing page,<br><br>WHEN se encuentre navegando por la landing page,<br><br>THEN encuentra una sección de contacto con campos como nombre, correo, teléfono, mensaje para solicitar información.</td>
+        <td>Scenario: Visualización de una sección de contacto<br><br>GIVEN un visitante accede a la landing page,<br><br>WHEN se encuentre navegando por la landing page,<br><br>THEN encuentra una sección de contacto con campos como nombre, correo, teléfono, mensaje para solicitar información.</td>
         <td>EP03</td>
     </tr>
     <tr>
     <td>HU15</td>
         <td>Sección about us</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
-        <td>Scenario: Visualización de una sección about us<br><br>GIVEN un usuario visita la landing page,<br><br>WHEN se encuentre navegando por la landing page,<br><br>THEN encuentra una sección about us que le brinda información acerca de la empresa cuyos servicios le interesan.</td>
+        <td>Scenario: Visualización de una sección about us<br><br>GIVEN un visitante explora la landing page,<br><br>WHEN se encuentre navegando por la landing page,<br><br>THEN encuentra una sección about us que le brinda información acerca de la empresa cuyos servicios le interesan.</td>
         <td>EP03</td>
     </tr>
     <tr>
     <td>HU16</td>
         <td>Sección de Creadores</td>
-        <td>CComo visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
         <td>Scenario: Visualización de una sección creadores<br>
-    <br>GIVEN un usuario visita la landing page,
+    <br>GIVEN un visitante accede a la landing page,
 <br>
     <br>WHEN se encuentre navegando por la landing page,<br><br>
     THEN encuentra una sección creadores que le brinda información acerca de los creadores de la empresa.</td>
@@ -211,7 +211,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Sección de inicio</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
         <td>Scenario: Visualización de una sección inicio<br>
-    <br>GIVEN un usuario visita la landing page,<br>
+    <br>GIVEN un visitante ingresa a la landing page,<br>
     <br>WHEN se encuentre navegando por la landing page,<br>
     <br>THEN encuentra una sección inicio que tenga una barra de navegación donde puede ver el logo para poder desplazarse mejor.</td>
         <td>EP03</td>
@@ -548,19 +548,132 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
     </tr>
     <tr>
-    <td>1</td>
-        <td>US17</td>
-        <td>Sección de inicio</td>
-        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+        <tr>
+        <td>1</td>
+        <td>HU05</td>
+        <td>Visualización de lista de tipos de suscripción</td>
+        <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
+        <td>2</td>
+      <tr>
+        <td>2</td>
+        <td>US01</td>
+        <td>Gestión de las cuentas de los usuarios</td>
+        <td>Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
+        <td>3</td>
+    </tr>  
+    </tr>
+        <tr>
+        <td>3</td>
+        <td>HU04</td>
+        <td>Eliminar cuenta Usuario</td>
+        <td>Como usuario de la plataforma de MedicDefense,necesito poder eliminar mi cuenta en caso sea necesario para no tener vinculo con el sitio web.</td>
         <td>3</td>
     </tr>
-    <tr>
-        <td>2</td>
-        <td>US15</td>
+        <tr>
+        <td>4</td>
+        <td>HU09</td>
+    <td>Perfil de abogado médico</td>
+    <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
+    <td>3</td>
+    </tr>
+        <tr>
+        <td>5</td>
+        <td>HU12</td>
+        <td>Cambiar de medico asesor</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
+        <td>3</td>
+    </tr>
+        <td>6</td>
+        <td>HU15</td>
         <td>Sección de about us</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
         <td>3</td>
         </tr>
+        <tr>
+        <td>7</td>
+        <td>HU16</td>
+        <td>Sección de contacto</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+        <td>3</td>
+    </tr>
+    <td>8</td>
+        <td>HU17</td>
+        <td>Sección de inicio</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+        <td>3</td>
+    </tr>
+        <td>9</td>
+        <td>HU24</td>
+        <td>Soporte para múltiples navegadores</td>
+        <td>Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
+        <td>3</td>
+    </tr>
+        <tr>
+        <td>10</td>
+        <td>HU25</td>
+        <td>Configuración de la base de datos</td>
+        <td>Como desarrollador, necesito diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
+        <td>3</td>
+    </tr>
+        <td>11</td>
+        <td>HU29</td>
+        <td>Implementación de la funcionalidad de búsqueda de abogados</td>
+        <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>HU30</td>
+        <td>Implementación de la paginación de resultados</td>
+        <td>Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
+        <td>3</td>
+    </tr>
+        <tr>
+        <td>13</td>
+        <td>HU34</td>
+        <td>Diseño de la Sección de Perfil de Usuario</td>
+        <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
+        <td>3</td>
+    </tr>
+        <tr>
+        <td>14</td>
+        <td>HU35</td>
+        <td>Diseño de la Interfaz de Edición de Perfil de Usuario</td>
+        <td>Como desarrollador, quiero diseñar la interfaz de edición de perfil para que los usuarios visualicen de manera clara los campos que pueden modificar en su perfil.</td>
+        <td>3</td>
+    </tr>
+        <td>15</td>
+        <td>HU36</td>
+        <td>Diseño de la Interfaz de Edición de Filtros</td>
+        <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.</td>
+        <td>3</td>
+    </tr>
+        <td>16</td>
+        <td>HU37</td>
+        <td>Diseño de la sección Suscripciones</td>
+        <td>Como desarrollador, quiero implementar la sección de suscripción para obtener ayuda legal en caso de cometer alguna negligencia médica, para estar protegido legalmente.</td>
+        <td>3</td>
+    </tr>
+        <tr>
+        <td>17</td>
+        <td>HU38</td>
+        <td>Diseño de la interfaz Suscripciones</td>
+        <td>Como desarrollador, quiero implementar una interfaz donde se puede ver los detalles de la suscripción actual, para ver el plan seleccionado.</td>
+        <td>3</td>
+    </tr>
+        <td>18</td>
+        <td>HU39</td>
+        <td>Diseño de la interfaz de pago Suscripciones</td>
+        <td>Como desarollador, quiero implementar una interfaz donde se pueda ingresar los detalles de una tarjeta de crédito y el monto a pagar, para completar el proceso de pago de la suscripción.</td>
+        <td>3</td>
+    </tr>
+        <tr>
+        <td>19</td>
+        <td>HU41</td>
+        <td>Implementación de Categorías de Recursos</td>
+        <td>Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente.</td>
+        <td>3</td>
+    </tr>
          <tr>
         <td>3</td>
         <td>US13</td>
@@ -569,39 +682,11 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>5</td>
     </tr>
     <tr>
-        <td>4</td>
-        <td>US05</td>
-        <td>Visualización de lista de tipos de suscripción</td>
-        <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
-        <td>2</td>
-    </tr>
-    <tr>
         <td>5</td>
         <td>US14</td>
         <td>Sección de contacto</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
         <td>5</td>
-    </tr>
-     <tr>
-        <td>6</td>
-        <td>US16</td>
-        <td>Sección de contacto</td>
-        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
-        <td>3</td>
-    </tr>
-<tr>
-    <td>7</td>
-        <td>US24</td>
-        <td>Soporte para múltiples navegadores</td>
-        <td>Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>US25</td>
-        <td>Configuración de la base de datos</td>
-        <td>Como desarrollador, necesito diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
-        <td>3</td>
     </tr>
     <tr>
         <td>9</td>
@@ -624,18 +709,10 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Como desarrollador, necesito aplicar estilos CSS para garantizar un diseño atractivo y responsivo en todas las páginas de la aplicación, utilizando frameworks como Bootstrap o Material-UI.</td>
         <td>5</td>
     </tr>
-    <tr>
-    <td>12</td>
+        <td>12</td>
         <td>US29</td>
         <td>Implementación de la funcionalidad de búsqueda de abogados</td>
         <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
-        <td>3</td>
-    </tr>
-    <tr>
-    <td>13</td>
-        <td>US30</td>
-        <td>Implementación de la paginación de resultados</td>
-        <td>Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
         <td>3</td>
     </tr>
     <tr>
@@ -645,13 +722,6 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
 </td>
     <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar..</td>
     <td>5</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>US09</td>
-    <td>Perfil de abogado médico</td>
-    <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
-    <td>3</td>
     </tr>
     <tr>
         <td>16</td>
@@ -675,55 +745,7 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
         <td>5</td>
     </tr>
-        <tr>
-        <td>19</td>
-        <td>US34</td>
-        <td>Diseño de la Sección de Perfil de Usuario</td>
-        <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
-        <td>3</td>
-    </tr>
-        <tr>
-        <td>20</td>
-        <td>US35</td>
-        <td>Diseño de la Interfaz de Edición de Perfil de Usuario</td>
-        <td>Como desarrollador, quiero diseñar la interfaz de edición de perfil para que los usuarios visualicen de manera clara los campos que pueden modificar en su perfil.</td>
-        <td>3</td>
-    </tr>
     <tr>
-        <td>21</td>
-        <td>US37</td>
-        <td>Diseño de la sección Suscripciones</td>
-        <td>Como desarrollador, quiero implementar la sección de suscripción para obtener ayuda legal en caso de cometer alguna negligencia médica, para estar protegido legalmente.</td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <td>22</td>
-        <td>US38</td>
-        <td>Diseño de la interfaz Suscripciones</td>
-        <td>Como desarrollador, quiero implementar una interfaz donde se puede ver los detalles de la suscripción actual, para ver el plan seleccionado.</td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <td>23</td>
-        <td>US39</td>
-        <td>Diseño de la interfaz de pago Suscripciones</td>
-        <td>Como desarollador, quiero implementar una interfaz donde se pueda ingresar los detalles de una tarjeta de crédito y el monto a pagar, para completar el proceso de pago de la suscripción.</td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <td>24</td>
-        <td>US36</td>
-        <td>Diseño de la Interfaz de Edición de Filtros</td>
-        <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.</td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <td>25</td>
-        <td>US01</td>
-        <td>Gestión de las cuentas de los usuarios</td>
-        <td>Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
-        <td>3</td>
-    </tr>
     <tr>
         <td>26</td>
         <td>US02</td>
@@ -737,13 +759,6 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Gestión de roles de cuentas</td>
         <td>Como administrador de la plataforma, necesito poder asignar, modificar y revocar roles de usuario para gestionar adecuadamente el acceso a diversas áreas de la plataforma.</td>
         <td>5</td>
-    </tr>
-    <tr>
-        <td>28</td>
-        <td>US04</td>
-        <td>Eliminar cuenta Usuario</td>
-        <td>Como usuario de la plataforma de MedicDefense,necesito poder eliminar mi cuenta en caso sea necesario para no tener vinculo con el sitio web.</td>
-        <td>3</td>
     </tr>
     <tr>
         <td>25</td>
@@ -780,26 +795,12 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
         <td>5</td>
     </tr>
-    <tr>
-        <td>33</td>
-        <td>US12</td>
-        <td>Cambiar de medico asesor</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
-        <td>3</td>
-    </tr>
         <tr>
         <td>34</td>
         <td>US18</td>
         <td>Integración de pagos</td>
         <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
         <td>8</td>
-    </tr>
-        <tr>
-        <td>35</td>
-        <td>US19</td>
-        <td>Base de datos de usuarios</td>
-        <td>Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
-        <td>5</td>
     </tr>
         <tr>
         <td>36</td>
@@ -835,14 +836,6 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Creación y Gestión de Recursos Educativos</td>
         <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
         <td>5</td>
-    </tr>
-        <tr>
-        <td>41</td>
-        <td>US41</td>
-        <td>Implementación de Categorías de Recursos</td>
-        <td>Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente.</td>
-        <td>3</td>
-    </tr>
     <tr>
         <td>42</td>
         <td>US42</td>
