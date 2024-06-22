@@ -115,6 +115,7 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
     - En el aspecto profesional, ¿Cómo se ve a ud mismo(a)?
     - Vamos relacionandonos un poco mas al tema tecnologico ¿Cuál es la herramienta tecnologica que mas usa?
     - ¿Cuáles son las aplicaciones que mas ha usado en este ultimo tiempo?
+    - ¿Cuales son los navegadores de internet que mas usa a dia de hoy y desde que dispositivos?
     - ¿Considera que la propaganda que se expone hoy en dia en las apps mas usadas es invasiva?
 
 **Preguntas para Doctores**
@@ -157,7 +158,7 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a
 
 **Resumen de la Entrevista:**
 
-Misión Augusto Noriega Ambulodegui, un experimentado anestesiólogo en el Hospital Guillermo Almenara Irigoyen, con más de tres décadas de experiencia médica general y alrededor de 22 años dedicados a su especialidad, describe detalladamente su proceso mental y protocolos de actuación ante intervenciones quirúrgicas. Reconoce la inherente incertidumbre y los riesgos asociados con cualquier procedimiento quirúrgico, enfatizando que cada caso es único y puede presentar eventualidades imprevistas. A pesar de no haber enfrentado problemas legales personalmente, comparte un caso donde estuvo involucrado en una denuncia contra un colega ginecólogo debido a un incidente quirúrgico, resaltando la complejidad y las implicaciones de tales situaciones. Además, subraya la importancia de buscar asesoramiento profesional en caso de enfrentar problemas relacionados con los resultados de una cirugía, destacando los procedimientos establecidos en su institución para garantizar la seguridad del paciente y la calidad del cuidado médico, como la auditoría médica en casos de mortalidad materna.
+Misión Augusto Noriega Ambulodegui, un experimentado anestesiólogo en el Hospital Guillermo Almenara Irigoyen, con más de tres décadas de experiencia médica general y alrededor de 22 años dedicados a su especialidad, describe detalladamente su proceso mental y protocolos de actuación ante intervenciones quirúrgicas. Reconoce la inherente incertidumbre y los riesgos asociados con cualquier procedimiento quirúrgico, enfatizando que cada caso es único y puede presentar eventualidades imprevistas. A pesar de no haber enfrentado problemas legales personalmente, comparte un caso donde estuvo involucrado en una denuncia contra un colega ginecólogo debido a un incidente quirúrgico, resaltando la complejidad y las implicaciones de tales situaciones. Además, subraya la importancia de buscar asesoramiento profesional en caso de enfrentar problemas relacionados con los resultados de una cirugía, destacando los procedimientos establecidos en su institución para garantizar la seguridad del paciente y la calidad del cuidado médico, como la auditoría médica en casos de mortalidad materna. Tambien podemos verificar que utiliza una computadora de escritorio y un smartphone android para poder hacer sus tareas diarias respecto a su profesión.
 
 #### Entrevista 2: Augusto Manuel Vasquez Carrasco (Medico)
  
@@ -175,7 +176,7 @@ Misión Augusto Noriega Ambulodegui, un experimentado anestesiólogo en el Hospi
 
 **Resumen de la Entrevista:**
 
-Augusto Manuel Vásquez Carrasco, un médico cirujano con una vasta experiencia desde que se graduó en el 2005 y se especializó en Anestesiología desde el 2010, con una posterior subespecialización en Anestesiología Pediátrica, desempeña su labor en el INSN en San Borja y en diversas clínicas privadas. Él enfatiza la complejidad y singularidad de cada intervención quirúrgica, especialmente en cirugías de alto nivel que realiza en instituciones reconocidas por realizar procedimientos complejos. Destaca que cada paciente es único y requiere una atención personalizada y concentrada, aunque pueda haber casos clínicos similares. Aunque no ha enfrentado problemas médicos legales, reconoce que las complicaciones son una parte esperada en su campo y que siempre está preparado para manejarlas. Además, menciona que ha sido testigo de la falta de comunicación entre médicos y familias de pacientes en situaciones críticas, y en esos casos, ha brindado apoyo médico para la defensa de sus colegas. Para enfrentar problemas legales, Augusto ha ampliado su formación y se ha capacitado como perito en anestesiología, lo que le proporciona las habilidades necesarias para defenderse con mayor eficacia.
+Augusto Manuel Vásquez Carrasco, un médico cirujano con una vasta experiencia desde que se graduó en el 2005 y se especializó en Anestesiología desde el 2010, con una posterior subespecialización en Anestesiología Pediátrica, desempeña su labor en el INSN en San Borja y en diversas clínicas privadas. Él enfatiza la complejidad y singularidad de cada intervención quirúrgica, especialmente en cirugías de alto nivel que realiza en instituciones reconocidas por realizar procedimientos complejos. Destaca que cada paciente es único y requiere una atención personalizada y concentrada, aunque pueda haber casos clínicos similares. Aunque no ha enfrentado problemas médicos legales, reconoce que las complicaciones son una parte esperada en su campo y que siempre está preparado para manejarlas. Además, menciona que ha sido testigo de la falta de comunicación entre médicos y familias de pacientes en situaciones críticas, y en esos casos, ha brindado apoyo médico para la defensa de sus colegas. Para enfrentar problemas legales, Augusto ha ampliado su formación y se ha capacitado como perito en anestesiología, lo que le proporciona las habilidades necesarias para defenderse con mayor eficacia. Al igual que en la entrevista anterior podemos verificar que tambien utiliza una computadora de escritorio y un smartphone android para poder hacer sus tareas diarias respecto a su profesión.
 
 #### Entrevista 3: Liliana Edith Requejo Lozada (Medico)
 
@@ -194,7 +195,7 @@ Augusto Manuel Vásquez Carrasco, un médico cirujano con una vasta experiencia 
 
 **Resumen de la Entrevista:**
 
-Liliana Requejo, obstetra con 20 años de experiencia, 13 de los cuales se han dedicado a la obstetricia, trabaja en el Centro de Salud de Jesús María, donde se especializa en atención prenatal, parto y posparto. Además, participa en cirugías menores como la colocación de métodos anticonceptivos y otros procedimientos ginecológicos. A lo largo de su carrera, ha enfrentado algunas complicaciones durante los partos, como hemorragias o distocias de hombros, pero ha logrado resolverlas con éxito. En cuanto a problemas legales, menciona un caso en el que un colega enfrentó demandas debido al fallecimiento de un bebé durante un parto complicado, aunque ella no estuvo directamente involucrada en el caso. Si ella enfrentara un problema similar en el futuro, buscaría asesoramiento legal y profesional para manejar la situación de manera adecuada y ética, reconociendo sus limitaciones y buscando la mejor solución para el paciente y su familia.
+Liliana Requejo, obstetra con 20 años de experiencia, 13 de los cuales se han dedicado a la obstetricia, trabaja en el Centro de Salud de Jesús María, donde se especializa en atención prenatal, parto y posparto. Además, participa en cirugías menores como la colocación de métodos anticonceptivos y otros procedimientos ginecológicos. A lo largo de su carrera, ha enfrentado algunas complicaciones durante los partos, como hemorragias o distocias de hombros, pero ha logrado resolverlas con éxito. En cuanto a problemas legales, menciona un caso en el que un colega enfrentó demandas debido al fallecimiento de un bebé durante un parto complicado, aunque ella no estuvo directamente involucrada en el caso. Si ella enfrentara un problema similar en el futuro, buscaría asesoramiento legal y profesional para manejar la situación de manera adecuada y ética, reconociendo sus limitaciones y buscando la mejor solución para el paciente y su familia. En este caso, Liliana nos comenta que ella utiliza un smartphone android para realizar sus actividades y una laptop para que le sea posible interactuar con sitios web.
 
 **Entrevista 4: Vanessa Castillo (Estudiante de Medicina)**
 
@@ -213,13 +214,9 @@ Liliana Requejo, obstetra con 20 años de experiencia, 13 de los cuales se han d
 
 **Resumen de la Entrevista:**
 
-Vanessa Castillo, una estudiante de 21 años de la Universidad Privada del Norte, lleva estudiando medicina durante los últimos 2 años y medio. Actualmente, está haciendo prácticas en una clínica en Los Olivos como parte de su formación.
+Vanessa Castillo, una estudiante de 21 años de la Universidad Privada del Norte, lleva estudiando medicina durante los últimos 2 años y medio. Actualmente, está haciendo prácticas en una clínica en Los Olivos como parte de su formación. Aunque no ha tenido malas experiencias personales durante sus prácticas, ha escuchado historias de compañeros y profesores sobre situaciones difíciles que han enfrentado en el camino. Esto le ha hecho darse cuenta de la importancia de estar bien preparados como médicos para evitar problemas y cuidar a los pacientes.
 
-Aunque no ha tenido malas experiencias personales durante sus prácticas, ha escuchado historias de compañeros y profesores sobre situaciones difíciles que han enfrentado en el camino. Esto le ha hecho darse cuenta de la importancia de estar bien preparados como médicos para evitar problemas y cuidar a los pacientes.
-
-Siente tristeza y preocupación por las noticias sobre negligencias médicas en el país. Cree que es fundamental que los médicos estén bien entrenados y actualizados para evitar este tipo de situaciones y garantizar la seguridad de los pacientes.
-
-Aunque reconoce que no sabe mucho sobre temas legales relacionados con la medicina, ha recibido algunas clases sobre primeros auxilios y cómo tratar a los pacientes. Está interesada en aprender más sobre este tema y cree que sería útil tener acceso a asesoramiento legal especializado en medicina en caso de necesitarlo en el futuro.
+Siente tristeza y preocupación por las noticias sobre negligencias médicas en el país. Cree que es fundamental que los médicos estén bien entrenados y actualizados para evitar este tipo de situaciones y garantizar la seguridad de los pacientes. Aunque reconoce que no sabe mucho sobre temas legales relacionados con la medicina, ha recibido algunas clases sobre primeros auxilios y cómo tratar a los pacientes. Está interesada en aprender más sobre este tema y cree que sería útil tener acceso a asesoramiento legal especializado en medicina en caso de necesitarlo en el futuro. Y en el ámbito de la tecnologia, Vanessa nos comenta que usa como dispositivos un smartphone android y una laptop, debido a sus recursos economicos y portabilidad.
 
 En resumen, Vanessa muestra un fuerte compromiso con su carrera médica y un interés genuino en mejorar sus habilidades y conocimientos. Está dispuesta a aprender y buscar recursos adicionales para asegurarse de ser una profesional médica preparada y responsable.
 
@@ -240,7 +237,8 @@ En resumen, Vanessa muestra un fuerte compromiso con su carrera médica y un int
 
 **Resumen de la Entrevista:**
 
-Sara Rojas Sojo, de 22 años y estudiante de la Universidad San Martín de Porres, lleva aproximadamente 4 años y medio estudiando medicina. Actualmente realiza prácticas médicas en el hospital Guillermo Armenara de Irigoyen. Aunque no ha tenido problemas con los doctores durante sus prácticas, ha enfrentado algunas dificultades con pacientes que tienen problemas neurológicos. Sara está al tanto de los casos de negligencia médica que se reportan en las noticias y considera que pueden deberse a una falta de evaluación adecuada por parte de algunos médicos. Recientemente, ha recibido formación en ética médica, que incluye aspectos como la comunicación con los pacientes, el respeto a sus derechos y la confidencialidad de la información médica. Aunque no ha tenido experiencia personal con casos de negligencia, cree que sería útil recibir asesoramiento legal especializado en el campo de la medicina en caso de enfrentar una situación similar en el futuro. Considera que talleres o asesorías que promuevan el manejo adecuado de situaciones delicadas en la práctica médica serían beneficiosos para los estudiantes de medicina.
+Sara Rojas Sojo, de 22 años y estudiante de la Universidad San Martín de Porres, lleva aproximadamente 4 años y medio estudiando medicina. Actualmente realiza prácticas médicas en el hospital Guillermo Armenara de Irigoyen. Aunque no ha tenido problemas con los doctores durante sus prácticas, ha enfrentado algunas dificultades con pacientes que tienen problemas neurológicos. Sara está al tanto de los casos de negligencia médica que se reportan en las noticias y considera que pueden deberse a una falta de evaluación adecuada por parte de algunos médicos. Recientemente, ha recibido formación en ética médica, que incluye aspectos como la comunicación con los pacientes, el respeto a sus derechos y la confidencialidad de la información médica. Aunque no ha tenido experiencia personal con casos de negligencia, cree que sería útil recibir asesoramiento legal especializado en el campo de la medicina en caso de enfrentar una situación similar en el futuro. Considera que talleres o asesorías que promuevan el manejo adecuado de situaciones delicadas en la práctica médica serían beneficiosos para los estudiantes de medicina. Debido a sus recursos economicos y temas de portabilidad Sara utiliza solo una laptop para visitar sitios web y encargarse de sus responsabilidades, mientras que su celular lo utiliza solo para mandar y recibir mensajes.
+
 
 
 **Entrevista 6: Patrick Gómez (Estudiante de Medicina)**
@@ -259,7 +257,8 @@ Sara Rojas Sojo, de 22 años y estudiante de la Universidad San Martín de Porre
 
 **Resumen de la Entrevista:**
 
-Patrick Gómez Palomino, un estudiante de 20 años de la Universidad Norbert Wiener, ha estado estudiando medicina durante aproximadamente cuatro años, encontrándose actualmente en su octavo ciclo académico. Durante su formación, ha participado en prácticas médicas en varios hospitales, incluyendo el Jorge Voto Bernales, El Sabogal y Luis Negreiros. Aunque no ha experimentado incidentes adversos con pacientes durante estas prácticas, ha observado la exigencia de algunos doctores. Aunque no está muy al tanto de los casos de negligencia médica en el país, Patrick reconoce la importancia de la documentación adecuada, como la historia clínica, para respaldar la responsabilidad médica y prevenir consecuencias legales. Destaca la necesidad de cumplir con las normativas legales y éticas en el ejercicio de la medicina. Recuerda una ocasión en la que un profesor mencionó un caso de problemas durante un parto, aunque no puede proporcionar detalles específicos. Además, Patrick considera que sería beneficioso tener acceso a servicios legales especializados en medicina para obtener orientación adicional y continuar aprendiendo sobre responsabilidad y defensa médica. Expresa su interés en recibir charlas y asesoramiento práctico durante su formación, así como en consultar a colegas para obtener diferentes perspectivas sobre situaciones clínicas complejas.
+Patrick Gómez Palomino, un estudiante de 20 años de la Universidad Norbert Wiener, ha estado estudiando medicina durante aproximadamente cuatro años, encontrándose actualmente en su octavo ciclo académico. Durante su formación, ha participado en prácticas médicas en varios hospitales, incluyendo el Jorge Voto Bernales, El Sabogal y Luis Negreiros. Aunque no ha experimentado incidentes adversos con pacientes durante estas prácticas, ha observado la exigencia de algunos doctores. Aunque no está muy al tanto de los casos de negligencia médica en el país, Patrick reconoce la importancia de la documentación adecuada, como la historia clínica, para respaldar la responsabilidad médica y prevenir consecuencias legales. Destaca la necesidad de cumplir con las normativas legales y éticas en el ejercicio de la medicina. Recuerda una ocasión en la que un profesor mencionó un caso de problemas durante un parto, aunque no puede proporcionar detalles específicos. Además, Patrick considera que sería beneficioso tener acceso a servicios legales especializados en medicina para obtener orientación adicional y continuar aprendiendo sobre responsabilidad y defensa médica. Expresa su interés en recibir charlas y asesoramiento práctico durante su formación, así como en consultar a colegas para obtener diferentes perspectivas sobre situaciones clínicas complejas. En el ambito tecnologico, usa con frecuenta su smartphone android para visitar sitios web de su interes y por cuestion de portabilidad usa una laptop para realizar sus pendientes.
+
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -312,7 +311,7 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 
 **_Segmento Objetivo 1: Medicos_**
 
-![Clara Diaz](<../assets/imgs/Claria Dias(1).png>)
+![Clara Diaz](<../assets/imgs/Claria Dias(1) (1) (1).png>)
 
 **_Segmento Objetivo 2: Estudiante de Medicina_**
 
@@ -323,7 +322,7 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 Elaboramos los User Task Matrix  del Usuario con el propósito de determinar la frecuencia con la que los usuarios llevan a cabo diversas actividades, lo que nos permite visualizar la importancia de ciertas tareas.
 
 **Segmento 1: Médicos**
-| Tareas                                                        | Médico/a <br>Importancia   | Médico/a <br>Frecuencia               |
+| Tareas                                                        | Médico/a Importancia   | Médico/a  Frecuencia               |
 |---------------------------------------------------------------|--------------------------|--------------------------
 | Acceder a recursos educativos en línea                        |Media                     | Casi siempre                  
 | Participar en prácticas clínicas y adquirir habilidades prácticas |Media                 | A veces                  
@@ -340,7 +339,7 @@ Elaboramos los User Task Matrix  del Usuario con el propósito de determinar la 
 
 <br>
 
-**Segmento Objetivo 2:**
+**Segmento Objetivo 2: Estudiantes de Medicina**
 | Tareas                                                        | Estudiante de Medicina <br>Importancia   | Estudiante de Medicina<br>Frecuencia               |
 |---------------------------------------------------------------|--------------------------|--------------------------
 | Acceder a recursos educativos en línea                        |Alta                     | Siempre                  
