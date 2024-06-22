@@ -282,33 +282,33 @@ En este apartado, se pueden editar los datos de la cuenta, similar al proceso de
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-**User Flow User Goal 1 (Como médico quiero registrarme)**
+**User Flow Goal 1 (Como médico quiero registrarme)**
 
-User Task: El usuario abre MedicDefense, ingresa sus datos y registra su cuenta en la aplicación.
+El usuario abre MedicDefense, ingresa sus datos y registra su cuenta en la aplicación.
 
 ![alt text](<../assets/imgs/User Flow User Goal 1.png>)
 
 **User Flow User Goal 2 (Como médico quiero contactar a un abogado y pagarle sus servicios)**
 
-User Task: El usuario inicia sesión en MedicDefense, selecciona a un abogado, identifica sus canales de contacto y, posteriormente, le paga.
+El usuario inicia sesión en MedicDefense, selecciona a un abogado, identifica sus canales de contacto y, posteriormente, le paga.
 
 ![alt text](<../assets/imgs/User Flow User Goal 2.png>)
 
-**User Flow User Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)**
+**User Flow Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)**
 
-User Task: El usuario inicia sesión en MedicDefense, adquiere una suscripción, selecciona a un abogado y solicita una consulta.
+El usuario inicia sesión en MedicDefense, adquiere una suscripción, selecciona a un abogado y solicita una consulta.
 
 ![alt text](<../assets/imgs/User Flow User Goal 3.png>)
 
-**User Flow User Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)**
+**User Flow Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)**
 
-User Task: El usuario inicia sesión en MedicDefense, revisa su resumen, abre el detalle de su último servicio y cancela su suscripción.
+El usuario inicia sesión en MedicDefense, revisa su resumen, abre el detalle de su último servicio y cancela su suscripción.
 
 ![alt text](<../assets/imgs/User Flow User Goal 4.png>)
 
-**User Flow User Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)**
+**User Flow Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)**
 
-User Task: El usuario inicia sesión en MedicDefense, va a su perfil, selecciona la opción de editar perfil, y guarda los cambios.
+El usuario inicia sesión en MedicDefense, va a su perfil, selecciona la opción de editar perfil, y guarda los cambios.
 
 ![alt text](<../assets/imgs/User Flow User Goal 5.png>)
 
@@ -432,33 +432,33 @@ En este apartado, se pueden editar los datos de la cuenta, similar al proceso de
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-**User Flow User Goal 1 (Como médico quiero registrarme)**
+**User Flow Goal 1 (Como médico quiero registrarme)**
 
-User Task: El usuario abre MedicDefense, ingresa sus datos y registra su cuenta en la aplicación.
+El usuario abre MedicDefense, ingresa sus datos y registra su cuenta en la aplicación.
 
 ![alt text](<../assets/imgs/User Flow User Goal 1MU.png>)
 
-**User Flow User Goal 2 (Como médico quiero contactar a un abogado y pagarle sus servicios)**
+**User Flow Goal 2 (Como médico quiero contactar a un abogado y pagarle sus servicios)**
 
-User Task: El usuario inicia sesión en MedicDefense, selecciona a un abogado, identifica sus canales de contacto y, posteriormente, le paga.
+El usuario inicia sesión en MedicDefense, selecciona a un abogado, identifica sus canales de contacto y, posteriormente, le paga.
 
 ![alt text](<../assets/imgs/User Flow User Goal 2MU.png>)
 
-**User Flow User Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)**
+**User Flow Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)**
 
-User Task: El usuario inicia sesión en MedicDefense, adquiere una suscripción, selecciona a un abogado y solicita una consulta.
+El usuario inicia sesión en MedicDefense, adquiere una suscripción, selecciona a un abogado y solicita una consulta.
 
 ![alt text](<../assets/imgs/User Flow User Goal 3MU.png>)
 
-**User Flow User Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)**
+**User Flow Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)**
 
-User Task: El usuario inicia sesión en MedicDefense, revisa su resumen, abre el detalle de su último servicio y cancela su suscripción.
+El usuario inicia sesión en MedicDefense, revisa su resumen, abre el detalle de su último servicio y cancela su suscripción.
 
 ![alt text](<../assets/imgs/User Flow User Goal 4MU.png>)
 
-**User Flow User Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)**
+**User Flow Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)**
 
-User Task: El usuario inicia sesión en MedicDefense, va a su perfil, selecciona la opción de editar perfil, y guarda los cambios.
+El usuario inicia sesión en MedicDefense, va a su perfil, selecciona la opción de editar perfil, y guarda los cambios.
 
 ![alt text](<../assets/imgs/User Flow User Goal 5MU.png>)
 
