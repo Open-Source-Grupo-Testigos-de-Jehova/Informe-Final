@@ -482,343 +482,255 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
     </tr>
     <tr>
-        <tr>
         <td>1</td>
-        <td>HU05</td>
+        <td>US05</td>
         <td>Visualización de lista de tipos de suscripción</td>
-        <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
+        <td>Como usuario de la plataforma de MedicDefense, quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
         <td>2</td>
-      <tr>
+    </tr>
+    <tr>
         <td>2</td>
         <td>US01</td>
         <td>Gestión de las cuentas de los usuarios</td>
         <td>Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
         <td>3</td>
-    </tr>  
     </tr>
-        <tr>
+    <tr>
         <td>3</td>
-        <td>HU04</td>
+        <td>US04</td>
         <td>Eliminar cuenta Usuario</td>
-        <td>Como usuario de la plataforma de MedicDefense,necesito poder eliminar mi cuenta en caso sea necesario para no tener vinculo con el sitio web.</td>
+        <td>Como usuario de la plataforma de MedicDefense, necesito poder eliminar mi cuenta en caso sea necesario para no tener vínculo con el sitio web.</td>
         <td>3</td>
     </tr>
-        <tr>
+    <tr>
         <td>4</td>
-        <td>HU09</td>
-    <td>Perfil de abogado médico</td>
-    <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
-    <td>3</td>
-    </tr>
-        <tr>
-        <td>5</td>
-        <td>HU12</td>
-        <td>Cambiar de medico asesor</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
+        <td>US09</td>
+        <td>Perfil de abogado médico</td>
+        <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
         <td>3</td>
     </tr>
+    <tr>
+        <td>5</td>
+        <td>US12</td>
+        <td>Cambiar de medico asesor</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si así lo deseara por motivos personales o reservados.</td>
+        <td>3</td>
+    </tr>
+    <tr>
         <td>6</td>
-        <td>HU15</td>
+        <td>US15</td>
         <td>Sección de about us</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
         <td>3</td>
-        </tr>
-        <tr>
+    </tr>
+    <tr>
         <td>7</td>
-        <td>HU16</td>
+        <td>US16</td>
         <td>Sección de contacto</td>
-        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar tener el conocimiento de los creadores de la empresa.</td>
         <td>3</td>
     </tr>
-    <td>8</td>
-        <td>HU17</td>
+    <tr>
+        <td>8</td>
+        <td>US17</td>
         <td>Sección de inicio</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
         <td>3</td>
     </tr>
+    <tr>
         <td>9</td>
-        <td>HU24</td>
+        <td>US24</td>
         <td>Soporte para múltiples navegadores</td>
         <td>Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
         <td>3</td>
     </tr>
-        <tr>
+    <tr>
         <td>10</td>
-        <td>HU25</td>
+        <td>US25</td>
         <td>Configuración de la base de datos</td>
-        <td>Como desarrollador, necesito diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
+        <td>Como desarrollador, quiero diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
         <td>3</td>
     </tr>
+    <tr>
         <td>11</td>
-        <td>HU29</td>
+        <td>US26</td>
         <td>Implementación de la funcionalidad de búsqueda de abogados</td>
-        <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
+        <td>Como desarrollador, quiero agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>HU30</td>
-        <td>Implementación de la paginación de resultados</td>
-        <td>Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
-        <td>3</td>
-    </tr>
-        <tr>
-        <td>13</td>
-        <td>HU34</td>
-        <td>Diseño de la Sección de Perfil de Usuario</td>
-        <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
-        <td>3</td>
-    </tr>
-        <tr>
-        <td>14</td>
-        <td>HU35</td>
-        <td>Diseño de la Interfaz de Edición de Perfil de Usuario</td>
-        <td>Como desarrollador, quiero diseñar la interfaz de edición de perfil para que los usuarios visualicen de manera clara los campos que pueden modificar en su perfil.</td>
-        <td>3</td>
-    </tr>
-        <td>15</td>
-        <td>HU36</td>
-        <td>Diseño de la Interfaz de Edición de Filtros</td>
-        <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.</td>
-        <td>3</td>
-    </tr>
-        <td>16</td>
-        <td>HU37</td>
-        <td>Diseño de la sección Suscripciones</td>
-        <td>Como desarrollador, quiero implementar la sección de suscripción para obtener ayuda legal en caso de cometer alguna negligencia médica, para estar protegido legalmente.</td>
-        <td>3</td>
-    </tr>
-        <tr>
-        <td>17</td>
-        <td>HU38</td>
-        <td>Diseño de la interfaz Suscripciones</td>
-        <td>Como desarrollador, quiero implementar una interfaz donde se puede ver los detalles de la suscripción actual, para ver el plan seleccionado.</td>
-        <td>3</td>
-    </tr>
-        <td>18</td>
-        <td>HU39</td>
-        <td>Diseño de la interfaz de pago Suscripciones</td>
-        <td>Como desarollador, quiero implementar una interfaz donde se pueda ingresar los detalles de una tarjeta de crédito y el monto a pagar, para completar el proceso de pago de la suscripción.</td>
-        <td>3</td>
-    </tr>
-        <tr>
-        <td>19</td>
-        <td>HU41</td>
+        <td>US31</td>
         <td>Implementación de Categorías de Recursos</td>
-        <td>Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente.</td>
+        <td>Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías de los recursos educativos para organizar los recursos de manera eficiente.</td>
         <td>3</td>
     </tr>
-         <tr>
-        <td>3</td>
+    <tr>
+        <td>13</td>
         <td>US13</td>
         <td>Visualización de servicios</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>5</td>
+        <td>14</td>
         <td>US14</td>
         <td>Sección de contacto</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>9</td>
-        <td>US26</td>
-        <td>Desarrollo del frontend para la lista de abogados</td>
-        <td>Como desarrollador, necesito crear componentes en el frontend para mostrar la lista de abogados y diseñar la interfaz de usuario utilizando la biblioteca Angular.</td>
+        <td>15</td>
+        <td>US07</td>
+        <td>Interfaz de filtros de Busqueda</td>
+        <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.</td>
         <td>5</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>US27</td>
-        <td>Integración del toolbar</td>
-        <td>Como desarrollador, necesito implementar un toolbar en el frontend y conectarlo con las diferentes opciones de la aplicación, asegurando una navegación fluida entre las secciones.</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>US28</td>
-        <td>Estilizado y diseño responsivo</td>
-        <td>Como desarrollador, necesito aplicar estilos CSS para garantizar un diseño atractivo y responsivo en todas las páginas de la aplicación, utilizando frameworks como Bootstrap o Material-UI.</td>
-        <td>5</td>
-    </tr>
-        <td>12</td>
-        <td>US29</td>
-        <td>Implementación de la funcionalidad de búsqueda de abogados</td>
-        <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
-        <td>3</td>
-    </tr>
-    <tr>
-    <td>14</td>
-    <td>US07</td>
-    <td>Interfaz de filtros de Busqueda.
-</td>
-    <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar..</td>
-    <td>5</td>
     </tr>
     <tr>
         <td>16</td>
-        <td>US31</td>
-        <td>Implementar card que se superpone para mostrar perfiles de abogados</td>
-        <td>Como desarrollador quiero implementar un card que se superpone para mostrar los perfiles completos de los abogados seleccionados.</td>
+        <td>US28</td>
+        <td>Creación y Gestión de Entidad de Usuario Médico/Estudiante</td>
+        <td>Como desarrollador, quiero crear la entidad de usuario que represente tanto a médicos como a estudiantes de medicina en la plataforma, para asegurar que todos los atributos necesarios estén disponibles para cada tipo de usuario.</td>
         <td>5</td>
     </tr>
     <tr>
         <td>17</td>
-        <td>US32</td>
-        <td>Implementar método para cargar información de abogado en el card que se superpone</td>
-        <td>Como desarrollador quiero implementar un método para cargar dinámicamente la información completa de un abogado seleccionado, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
-        <td>5</td>
-    </tr>
-    </tr>
-        <tr>
-        <td>18</td>
-        <td>US33</td>
-        <td>Implementación de la Entidad de Usuario</td>
-        <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
-        <td>5</td>
-    </tr>
-    <tr>
-    <tr>
-        <td>26</td>
-        <td>US02</td>
-        <td>Verificación de credenciales médicas</td>
-        <td>Como médico registrado en la plataforma, quiero que mi perfil pase por un proceso de verificación de credenciales médicas para aumentar mi credibilidad dentro de la comunidad y tener acceso a recursos especializados.</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>27</td>
-        <td>US03</td>
-        <td>Gestión de roles de cuentas</td>
-        <td>Como administrador de la plataforma, necesito poder asignar, modificar y revocar roles de usuario para gestionar adecuadamente el acceso a diversas áreas de la plataforma.</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>25</td>
         <td>US06</td>
         <td>Visualizar actividades del Usuario</td>
-        <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
+        <td>Como usuario de la plataforma de MedicDefense, quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>29</td>
-        <td>US07</td>
-        <td>Búsqueda por Filtros</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder realizar búsqueda por medio de filtros para facilitar el acceso a ello.</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>30</td>
+        <td>18</td>
         <td>US08</td>
         <td>Suscripción a un plan</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de suscribirme a un plan mensual o anual para tener los beneficios de la suscripción.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>31</td>
+        <td>19</td>
         <td>US10</td>
         <td>Visualización del caso y documentos</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentación de mi caso.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>32</td>
+        <td>20</td>
         <td>US11</td>
         <td>Contacto directo con mi medico asesor</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rápida y eficientemente con mi seleccionado medico asesor.</td>
         <td>5</td>
     </tr>
-        <tr>
-        <td>34</td>
-        <td>US18</td>
-        <td>Integración de pagos</td>
-        <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
-        <td>8</td>
-    </tr>
-        <tr>
-        <td>36</td>
+    <tr>
+        <td>21</td>
         <td>US20</td>
         <td>API para gestión de perfiles</td>
         <td>Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
         <td>5</td>
     </tr>
-        <tr>
-        <td>37</td>
-        <td>US21</td>
-        <td>Logging de Actividades</td>
-        <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
-        <td>8</td>
-    </tr>
-        <tr>
-        <td>38</td>
+    <tr>
+        <td>22</td>
         <td>US22</td>
         <td>API para búsqueda por filtros</td>
         <td>Como desarrollador, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>39</td>
+        <td>23</td>
         <td>US23</td>
         <td>Servicio de notificaciones</td>
         <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>40</td>
-        <td>US40</td>
+        <td>24</td>
+        <td>US30</td>
         <td>Creación y Gestión de Recursos Educativos</td>
         <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
         <td>5</td>
+    </tr>
     <tr>
-        <td>42</td>
-        <td>US42</td>
+        <td>25</td>
+        <td>US32</td>
         <td>Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
         <td>Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>43</td>
-        <td>US43</td>
+        <td>26</td>
+        <td>US33</td>
         <td>Obtener todas las notificaciones</td>
         <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>44</td>
-        <td>US44</td>
+        <td>27</td>
+        <td>US34</td>
         <td>Crear una nueva notificación</td>
         <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>45</td>
-        <td>US45</td>
+        <td>28</td>
+        <td>US35</td>
         <td>Obtener una notificación por ID</td>
         <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>46</td>
-        <td>US46</td>
+        <td>29</td>
+        <td>US36</td>
         <td>Creación y gestión de recursos de casos legales</td>
-        <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan
-        gestionar los casos legales.</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>47</td>
-        <td>US47</td>
+        <td>30</td>
+        <td>US37</td>
         <td>Creación y gestión de recursos de consultas</td>
-        <td>Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan
-        gestionar las consultas necesarias.</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan gestionar las consultas necesarias.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>48</td>
-        <td>US48</td>
+        <td>31</td>
+        <td>US38</td>
         <td>Creación y gestión de asuntos legales</td>
         <td>Como desarrollador backend, quiero implementar la creación y gestión de asuntos legales para que los administradores puedan gestionar los asuntos legales.</td>
         <td>5</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>US19</td>
+        <td>Base de datos de usuarios</td>
+        <td>Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>US27</td>
+        <td>Creación y Gestión de la Entidad de Abogados</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de la entidad de abogados en la base de datos para almacenar información detallada de los abogados.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>US29</td>
+        <td>Gestión de Suscripciones</td>
+        <td>Como desarrollador, quiero implementar la gestión de suscripciones para que los usuarios puedan ver, seleccionar y administrar sus planes de suscripción en la plataforma.</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>US18</td>
+        <td>Integración de pagos</td>
+        <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>US21</td>
+        <td>Logging de Actividades</td>
+        <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
+        <td>8</td>
     </tr>
 </table>
