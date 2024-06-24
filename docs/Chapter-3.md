@@ -98,7 +98,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>HU05</td>
         <td>Visualización de lista de tipos de suscripción</td>
         <td>Como visitante de la landing page de MedicDefense, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
-        <td>Scenario: El Usuario quiere visualizar tipos de suscripciones<br>
+        <td>Scenario: El visitante quiere visualizar tipos de suscripciones<br>
         <br>GIVEN el Cliente quiere visualizar los tipos de suscripciones enl sitio web<br>
         <br>WHEN tiene curiosidad sobre los precios de las suscripciones para usar el sitio web,<br>
         <br>AND complete las acciones para dirigirse al apartado,<br>
@@ -109,8 +109,8 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>HU06</td>
         <td>Visualizar actividades del Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
-        <td>Scenario: El Cliente quiere visualizar sus actividades en el sitio web<br>
-    <br>GIVEN el Cliente quiere visualizar sus actividades<br>
+        <td>Scenario: El usuario quiere visualizar sus actividades en el sitio web<br>
+    <br>GIVEN el usuario quiere visualizar sus actividades<br>
     <br>WHEN se le asignen en las asesorias y/o reuniones<br>
     <br>AND complete las acciones para dirigirse al apartado,<br>
     <br>THEN irá al apartado de "actividades" dentro del sitio web y podrá visualizarlos.</td>
