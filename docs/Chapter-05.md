@@ -2191,37 +2191,29 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 ### 5.2.4.5. Execution Evidence for Sprint Review
 Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de backend como la de frontend del proyecto "MedicDefense". Además, hemos logrado la conexión entre ambas partes, asegurando una integración fluida y funcional. Esto permite a los usuarios interactuar con las funcionalidades de la plataforma de manera eficiente y coherente.
 
-Enpoints:
+Endpoints:
 
-![alt text](../assets/imgs/endpoint-backendv2.png)
+![alt text](../assets/imgs/endp1.png)
+
+![alt text](../assets/imgs/endp2.png)
+
+![alt text](../assets/imgs/endp3.png)
+
+![alt text](../assets/imgs/endp4.png)
+
 
 Sing-In:
 
-![alt text](../assets/imgs/sing-inv2.png)
+![alt text](../assets/imgs/sign-in.png)
 
 Sing-Up:
 
-![alt text](../assets/imgs/sing-upv2.png)
+![alt text](../assets/imgs/sign-up.png)
 
 Lawyers:
 
-![alt text](../assets/imgs/lawyersv2.png)
+![alt text](../assets/imgs/ListaAbogados.png)
 
-Search Lawyers:
-
-![alt text](../assets/imgs/searchlawyersv2.png)
-
-Summary:
-
-![alt text](../assets/imgs/summaryv2.png)
-
-Profile:
-
-![alt text](../assets/imgs/profilev2.png)
-
-Educational Resources:
-
-![alt text](../assets/imgs/educationalresourcesv2.png)
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -2791,37 +2783,28 @@ Durante este sprint, se ha mejorado el back-end y front-end de una API integral 
 
 Capturas de interaccion:
 
-Enpoints:
+Endpoints:
 
-![alt text](../assets/imgs/endpoint-backendv2.png)
+![alt text](../assets/imgs/endp1.png)
+
+![alt text](../assets/imgs/endp2.png)
+
+![alt text](../assets/imgs/endp3.png)
+
+![alt text](../assets/imgs/endp4.png)
+
 
 Sing-In:
 
-![alt text](../assets/imgs/sing-ininteractionv2.png)
+![alt text](../assets/imgs/sign-in.png)
 
 Sing-Up:
 
-![alt text](../assets/imgs/sing-upinteractionv2.png)
+![alt text](../assets/imgs/sign-up.png)
 
 Lawyers:
 
-![alt text](../assets/imgs/lawyerinteractionsv2.png)
-
-Search Lawyers:
-
-![alt text](../assets/imgs/searchlawyerinteractionsv2.png)
-
-Summary:
-
-![alt text](../assets/imgs/summaryinteractionv2.png)
-
-Profile:
-
-![alt text](../assets/imgs/profileinteractionv2.png)
-
-Educational Resources:
-
-![alt text](../assets/imgs/educationalresourcesinteractionv2.png)
+![alt text](../assets/imgs/ListaAbogados.png)
 
 Url del repositorio Frontend: https://github.com/Open-Source-Grupo-Testigos-de-Jehova/frontend-app
 Url del repositorio Backend: https://github.com/Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense
@@ -2870,7 +2853,7 @@ Commits relacionados:
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 Para el desarrollo de la segunda version de Web Services y el Frontend Web Application, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
 
-![alt text](<../assets/imgs/Evidence Frontend.png>)
+
 
 ![alt text](<../assets/imgs/Evidence Backend.png>)
 
@@ -2879,15 +2862,11 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 **Commits:**
 
-![alt text](<../assets/imgs/Evidence Frontendv2.png>)
-
-![alt text](<../assets/imgs/Evidence Backendv2.png>)
+![alt text](<../assets/imgs/commits sprint 4.png>)
 
 **Analiticas de Colaboración:**
 
-![alt text](<../assets/imgs/NetworkGraph Frontendv2.png>)
-
-![alt text](<../assets/imgs/NetworkGraph Backendv2.png>)
+![alt text](<../assets/imgs/netwk sprint 4.png>)
 
 ## 5.3 Validation Interviews
 
