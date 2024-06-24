@@ -66,6 +66,12 @@ Relación de Integrantes:
     <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales, Carlos Avellaneda.</td>
     <td colspan="5">Capítulo V, Desarrollo Backend</td>
   </tr>
+  <tr>
+    <td colspan="3">7ma</td>
+    <td colspan="3">24/06/2024</td>
+    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales, Carlos Avellaneda.</td>
+    <td colspan="5">Capítulo V, Desarrollo Backend Y Frontend - Integracion</td>
+  </tr>
   </table>
 
 ## Project Report Collaboration Insights
