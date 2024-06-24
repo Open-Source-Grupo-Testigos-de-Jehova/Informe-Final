@@ -220,11 +220,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>HU18</td>
         <td>Integración de pagos</td>
         <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
-        <td>Scenario: Implementar un proceso de pago seguro para las suscripciones.<br>
-    <br>GIVEN un usuario ha elegido un plan de suscripción y desea pagar,<br>
-    <br>WHEN introduce la información de su método de pago y confirma la transacción,<br>
-    <br>AND el sistema verifica la validez de la información de pago,<br>
-    <br>THEN el sistema procesa el pago de forma segura y actualiza el estatus de la suscripción en la base de datos.</td>
+        <td>Scenario: Implementar un proceso de pago seguro para las suscripciones.<br><br>GIVEN el administrador ha elegido implementar un sistema de pagos seguro,<br><br>WHEN el administrador configura la información del método de pago y confirma la configuración,<br><br>AND el sistema verifica la validez de la información de pago,<br><br>THEN el sistema procesa la configuración de forma segura y actualiza el estatus del sistema de pagos en la base de datos.</td>
         <td>EP05</td>
     </tr>
     <td>HU19</td>
@@ -240,23 +236,14 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>HU20</td>
         <td>API para gestión de perfiles</td>
         <td>Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
-        <td>Scenario: Un administrador necesita actualizar información de un perfil por motivos de seguridad.<br>
-    <br>GIVEN que un perfil de usuario necesita actualización urgente,<br>
-    <br>WHEN el administrador modifica y guarda los cambios en el perfil,<br>
-    <br>AND confirma la operación,<br>
-    <br>THEN la API actualiza los datos en la base de datos,<br>
-    <br>AND notifica al administrador que la actualización fue exitosa.
+        <td>Scenario: Un desarrollador necesita actualizar información de un perfil por motivos de seguridad.<br><br>GIVEN que un desarrollador necesita actualizar la información de un perfil de usuario,<br><br>WHEN el administrador modifica y guarda los cambios en el perfil,<br><br>AND el administrador confirma la operación,<br><br>THEN la API actualiza los datos en la base de datos,<br><br>AND notifica al administrador que la actualización fue exitosa.
     </td>
         <td>EP06</td>
     </tr>
     <td>HU21</td>
         <td>Logging de Actividades</td>
         <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
-        <td>Scenario: Registrar una actividad crítica para la auditoría de seguridad.<br>
-    <br>GIVEN que se lleva a cabo una acción crítica en la plataforma,<br>
-    <br>WHEN la acción es ejecutada,<br>
-    <br>THEN el sistema registra detalladamente la acción en los logs de seguridad,<br>
-    <br>AND notifica a los administradores de seguridad sobre la actividad registrada.</td>
+        <td>Scenario: Registrar una actividad crítica para la auditoría de seguridad.<br><br>GIVEN el administrador lleva a cabo una acción crítica en la plataforma,<br><br>WHEN la acción es ejecutada,<br><br>THEN el sistema registra detalladamente la acción en los logs de seguridad,<br><br>AND notifica a los administradores de seguridad sobre la actividad registrada.</td>
         <td>EP05</td>
     </tr>
     <td>HU22</td>
@@ -271,21 +258,13 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>HU23</td>
         <td>Servicio de notificaciones</td>
         <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
-        <td>Scenario: Notificar a los usuarios sobre una actualización de seguridad importante.<br>
-    <br>GIVEN que se ha emitido una actualización de seguridad,<br>
-    <br>WHEN el sistema procesa la actualización,<br>
-    <br>AND identifica los usuarios afectados,<br>
-    <br>THEN el servicio de notificaciones envía automáticamente alertas,<br>
-    <br>AND los usuarios reciben las notificaciones en tiempo real.</td>
+        <td>Scenario: Notificar a los usuarios sobre una actualización de seguridad importante.<br><br>GIVEN que un desarrollador ha emitido una actualización de seguridad,<br><br>WHEN el sistema procesa la actualización,<br><br>AND identifica los usuarios afectados,<br><br>THEN el servicio de notificaciones envía automáticamente alertas,<br><br>AND los usuarios reciben las notificaciones en tiempo real.</td>
         <td>EP06</td>
     </tr>
     <td>HU24</td>
         <td>Soporte para múltiples navegadores</td>
         <td>Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
-        <td>Scenario: Verificar y asegurar la compatibilidad de la plataforma en diferentes navegadores.<br>
-    <br>GIVEN que los administradores y usuarios acceden a la plataforma desde diversos navegadores,<br>
-    <br>WHEN navegan y realizan operaciones críticas,<br>
-    <br>THEN el sistema mantiene una funcionalidad consistente y segura, sin importar el navegador utilizado.</td>
+        <td>Scenario: Verificar y asegurar la compatibilidad de la plataforma en diferentes navegadores.<br><br>GIVEN que un desarrollador necesita asegurar que los administradores y usuarios acceden a la plataforma desde diversos navegadores,<br><br>WHEN navegan y realizan operaciones críticas,<br><br>THEN el sistema mantiene una funcionalidad consistente y segura, sin importar el navegador utilizado.</td>
         <td>EP06</td>
     </tr>
         <tr>
@@ -427,16 +406,16 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan
     gestionar las consultas necesarias.</td>
     <td>Scenario: Crear una consulta
-    <br><br>GIVEN el desarrollaodr necesita crear una nueva consulta,
-    <br><br>WHEN el desarrollaodr realiza una solicitud POST con los detalles de la consulta,
+    <br><br>GIVEN el desarrollador necesita crear una nueva consulta,
+    <br><br>WHEN el desarrollador realiza una solicitud POST con los detalles de la consulta,
     <br><br>THEN se debe crear una nueva consulta en la base de datos.
     <br><br>Scenario: Obtener las consultas
-    <br><br>GIVEN el desarrollaodr necesita obtener las consultas,
-    <br><br>WHEN el desarrollaodr realiza una solicitud GET,
+    <br><br>GIVEN el desarrollador necesita obtener las consultas,
+    <br><br>WHEN el desarrollador realiza una solicitud GET,
     <br><br>THEN se debe devolver todas las consultas existentes.
     <br><br>Scenario: Eliminar las consultas
-    <br><br>GIVEN el desarrollaodr necesita eliminar una consulta,
-    <br><br>WHEN el desarrollaodr realiza una solicitud DELETE con el ID de la consulta,
+    <br><br>GIVEN el desarrollador necesita eliminar una consulta,
+    <br><br>WHEN el desarrollador realiza una solicitud DELETE con el ID de la consulta,
     <br><br>THEN se debe eliminar la consulta existente que coincida con el ID solicitado.</td>
     <td>EP06</td>
     </tr>
@@ -446,16 +425,16 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>Como desarrollador backend, quiero implementar la creación y gestión de asuntos legales para que los administradores puedan
     gestionar los asuntos legales.</td>
     <td>Scenario: Crear un asunto legal
-    <br><br>GIVEN el desarrollaodr necesita crear un nuevo asunto legal,
-    <br><br>WHEN el desarrollaodr realiza una solicitud POST con los detalles del asunto legal,
+    <br><br>GIVEN el desarrollador necesita crear un nuevo asunto legal,
+    <br><br>WHEN el desarrollador realiza una solicitud POST con los detalles del asunto legal,
     <br><br>THEN se debe crear un nuevo asunto legal en la base de datos.
     <br><br>Scenario: Obtener los asuntos legales
-    <br><br>GIVEN el desarrollaodr necesita obtener los asuntos legales,
-    <br><br>WHEN el desarrollaodr realiza una solicitud GET,
+    <br><br>GIVEN el desarrollador necesita obtener los asuntos legales,
+    <br><br>WHEN el desarrollador realiza una solicitud GET,
     <br><br>THEN se debe devolver todas los asuntos legales existentes.
     <br><br>Scenario: Obtener asunto legal por ID
-    <br><br>GIVEN el desarrollaodr necesita obtner un solo asunto legal,
-    <br><br>WHEN el desarrollaodr realiza una solicitud GET con el ID del asunto legal,
+    <br><br>GIVEN el desarrollador necesita obtner un solo asunto legal,
+    <br><br>WHEN el desarrollador realiza una solicitud GET con el ID del asunto legal,
     <br><br>THEN se debe obtener el asunto legal que coincida con el ID solicitado.</td>
     <td>EP06</td>
     </tr>
