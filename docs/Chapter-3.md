@@ -90,7 +90,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Eliminar cuenta Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense, quiero poder eliminar mi cuenta para no tener vinculo con el sitio web.</td>
         <td>Scenario: El Usuario elimina una cuenta<br>
-        <br>GIVEN el Cliente quiere eliminar su cuenta del sitio web<br>
+        <br>GIVEN el usuario quiere eliminar su cuenta del sitio web<br>
         <br>WHEN complete las verificaciones para ver que sea el usuario de la cuenta,<br><br>AND presione el botón "eliminar cuenta" del apartado de configuración,<br><br>THEN se eliminara su cuenta exitosamente.</td>
         <td>EP01</td>
     </tr>
@@ -99,7 +99,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Visualización de lista de tipos de suscripción</td>
         <td>Como visitante de la landing page de MedicDefense, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
         <td>Scenario: El visitante quiere visualizar tipos de suscripciones<br>
-        <br>GIVEN el Cliente quiere visualizar los tipos de suscripciones enl sitio web<br>
+        <br>GIVEN el visitante quiere visualizar los tipos de suscripciones enl sitio web<br>
         <br>WHEN tiene curiosidad sobre los precios de las suscripciones para usar el sitio web,<br>
         <br>AND complete las acciones para dirigirse al apartado,<br>
         <br>THEN irá al apartado "suscripciones" dentro del sitio web y podrá ver las promociones que tiene el sitio web.</td>
