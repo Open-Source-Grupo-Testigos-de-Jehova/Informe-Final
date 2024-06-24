@@ -2057,43 +2057,133 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
   <tbody>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Carlos Avellaneda</td>
-      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
-      <td>Merge Bounded Context of Consultation</td>
-      <td>-</td>
-      <td>05/06/2024</td>
+      <td>main</td>
+      <td>59e769c513a378a4414d879133e867bef833a636</td>
+      <td>add "bounded context paymentv"</td>
+      <td>created bounded context paymentv to backend</td>
+      <td>2024-06-06</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Anatoly Noriega</td>
-      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
-      <td>Merge Bounded Context of Educational</td>
-      <td>-</td>
-      <td>05/06/2024</td>
+      <td>main</td>
+      <td>92ae3c6157480b0c09b72a35ae45aeabae1d58d1</td>
+      <td>Merge branch 'main' into Augusto_Vasquez</td>
+      <td>Merge branch 'main' into Augusto_Vasquez in backend</td>
+      <td>2024-06-06</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Augusto Vasquez</td>
-      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
-      <td>Merge Bounded Context of Payment</td>
-      <td>-</td>
-      <td>05/06/2024</td>
+      <td>main</td>
+      <td>07a639f7b3df3895f07d7d323f8fd1280cc0f015</td>
+      <td>fix errors in the bounded context of resources</td>
+      <td>fix errors in the bounded context of resources in backend</td>
+      <td>2024-06-06</td>
     </tr>
     <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Diego Flores</td>
-      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
-      <td>Merge Bounded Context of Communication</td>
-      <td>-</td>
-      <td>05/06/2024</td>
+      <td>main</td>
+      <td>69d929c606ff00c95dc2b2508692f83b11858fc1</td>
+      <td>Afixed almost everything</td>
+      <td>fixed almost everything in backend</td>
+      <td>2024-06-21</td>
     </tr>
-     <tr>
+    <tr>
       <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Gabriel Garcia and Fabricio Apaza</td>
-      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
-      <td>Merge Bounded Context of Legal Case</td>
-      <td>-</td>
-      <td>05/06/2024</td>
+      <td>main</td>
+      <td>1af5038874aca02427713272e838f675e19d94d2</td>
+      <td>fixed minor errors</td>
+      <td>fixed minor errors in legalcase on backend</td>
+      <td>2024-06-21</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>4d965678671a66d81506d51ae4b1a610fa4b34b5</td>
+      <td>updated application properties adding connection to database from azure</td>
+      <td>Added: updated application properties adding connection to database from azure.</td>
+      <td>2024-06-22</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>378b8b5e689a646c8ac8b7c22168967ba509a3b9</td>
+      <td>fixed minor errors</td>
+      <td>fixed minor errors in connsultation on backend</td>
+      <td>2024-06-22</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>65bb95a2bc2c22263a0af59a452b72a29b4f320b</td>
+      <td>Merge remote-tracking branch 'origin/main'</td>
+      <td>Merge remote-tracking branch 'origin/main' in backend</td>
+      <td>2024-06-22</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>3123427451ba19f869aa6941f2d89524e12bacca</td>
+      <td>fixed minor errors</td>
+      <td>fixed minor errors in consultation on backend</td>
+      <td>2024-06-22</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>80d203139ffadda99327f4660fb5694ca9577c8f</td>
+      <td>fixed mayor errors</td>
+      <td>fixed mayor errors in ALLPROJECT on backend</td>
+      <td>2024-06-22</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>a4f05f726cdac2a809b62d48ccf977b4d5e46566</td>
+      <td>fixed mayor errors</td>
+      <td>fixed mayor errors in profile on backend</td>
+      <td>2024-06-22</td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>99ca7e43cbfd5bcd9ac7240bbc41a1433f6499ce</td>
+      <td>fixed mayor errors in profile on backend</td>
+      <td>fixed minor errors</td>
+      <td>2024-06-23</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>492fd88a91194fd9edc8eed218e62fe8e333f947</td>
+      <td>fixed mayor errors</td>
+      <td>fixed mayor errors in profile on backend</td>
+      <td>2024-06-23</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>ecc7c4b00e8b4fc68d838d1891b4ea9dab4773cb</td>
+      <td>added code comments</td>
+      <td>Added: code comments in profile</td>
+      <td>2024-06-23</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>c0bdc48626362d0007ac174c53a11abb21bb429c</td>
+      <td>added summary and sizes parameters</td>
+      <td>Added: summary and sizes parameters in legal case on backend</td>
+      <td>2024-06-23</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>65bb95a2bc2c22263a0af59a452b72a29b4f320b</td>
+      <td>fixed mayor errors</td>
+      <td>fixed mayor errors in configuration</td>
+      <td>2024-06-24</td>
     </tr>
   </tbody>
 </table>
