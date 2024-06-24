@@ -475,7 +475,7 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
 
 <table>
     <tr>
-        <th>#Orden</th>
+        <th>Orden</th>
         <th>User Story/Technical Story Id</th>
         <th>Título</th>
         <th>Descripción</th>
@@ -567,167 +567,181 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
     </tr>
     <tr>
         <td>13</td>
+        <td>US03</td>
+        <td>Gestión de Roles de Cuentas</td>
+        <td>Como administrador de la plataforma, necesito poder asignar, modificar y revocar roles de usuario para gestionar adecuadamente el acceso a diversas áreas de la plataforma.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>US02</td>
+        <td>Verificación de Credenciales Médicas</td>
+        <td>Como médico registrado en la plataforma, quiero que mi perfil pase por un proceso de verificación de credenciales médicas para aumentar mi credibilidad dentro de la comunidad y tener acceso a recursos especializados.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>15</td>
         <td>US13</td>
         <td>Visualización de servicios</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>14</td>
+        <td>16</td>
         <td>US14</td>
         <td>Sección de contacto</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>15</td>
+        <td>17</td>
         <td>US07</td>
         <td>Interfaz de filtros de Busqueda</td>
         <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>16</td>
+        <td>18</td>
         <td>US28</td>
         <td>Creación y Gestión de Entidad de Usuario Médico/Estudiante</td>
         <td>Como desarrollador, quiero crear la entidad de usuario que represente tanto a médicos como a estudiantes de medicina en la plataforma, para asegurar que todos los atributos necesarios estén disponibles para cada tipo de usuario.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>17</td>
+        <td>19</td>
         <td>US06</td>
         <td>Visualizar actividades del Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense, quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>18</td>
+        <td>20</td>
         <td>US08</td>
         <td>Suscripción a un plan</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de suscribirme a un plan mensual o anual para tener los beneficios de la suscripción.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>19</td>
+        <td>21</td>
         <td>US10</td>
         <td>Visualización del caso y documentos</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentación de mi caso.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>20</td>
+        <td>22</td>
         <td>US11</td>
         <td>Contacto directo con mi medico asesor</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rápida y eficientemente con mi seleccionado medico asesor.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>21</td>
+        <td>23</td>
         <td>US20</td>
         <td>API para gestión de perfiles</td>
         <td>Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>22</td>
+        <td>24</td>
         <td>US22</td>
         <td>API para búsqueda por filtros</td>
         <td>Como desarrollador, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>23</td>
+        <td>25</td>
         <td>US23</td>
         <td>Servicio de notificaciones</td>
         <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>24</td>
+        <td>26</td>
         <td>US30</td>
         <td>Creación y Gestión de Recursos Educativos</td>
         <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>25</td>
+        <td>27</td>
         <td>US32</td>
         <td>Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
         <td>Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>26</td>
+        <td>28</td>
         <td>US33</td>
         <td>Obtener todas las notificaciones</td>
         <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>27</td>
+        <td>29</td>
         <td>US34</td>
         <td>Crear una nueva notificación</td>
         <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>28</td>
+        <td>30</td>
         <td>US35</td>
         <td>Obtener una notificación por ID</td>
         <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>29</td>
+        <td>31</td>
         <td>US36</td>
         <td>Creación y gestión de recursos de casos legales</td>
         <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>30</td>
+        <td>32</td>
         <td>US37</td>
         <td>Creación y gestión de recursos de consultas</td>
         <td>Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan gestionar las consultas necesarias.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>31</td>
+        <td>33</td>
         <td>US38</td>
         <td>Creación y gestión de asuntos legales</td>
         <td>Como desarrollador backend, quiero implementar la creación y gestión de asuntos legales para que los administradores puedan gestionar los asuntos legales.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>32</td>
+        <td>34</td>
         <td>US19</td>
         <td>Base de datos de usuarios</td>
         <td>Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>33</td>
+        <td>35</td>
         <td>US27</td>
         <td>Creación y Gestión de la Entidad de Abogados</td>
         <td>Como desarrollador backend, quiero implementar la creación y gestión de la entidad de abogados en la base de datos para almacenar información detallada de los abogados.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>34</td>
+        <td>36</td>
         <td>US29</td>
         <td>Gestión de Suscripciones</td>
         <td>Como desarrollador, quiero implementar la gestión de suscripciones para que los usuarios puedan ver, seleccionar y administrar sus planes de suscripción en la plataforma.</td>
         <td>8</td>
     </tr>
     <tr>
-        <td>35</td>
+        <td>37</td>
         <td>US18</td>
         <td>Integración de pagos</td>
         <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
         <td>8</td>
     </tr>
     <tr>
-        <td>36</td>
+        <td>38</td>
         <td>US21</td>
         <td>Logging de Actividades</td>
         <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
