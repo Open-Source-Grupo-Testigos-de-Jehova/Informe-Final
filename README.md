@@ -84,17 +84,17 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
 
-![Git hub contributors TB1](<../Informe-Final/assets/imgs/TB1 OS F.png>)
+![Git hub contributors TB1](<../Informe-Final/assets/imgs/TB1OS.png>)
 **Entrega N°2: TP1**
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas a corregir para cada capitulo permitiendo asi mejorar el informe y a la vez anvazar con el forntend application
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
-![Git hub contributors TP](<../Informe-Final/assets/imgs/TP OS.png>)
+![Git hub contributors TP](<../Informe-Final/assets/imgs/TPOS.png>)
 **Entrega N°3: TB2**
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas a corregir para cada capitulo permitiendo asi mejorar el informe y a la vez anvazar con el frontend application
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
-![Git hub contributors TB2](<../Informe-Final/assets/imgs/TB2 OS.png>)
+![Git hub contributors TB2](<../Informe-Final/assets/imgs/TB2OS.png>)
 
 **Entrega N°4: TF**
 - Todos los miembros del equipo contribuyeron en esta ultima entrega, tanto en corregir los errores del informe, y la implementacion requerida del front y back end.
