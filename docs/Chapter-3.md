@@ -139,41 +139,31 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
    <td>HU09</td>
     <td>Perfil de abogado médico</td>
-    <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
+    <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil" para obtener más información y evaluar su adecuación a mis necesidades legales.</td>
     <td>Scenario: Acceso al perfil completo de un abogado<br><br>GIVEN el usuario está interesado en conocer más sobre un abogado en particular,<br><br>WHEN hace clic en el botón "Perfil" asociado a un abogado en la página principal,<br><br>THEN espera que se abra un card que se superpone mostrando el perfil completo del abogado seleccionado.</td>
     <td>EP02</td>
     </tr>
-    <tr>
+     <tr>
     <td>HU10</td>
-        <td>Visualización del caso y documentos</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
-        <td>Scenario: Visualización de documentacion<br>
-    <br>GIVEN un usuario quiere ver su caso con su respectiva documentacion en MedicDefense,<br>
-    <br>WHEN entre a la sección “Resumen DE”,<br>
-    <br>AND seleccione su caso,<br>
-    <br>THEN podrá visualizar toda la documentacion de su caso.</td>
-        <td>EP02</td>
-    </tr>
-    <tr>
+    <td>Visualización del caso y documentos</td>
+    <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de visualizar toda la documentación de mi caso para gestionar mejor mi defensa y mantenerme informado del progreso del caso.</td>
+    <td>Scenario: Visualización de documentación<br><br>GIVEN un usuario quiere ver su caso con su respectiva documentación en MedicDefense,<br><br>WHEN entre a la sección “Resumen DE”,<br><br>AND seleccione su caso,<br><br>THEN podrá visualizar toda la documentación de su caso.</td>
+    <td>EP02</td>
+  </tr>
+  <tr>
     <td>HU11</td>
-        <td>Contacto directo con mi medico asesor</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
-        <td>Scenario: Contacto con el medido asesor seleccionado<br>
-    <br>GIVEN un usuario quiere contactarse con su medico asesor en MedicDefense,<br>
-    <br>WHEN entre a la sección “Perfiles de Abogados” dentro del sitio web,<br>
-    <br>THEN tendrá la informacion del medico asesor que seleccionó para poder tener contacto con él.</td>
-        <td>EP04</td>
-    </tr>
-    <tr>
+    <td>Contacto directo con mi médico asesor</td>
+    <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rápida y eficientemente con mi seleccionado médico asesor para discutir detalles importantes y recibir asesoramiento personalizado.</td>
+    <td>Scenario: Contacto con el médico asesor seleccionado<br><br>GIVEN un usuario quiere contactarse con su médico asesor en MedicDefense,<br><br>WHEN entre a la sección “Perfiles de Abogados” dentro del sitio web,<br><br>THEN tendrá la información del médico asesor que seleccionó para poder tener contacto con él.</td>
+    <td>EP04</td>
+  </tr>
+  <tr>
     <td>HU12</td>
-        <td>Cambiar de medico asesor</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si asi lo deseara por motivos personales o reservados.</td>
-        <td>Scenario: Cambio de medico defensor/asesor<br>
-    <br>GIVEN que el usuario que quiere cambiar de medico defensor o asesor<br>
-    <br>WHEN  asi lo desee el usuario poder tener contacto con el sitio web y solicitarles personalmente un cambio en el medico que me esta defendiendo o asesorando,<br>
-    <br>THEN entra a la sección "Contacto", esperando que se acepte la solicitud de cambio.</td>
-        <td>EP01</td>
-    </tr>
+    <td>Cambiar de médico asesor</td>
+    <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de médico asesor si así lo deseara para asegurar que el soporte recibido se alinee mejor con mis necesidades y expectativas personales.</td>
+    <td>Scenario: Cambio de médico defensor/asesor<br><br>GIVEN que el usuario que quiere cambiar de médico defensor o asesor,<br><br>WHEN así lo desee el usuario poder tener contacto con el sitio web y solicitarles personalmente un cambio en el médico que me está defendiendo o asesorando,<br><br>THEN entra a la sección "Contacto", esperando que se acepte la solicitud de cambio.</td>
+    <td>EP01</td>
+  </tr>
     <tr>
     <td>HU13</td>
         <td>Visualización de servicios</td>
@@ -485,14 +475,14 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>4</td>
         <td>US09</td>
         <td>Perfil de abogado médico</td>
-        <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".</td>
+        <td>Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil" para obtener más información y evaluar su adecuación a mis necesidades legales.</td>
         <td>3</td>
     </tr>
-    <tr>
+   <tr>
         <td>5</td>
         <td>US12</td>
         <td>Cambiar de medico asesor</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si así lo deseara por motivos personales o reservados.</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder cambiar de medico asesor si así lo deseara para asegurar que el soporte recibido se alinee mejor con mis necesidades y expectativas personales.</td>
         <td>3</td>
     </tr>
     <tr>
@@ -604,14 +594,14 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>21</td>
         <td>US10</td>
         <td>Visualización del caso y documentos</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentación de mi caso.</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de visualizar toda la documentación de mi caso para gestionar mejor mi defensa y mantenerme informado del progreso del caso.</td>
         <td>5</td>
     </tr>
     <tr>
         <td>22</td>
         <td>US11</td>
         <td>Contacto directo con mi medico asesor</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rápida y eficientemente con mi seleccionado medico asesor.</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rápida y eficientemente con mi seleccionado medico asesor para discutir detalles importantes y recibir asesoramiento personalizado.</td>
         <td>5</td>
     </tr>
     <tr>
