@@ -1763,11 +1763,11 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
-    <td colspan="8">51 story points</td>
+    <td colspan="8">88 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">51 Story Points</td>
+    <td colspan="8">88 Story Points</td>
 </tr>
 </table>
 
