@@ -1715,6 +1715,1090 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 ![alt text](<../assets/imgs/NetworkGraph Backend.png>)
 
+### 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-06-19</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">8:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Garcia</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Anatoly Noriega, Mathias Vasquez, Carlos Avellaneda</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 4 Review Summary</td>
+    <td colspan="8">En esta sección se corrigieron los errores dentro del informe, se mejoró el front y el back para hacer la conexión con la API y el sitio web.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 4 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en algunas partes del código desarrollado. Sin embargo, se pudo hacer un consenso y mejorar nuestras habilidades al realizar la conexión con la API y el sitio web.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Corregir errores e implementar la conexión entre el front y el back con la API y el sitio web.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">51 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">51 Story Points</td>
+</tr>
+</table>
+
+### 5.2.4.2. Sprint Backlog 4
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 4</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To-do /InProcess /To-Review /Done)</td>
+</tr>
+<tr>
+    <td colspan="1">24</td>
+    <td colspan="2">Soporte para múltiples navegadores</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Soporte para múltiples navegadores</td>
+    <td colspan="3">Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">33</td>
+    <td colspan="2">Obtener todas las notificaciones</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Obtener todas las notificaciones</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">34</td>
+    <td colspan="2">Crear una nueva notificación</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Crear una nueva notificación</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">35</td>
+    <td colspan="2">Obtener una notificación por ID</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Obtener una notificación por ID</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">19</td>
+    <td colspan="2">Base de datos de usuarios</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Base de datos de usuarios</td>
+    <td colspan="3">Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">25</td>
+    <td colspan="2">Configuración de la base de datos</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Configuración de la base de datos</td>
+    <td colspan="3">Como desarrollador, quiero diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">20</td>
+    <td colspan="2">API para gestión de perfiles</td>
+    <td colspan="1">7</td>
+    <td colspan="2">API para gestión de perfiles</td>
+    <td colspan="3">Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">22</td>
+    <td colspan="2">API para búsqueda por filtros</td>
+    <td colspan="1">8</td>
+    <td colspan="2">API para búsqueda por filtros</td>
+    <td colspan="3">Como desarrollador, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">27</td>
+    <td colspan="2">Creación y Gestión de la Entidad de Abogados</td>
+    <td colspan="1">9</td>
+    <td colspan="2">Creación y Gestión de la Entidad de Abogados</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de la entidad de abogados en la base de datos para almacenar información detallada de los abogados.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">03</td>
+    <td colspan="2">Gestión de Roles de Cuentas</td>
+    <td colspan="1">10</td>
+    <td colspan="2">Gestión de Roles de Cuentas</td>
+    <td colspan="3">Como administrador de la plataforma, necesito poder asignar, modificar y revocar roles de usuario para gestionar adecuadamente el acceso a diversas áreas de la plataforma.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">37</td>
+    <td colspan="2">Creación y gestión de recursos de consultas</td>
+    <td colspan="1">11</td>
+    <td colspan="2">Creación y gestión de recursos de consultas</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan gestionar las consultas necesarias.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">01</td>
+    <td colspan="2">Gestión de las cuentas de los usuarios</td>
+    <td colspan="1">12</td>
+    <td colspan="2">Gestión de las cuentas de los usuarios</td>
+    <td colspan="3">Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Carlos</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">36</td>
+    <td colspan="2">Creación y gestión de recursos de casos legales</td>
+    <td colspan="1">13</td>
+    <td colspan="2">Creación y gestión de recursos de casos legales</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Carlos</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">06</td>
+    <td colspan="2">Visualizar actividades del Usuario</td>
+    <td colspan="1">14</td>
+    <td colspan="2">Visualizar actividades del Usuario</td>
+    <td colspan="3">Como usuario de la plataforma de MedicDefense, quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">31</td>
+    <td colspan="2">Implementación de Categorías de Recursos</td>
+    <td colspan="1">15</td>
+    <td colspan="2">Implementación de Categorías de Recursos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías de los recursos educativos para organizar los recursos de manera eficiente.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">30</td>
+    <td colspan="2">Creación y Gestión de Recursos Educativos</td>
+    <td colspan="1">16</td>
+    <td colspan="2">Creación y Gestión de Recursos Educativos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">32</td>
+    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td colspan="1">17</td>
+    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">29</td>
+    <td colspan="2">Gestión de Suscripciones</td>
+    <td colspan="1">18</td>
+    <td colspan="2">Gestión de Suscripciones</td>
+    <td colspan="3">Como desarrollador, quiero implementar la gestión de suscripciones para que los usuarios puedan ver, seleccionar y administrar sus planes de suscripción en la plataforma.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Mathias</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">18</td>
+    <td colspan="2">Integración de pagos</td>
+    <td colspan="1">19</td>
+    <td colspan="2">Integración de pagos</td>
+    <td colspan="3">Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Mathias</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+### 5.2.4.3. Development Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Carlos Avellaneda</td>
+      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
+      <td>Merge Bounded Context of Consultation</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Anatoly Noriega</td>
+      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+      <td>Merge Bounded Context of Educational</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Augusto Vasquez</td>
+      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+      <td>Merge Bounded Context of Payment</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Diego Flores</td>
+      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+      <td>Merge Bounded Context of Communication</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Gabriel Garcia and Fabricio Apaza</td>
+      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+      <td>Merge Bounded Context of Legal Case</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Carlos Avellaneda</td>
+      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
+      <td>Merge Bounded Context of Consultation</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Anatoly Noriega</td>
+      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+      <td>Merge Bounded Context of Educational</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Augusto Vasquez</td>
+      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+      <td>Merge Bounded Context of Payment</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Diego Flores</td>
+      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+      <td>Merge Bounded Context of Communication</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Gabriel Garcia and Fabricio Apaza</td>
+      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+      <td>Merge Bounded Context of Legal Case</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de backend como la de frontend del proyecto "MedicDefense". Además, hemos logrado la conexión entre ambas partes, asegurando una integración fluida y funcional. Esto permite a los usuarios interactuar con las funcionalidades de la plataforma de manera eficiente y coherente.
+
+Enpoints:
+
+![alt text](../assets/imgs/endpoint-backendv2.png)
+
+Sing-In:
+
+![alt text](../assets/imgs/sing-inv2.png)
+
+Sing-Up:
+
+![alt text](../assets/imgs/sing-upv2.png)
+
+Lawyers:
+
+![alt text](../assets/imgs/lawyersv2.png)
+
+Search Lawyers:
+
+![alt text](../assets/imgs/searchlawyersv2.png)
+
+Summary:
+
+![alt text](../assets/imgs/summaryv2.png)
+
+Profile:
+
+![alt text](../assets/imgs/profilev2.png)
+
+Educational Resources:
+
+![alt text](../assets/imgs/educationalresourcesv2.png)
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se ha mejorado el back-end y front-end de una API integral utilizando Java, JPA (Java Persistence API) y siguiendo los principios de Domain-Driven Design (DDD). Además, se ha realizado la conexión entre ambos. Esta API proporciona una amplia gama de funcionalidades, incluyendo la gestión de abogados, recursos educativos, pagos, casos legales, consultas, notificaciones, perfiles, especialidades, roles, usuarios y universidades. La información detallada sobre estos elementos se maneja mediante diversos endpoints que permiten operaciones como listar, crear, actualizar y eliminar registros, utilizando la convención de nomenclatura snake_case para los campos. Estas mejoras aseguran una cobertura completa y eficiente de las necesidades del sistema, facilitando tanto la interacción de los usuarios con la plataforma como la gestión interna de los datos.
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+  <tr>
+    <td>/api/v1/medic/{recordId}/add-one-to-paid-service</td>
+    <td>Añadir servicio pagado</td>
+    <td>PUT</td>
+    <td>/api/v1/medic/{recordId}/add-one-to-paid-service</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/medic/1/add-one-to-paid-service</td>
+    <td>200 OK: Añade un servicio pagado al registro especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic/{recordId}/add-one-to-consultation</td>
+    <td>Añadir consulta</td>
+    <td>PUT</td>
+    <td>/api/v1/medic/{recordId}/add-one-to-consultation</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/medic/1/add-one-to-consultation</td>
+    <td>200 OK: Añade una consulta al registro especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/medic</td>
+    <td>-</td>
+    <td>GET /api/v1/medic</td>
+    <td>200 OK: Devuelve una lista de todos los médicos.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/medic</td>
+    <td>-</td>
+    <td>POST /api/v1/medic</td>
+    <td>201 Created: Crea un nuevo médico.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic/{userId}/user</td>
+    <td>Obtener por usuario</td>
+    <td>GET</td>
+    <td>/api/v1/medic/{userId}/user</td>
+    <td>userId</td>
+    <td>GET /api/v1/medic/1/user</td>
+    <td>200 OK: Devuelve los detalles del médico para el usuario especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic/{recordId}/medic-defense-record</td>
+    <td>Obtener registro de defensa médica</td>
+    <td>GET</td>
+    <td>/api/v1/medic/{recordId}/medic-defense-record</td>
+    <td>recordId</td>
+    <td>GET /api/v1/medic/1/medic-defense-record</td>
+    <td>200 OK: Devuelve el registro de defensa médica para el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic/{profileId}/profile</td>
+    <td>Obtener perfil</td>
+    <td>GET</td>
+    <td>/api/v1/medic/{profileId}/profile</td>
+    <td>profileId</td>
+    <td>GET /api/v1/medic/1/profile</td>
+    <td>200 OK: Devuelve el perfil del médico para el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{legalIssueId}/{respond}</td>
+    <td>Responder a una cuestión legal</td>
+    <td>PUT</td>
+    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{legalIssueId}/{respond}</td>
+    <td>legalConsultationId, legalIssueId, respond</td>
+    <td>PUT /api/v1/legal-consultation/1/LegalIssue/1/respond</td>
+    <td>200 OK: Responde a la cuestión legal especificada.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{legalIssueId}/close</td>
+    <td>Cerrar cuestión legal</td>
+    <td>PUT</td>
+    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{legalIssueId}/close</td>
+    <td>legalConsultationId, legalIssueId</td>
+    <td>PUT /api/v1/legal-consultation/1/LegalIssue/1/close</td>
+    <td>200 OK: Cierra la cuestión legal especificada.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{issueName}</td>
+    <td>Crear cuestión legal</td>
+    <td>POST</td>
+    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{issueName}</td>
+    <td>legalConsultationId, issueName</td>
+    <td>POST /api/v1/legal-consultation/1/LegalIssue/nueva-cuestion</td>
+    <td>201 Created: Crea una nueva cuestión legal para la consulta especificada.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue</td>
+    <td>Listar cuestiones legales</td>
+    <td>GET</td>
+    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue</td>
+    <td>legalConsultationId</td>
+    <td>GET /api/v1/legal-consultation/1/LegalIssue</td>
+    <td>200 OK: Devuelve una lista de cuestiones legales para la consulta especificada.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/LegalIssue</td>
+    <td>Listar todas las cuestiones legales</td>
+    <td>GET</td>
+    <td>/api/v1/LegalIssue</td>
+    <td>-</td>
+    <td>GET /api/v1/LegalIssue</td>
+    <td>200 OK: Devuelve una lista de todas las cuestiones legales.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/LegalIssue/{legalIssueId}</td>
+    <td>Obtener cuestión legal</td>
+    <td>GET</td>
+    <td>/api/v1/LegalIssue/{legalIssueId}</td>
+    <td>legalIssueId</td>
+    <td>GET /api/v1/LegalIssue/1</td>
+    <td>200 OK: Devuelve los detalles de la cuestión legal con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legalcases</td>
+    <td>Listar casos legales</td>
+    <td>GET</td>
+    <td>/api/v1/legalcases</td>
+    <td>-</td>
+    <td>GET /api/v1/legalcases</td>
+    <td>200 OK: Devuelve una lista de todos los casos legales.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legalcases</td>
+    <td>Crear caso legal</td>
+    <td>POST</td>
+    <td>/api/v1/legalcases</td>
+    <td>-</td>
+    <td>POST /api/v1/legalcases</td>
+    <td>201 Created: Crea un nuevo caso legal.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legalcases/{legalCaseId}/close</td>
+    <td>Cerrar caso legal</td>
+    <td>POST</td>
+    <td>/api/v1/legalcases/{legalCaseId}/close</td>
+    <td>legalCaseId</td>
+    <td>POST /api/v1/legalcases/1/close</td>
+    <td>200 OK: Cierra el caso legal especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legalcases/{status}</td>
+    <td>Obtener casos legales por estado</td>
+    <td>GET</td>
+    <td>/api/v1/legalcases/{status}</td>
+    <td>status</td>
+    <td>GET /api/v1/legalcases/abierto</td>
+    <td>200 OK: Devuelve una lista de casos legales con el estado especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legalcases/{legalCaseId}</td>
+    <td>Obtener caso legal</td>
+    <td>GET</td>
+    <td>/api/v1/legalcases/{legalCaseId}</td>
+    <td>legalCaseId</td>
+    <td>GET /api/v1/legalcases/1</td>
+    <td>200 OK: Devuelve los detalles del caso legal con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/notifications</td>
+    <td>Listar notificaciones</td>
+    <td>GET</td>
+    <td>/api/v1/notifications</td>
+    <td>-</td>
+    <td>GET /api/v1/notifications</td>
+    <td>200 OK: Devuelve una lista de todas las notificaciones.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/notifications</td>
+    <td>Crear notificación</td>
+    <td>POST</td>
+    <td>/api/v1/notifications</td>
+    <td>-</td>
+    <td>POST /api/v1/notifications</td>
+    <td>201 Created: Crea una nueva notificación.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/notifications/{notificationId}</td>
+    <td>Obtener notificación</td>
+    <td>GET</td>
+    <td>/api/v1/notifications/{notificationId}</td>
+    <td>notificationId</td>
+    <td>GET /api/v1/notifications/1</td>
+    <td>200 OK: Devuelve los detalles de la notificación con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultations</td>
+    <td>Listar consultas legales</td>
+    <td>GET</td>
+    <td>/api/v1/legal-consultations</td>
+    <td>-</td>
+    <td>GET /api/v1/legal-consultations</td>
+    <td>200 OK: Devuelve una lista de todas las consultas legales.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultations</td>
+    <td>Crear consulta legal</td>
+    <td>POST</td>
+    <td>/api/v1/legal-consultations</td>
+    <td>-</td>
+    <td>POST /api/v1/legal-consultations</td>
+    <td>201 Created: Crea una nueva consulta legal.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultations/{legalConsultationId}</td>
+    <td>Obtener consulta legal</td>
+    <td>GET</td>
+    <td>/api/v1/legal-consultations/{legalConsultationId}</td>
+    <td>legalConsultationId</td>
+    <td>GET /api/v1/legal-consultations/1</td>
+    <td>200 OK: Devuelve los detalles de la consulta legal con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultations/{legalConsultationId}</td>
+    <td>Eliminar consulta legal</td>
+    <td>DELETE</td>
+    <td>/api/v1/legal-consultations/{legalConsultationId}</td>
+    <td>legalConsultationId</td>
+    <td>DELETE /api/v1/legal-consultations/1</td>
+    <td>200 OK: Elimina la consulta legal con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic_student/{recordId}/add-one-to-paid-service</td>
+    <td>Añadir servicio pagado</td>
+    <td>PUT</td>
+    <td>/api/v1/medic_student/{recordId}/add-one-to-paid-service</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/medic_student/1/add-one-to-paid-service</td>
+    <td>200 OK: Añade un servicio pagado al registro especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic_student/{recordId}/add-one-to-consultation</td>
+    <td>Añadir consulta</td>
+    <td>PUT</td>
+    <td>/api/v1/medic_student/{recordId}/add-one-to-consultation</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/medic_student/1/add-one-to-consultation</td>
+    <td>200 OK: Añade una consulta al registro especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic_student</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/medic_student</td>
+    <td>-</td>
+    <td>GET /api/v1/medic_student</td>
+    <td>200 OK: Devuelve una lista de todos los estudiantes de medicina.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic_student</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/medic_student</td>
+    <td>-</td>
+    <td>POST /api/v1/medic_student</td>
+    <td>201 Created: Crea un nuevo estudiante de medicina.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic_student/{recordId}/universities/{universityName}</td>
+    <td>Añadir universidad</td>
+    <td>POST</td>
+    <td>/api/v1/medic_student/{recordId}/universities/{universityName}</td>
+    <td>recordId, universityName</td>
+    <td>POST /api/v1/medic_student/1/universities/Harvard</td>
+    <td>200 OK: Añade una universidad al registro especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic_student/{userId}/user</td>
+    <td>Obtener por usuario</td>
+    <td>GET</td>
+    <td>/api/v1/medic_student/{userId}/user</td>
+    <td>userId</td>
+    <td>GET /api/v1/medic_student/1/user</td>
+    <td>200 OK: Devuelve los detalles del estudiante de medicina para el usuario especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic_student/{recordId}/medic-defense-record</td>
+    <td>Obtener registro de defensa médica</td>
+    <td>GET</td>
+    <td>/api/v1/medic_student/{recordId}/medic-defense-record</td>
+    <td>recordId</td>
+    <td>GET /api/v1/medic_student/1/medic-defense-record</td>
+    <td>200 OK: Devuelve el registro de defensa médica para el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/authentication/sign-up</td>
+    <td>Registrarse</td>
+    <td>POST</td>
+    <td>/api/v1/authentication/sign-up</td>
+    <td>-</td>
+    <td>POST /api/v1/authentication/sign-up</td>
+    <td>201 Created: Registra un nuevo usuario.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/authentication/sign-in</td>
+    <td>Iniciar sesión</td>
+    <td>POST</td>
+    <td>/api/v1/authentication/sign-in</td>
+    <td>-</td>
+    <td>POST /api/v1/authentication/sign-in</td>
+    <td>200 OK: Inicia sesión un usuario.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles/{profileId}/Phone</td>
+    <td>Actualizar teléfono</td>
+    <td>PUT</td>
+    <td>/api/v1/profiles/{profileId}/Phone</td>
+    <td>profileId</td>
+    <td>PUT /api/v1/profiles/1/Phone</td>
+    <td>200 OK: Actualiza el número de teléfono del perfil especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles/{profileId}/Name</td>
+    <td>Actualizar nombre</td>
+    <td>PUT</td>
+    <td>/api/v1/profiles/{profileId}/Name</td>
+    <td>profileId</td>
+    <td>PUT /api/v1/profiles/1/Name</td>
+    <td>200 OK: Actualiza el nombre del perfil especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles/{profileId}/ImgUrl</td>
+    <td>Actualizar imagen de perfil</td>
+    <td>PUT</td>
+    <td>/api/v1/profiles/{profileId}/ImgUrl</td>
+    <td>profileId</td>
+    <td>PUT /api/v1/profiles/1/ImgUrl</td>
+    <td>200 OK: Actualiza la imagen de perfil del perfil especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles/{profileId}/Email</td>
+    <td>Actualizar correo electrónico</td>
+    <td>PUT</td>
+    <td>/api/v1/profiles/{profileId}/Email</td>
+    <td>profileId</td>
+    <td>PUT /api/v1/profiles/1/Email</td>
+    <td>200 OK: Actualiza el correo electrónico del perfil especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles/{profileId}/DNI</td>
+    <td>Actualizar DNI</td>
+    <td>PUT</td>
+    <td>/api/v1/profiles/{profileId}/DNI</td>
+    <td>profileId</td>
+    <td>PUT /api/v1/profiles/1/DNI</td>
+    <td>200 OK: Actualiza el DNI del perfil especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles</td>
+    <td>Listar perfiles</td>
+    <td>GET</td>
+    <td>/api/v1/profiles</td>
+    <td>-</td>
+    <td>GET /api/v1/profiles</td>
+    <td>200 OK: Devuelve una lista de todos los perfiles.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles</td>
+    <td>Crear perfil</td>
+    <td>POST</td>
+    <td>/api/v1/profiles</td>
+    <td>-</td>
+    <td>POST /api/v1/profiles</td>
+    <td>201 Created: Crea un nuevo perfil.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles/{profileId}/specialitys/{specialityName}</td>
+    <td>Añadir especialidad</td>
+    <td>POST</td>
+    <td>/api/v1/profiles/{profileId}/specialitys/{specialityName}</td>
+    <td>profileId, specialityName</td>
+    <td>POST /api/v1/profiles/1/specialitys/dermatología</td>
+    <td>200 OK: Añade una especialidad al perfil especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles/{profileId}</td>
+    <td>Obtener perfil</td>
+    <td>GET</td>
+    <td>/api/v1/profiles/{profileId}</td>
+    <td>profileId</td>
+    <td>GET /api/v1/profiles/1</td>
+    <td>200 OK: Devuelve los detalles del perfil con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/educational-resources</td>
+    <td>Listar recursos educativos</td>
+    <td>GET</td>
+    <td>/api/v1/educational-resources</td>
+    <td>-</td>
+    <td>GET /api/v1/educational-resources</td>
+    <td>200 OK: Devuelve una lista de todos los recursos educativos.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/educational-resources</td>
+    <td>Crear recurso educativo</td>
+    <td>POST</td>
+    <td>/api/v1/educational-resources</td>
+    <td>-</td>
+    <td>POST /api/v1/educational-resources</td>
+    <td>201 Created: Crea un nuevo recurso educativo.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/educational-resources/{id}</td>
+    <td>Obtener recurso educativo</td>
+    <td>GET</td>
+    <td>/api/v1/educational-resources/{id}</td>
+    <td>id</td>
+    <td>GET /api/v1/educational-resources/1</td>
+    <td>200 OK: Devuelve los detalles del recurso educativo con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/educational-resources/all</td>
+    <td>Listar todos los recursos educativos</td>
+    <td>GET</td>
+    <td>/api/v1/educational-resources/all</td>
+    <td>-</td>
+    <td>GET /api/v1/educational-resources/all</td>
+    <td>200 OK: Devuelve una lista de todos los recursos educativos.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers/{recordId}/price</td>
+    <td>Actualizar precio</td>
+    <td>PUT</td>
+    <td>/api/v1/lawyers/{recordId}/price</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/lawyers/1/price</td>
+    <td>200 OK: Actualiza el precio del abogado especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers/{recordId}/YearExperience</td>
+    <td>Actualizar años de experiencia</td>
+    <td>PUT</td>
+    <td>/api/v1/lawyers/{recordId}/YearExperience</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/lawyers/1/YearExperience</td>
+    <td>200 OK: Actualiza los años de experiencia del abogado especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers/{recordId}/WonCases</td>
+    <td>Actualizar casos ganados</td>
+    <td>PUT</td>
+    <td>/api/v1/lawyers/{recordId}/WonCases</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/lawyers/1/WonCases</td>
+    <td>200 OK: Actualiza los casos ganados del abogado especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers</td>
+    <td>Listar abogados</td>
+    <td>GET</td>
+    <td>/api/v1/lawyers</td>
+    <td>-</td>
+    <td>GET /api/v1/lawyers</td>
+    <td>200 OK: Devuelve una lista de todos los abogados.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers</td>
+    <td>Crear abogado</td>
+    <td>POST</td>
+    <td>/api/v1/lawyers</td>
+    <td>-</td>
+    <td>POST /api/v1/lawyers</td>
+    <td>201 Created: Crea un nuevo abogado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers/{userId}/user</td>
+    <td>Obtener abogado por usuario</td>
+    <td>GET</td>
+    <td>/api/v1/lawyers/{userId}/user</td>
+    <td>userId</td>
+    <td>GET /api/v1/lawyers/1/user</td>
+    <td>200 OK: Devuelve los detalles del abogado para el usuario especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers/{recordId}/medic-defense-record</td>
+    <td>Obtener registro de defensa médica</td>
+    <td>GET</td>
+    <td>/api/v1/lawyers/{recordId}/medic-defense-record</td>
+    <td>recordId</td>
+    <td>GET /api/v1/lawyers/1/medic-defense-record</td>
+    <td>200 OK: Devuelve el registro de defensa médica del abogado especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers/{profileId}/profile</td>
+    <td>Obtener perfil del abogado</td>
+    <td>GET</td>
+    <td>/api/v1/lawyers/{profileId}/profile</td>
+    <td>profileId</td>
+    <td>GET /api/v1/lawyers/1/profile</td>
+    <td>200 OK: Devuelve el perfil del abogado especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/speciality</td>
+    <td>Listar especialidades</td>
+    <td>GET</td>
+    <td>/api/v1/speciality</td>
+    <td>-</td>
+    <td>GET /api/v1/speciality</td>
+    <td>200 OK: Devuelve una lista de todas las especialidades.</td>
+  </tr>
+  <tr>
+    <td>/ap/v1/roles</td>
+    <td>Listar roles</td>
+    <td>GET</td>
+    <td>/ap/v1/roles</td>
+    <td>-</td>
+    <td>GET /ap/v1/roles</td>
+    <td>200 OK: Devuelve una lista de todos los roles.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/users</td>
+    <td>Listar usuarios</td>
+    <td>GET</td>
+    <td>/api/v1/users</td>
+    <td>-</td>
+    <td>GET /api/v1/users</td>
+    <td>200 OK: Devuelve una lista de todos los usuarios.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/users/{userId}</td>
+    <td>Obtener usuario</td>
+    <td>GET</td>
+    <td>/api/v1/users/{userId}</td>
+    <td>userId</td>
+    <td>GET /api/v1/users/1</td>
+    <td>200 OK: Devuelve los detalles del usuario con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/universities</td>
+    <td>Listar universidades</td>
+    <td>GET</td>
+    <td>/api/v1/universities</td>
+    <td>-</td>
+    <td>GET /api/v1/universities</td>
+    <td>200 OK: Devuelve una lista de todas las universidades.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/universities</td>
+    <td>Crear universidad</td>
+    <td>POST</td>
+    <td>/api/v1/universities</td>
+    <td>-</td>
+    <td>POST /api/v1/universities</td>
+    <td>201 Created: Crea una nueva universidad.</td>
+  </tr>
+</table>
+
+
+Capturas de interaccion:
+
+Enpoints:
+
+![alt text](../assets/imgs/endpoint-backendv2.png)
+
+Sing-In:
+
+![alt text](../assets/imgs/sing-ininteractionv2.png)
+
+Sing-Up:
+
+![alt text](../assets/imgs/sing-upinteractionv2.png)
+
+Lawyers:
+
+![alt text](../assets/imgs/lawyerinteractionsv2.png)
+
+Search Lawyers:
+
+![alt text](../assets/imgs/searchlawyerinteractionsv2.png)
+
+Summary:
+
+![alt text](../assets/imgs/summaryinteractionv2.png)
+
+Profile:
+
+![alt text](../assets/imgs/profileinteractionv2.png)
+
+Educational Resources:
+
+![alt text](../assets/imgs/educationalresourcesinteractionv2.png)
+
+Url del repositorio Frontend: https://github.com/Open-Source-Grupo-Testigos-de-Jehova/frontend-app
+Url del repositorio Backend: https://github.com/Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense
+
+Commits relacionados: 
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Carlos_Avellaneda</td>
+        <td colspan="2">ef480ccd255b89447523f90e8efc7a947a490001</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Anatoly_noriega</td>
+        <td colspan="2">b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Augusto_Vasquez</td>
+        <td colspan="2">6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Diego_Flores</td>
+        <td colspan="2">4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Gabriel_Garcia-and-Fabricio_Apaza</td>
+        <td colspan="2">df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+</table>    
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Para el desarrollo de la segunda version de Web Services y el Frontend Web Application, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
+
+![alt text](<../assets/imgs/Evidence Frontend.png>)
+
+![alt text](<../assets/imgs/Evidence Backend.png>)
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+**Commits:**
+
+![alt text](<../assets/imgs/Evidence Frontendv2.png>)
+
+![alt text](<../assets/imgs/Evidence Backendv2.png>)
+
+**Analiticas de Colaboración:**
+
+![alt text](<../assets/imgs/NetworkGraph Frontendv2.png>)
+
+![alt text](<../assets/imgs/NetworkGraph Backendv2.png>)
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
