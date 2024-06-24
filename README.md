@@ -80,23 +80,31 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 **URL del Repositorio del Informe:** https://github.com/Open-Source-Grupo-Testigos-de-Jehova/Informe-Final
 
 **Entrega N°1: TB1**
+<br>
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
 
 ![Git hub contributors TB1](<../Informe-Final/assets/imgs/TB1OS.png>)
+<br>
+
 **Entrega N°2: TP1**
+<br>
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas a corregir para cada capitulo permitiendo asi mejorar el informe y a la vez anvazar con el forntend application
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
 ![Git hub contributors TP](<../Informe-Final/assets/imgs/TPOS.png>)
+<br>
+
 **Entrega N°3: TB2**
+<br>
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas a corregir para cada capitulo permitiendo asi mejorar el informe y a la vez anvazar con el frontend application
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
 ![Git hub contributors TB2](<../Informe-Final/assets/imgs/TB2OS.png>)
 
 **Entrega N°4: TF**
+<br>
 - Todos los miembros del equipo contribuyeron en esta ultima entrega, tanto en corregir los errores del informe, y la implementacion requerida del front y back end.
 A continuacion, se presentará la evidencia que muestra los análisis de colaboración y commits en el repositorio del informe realizados por los miembros del equipo durante las entregas realizadas:
 
